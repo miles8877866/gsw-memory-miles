@@ -1,0 +1,23 @@
+{
+    "text": "As the lights came up, illuminating the grand interior of St. Patrick's Cathedral, the woman knew with chilling certainty that the woman's real ordeal was only just beginning.",
+    "doc_idx": 8,
+    "chunk_idx": 12,
+    "global_id": "8_12",
+    "start_sentence": 36,
+    "end_sentence": 38,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding sentence of the narrative, where the protagonist realizes the play was a facade for something dangerous.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "St. Patrick's Cathedral"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"St. Patrick's Cathedral\"\n    }\n]\n}\n```"
+    }
+}

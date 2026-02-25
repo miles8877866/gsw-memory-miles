@@ -1,0 +1,23 @@
+{
+    "text": "The participant flexed the participant's fingers, anticipation building in the participant's chest as the participant prepared for the night's challenges. At Bethpage Black Course, Ezra Edwards demonstrated cat leaps with a grace that belied the difficulty of the maneuver. The other participants watched in awe as Ezra Edwards effortlessly cleared the gap between two towering structures.",
+    "doc_idx": 0,
+    "chunk_idx": 1,
+    "global_id": "0_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the beginning of a parkour workshop, focusing on the participant's anticipation and a demonstration by another participant named Ezra Edwards.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Bethpage Black Course"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"Bethpage Black Course\"\n    }\n  ]\n}\n```"
+    }
+}

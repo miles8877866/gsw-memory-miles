@@ -1,0 +1,38 @@
+{
+    "text": "Lilah Hamilton gathered the group for a final pep talk, praising the group's progress. Owen Thomas stood a little straighter, chest puffed out with pride. That is, until Rocco Cormier slapped Owen Thomas on the back, sending Owen Thomas stumbling forward.",
+    "doc_idx": 17,
+    "chunk_idx": 9,
+    "global_id": "17_9",
+    "start_sentence": 27,
+    "end_sentence": 30,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "The passage describes the end of Owen Thomas's first parkour workshop, where he reflects on his clumsy performance and receives encouragement from the instructor and a fellow participant.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [
+                    "e1",
+                    "e2",
+                    "e3",
+                    "e4"
+                ],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [
+                    "e1",
+                    "e2",
+                    "e3",
+                    "e4"
+                ],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"entity_nodes\": [\n    {\n      \"id\": \"e1\",\n      \"name\": \"Lilah Hamilton\",\n      \"roles\": [\n        \"leader\"\n      ],\n      \"states\": []\n    },\n    {\n      \"id\": \"e2\",\n      \"name\": \"group\",\n      \"roles\": [\n        \"team\"\n      ],\n      \"states\": []\n    },\n    {\n      \"id\": \"e3\",\n      \"name\": \"Owen Thomas\",\n      \"roles\": [\n        \"member\"\n      ],\n      \"states\": []\n    },\n    {\n      \"id\": \"e4\",\n      \"name\": \"Rocco Cormier\",\n      \"roles\": [\n        \"member\"\n      ],\n      \"states\": []\n    }\n  ],\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\",\n        \"e3\",\n        \"e4\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": null\n    },\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\",\n        \"e3\",\n        \"e4\"\n      ],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+    }
+}

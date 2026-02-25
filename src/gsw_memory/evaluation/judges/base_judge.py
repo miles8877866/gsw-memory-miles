@@ -1,4 +1,4 @@
-"""
+﻿"""
 Abstract base class for evaluation judges.
 
 This module provides the interface that all judges (LLM-based or otherwise)
@@ -69,3 +69,4 @@ class BaseJudge(ABC):
             Dictionary with aggregate metrics (e.g., average precision, recall, F1)
         """
         pass
+

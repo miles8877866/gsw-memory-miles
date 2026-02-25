@@ -1,0 +1,28 @@
+{
+    "text": "Mila Gonzalez opened Mila Gonzalez's eyes, gazing up at the towering figure that had borne silent witness to Mila Gonzalez's performance. The Statue of Liberty stood sentinel, the Statue of Liberty's torch held high, a beacon of hope and possibility. As the last echoes of applause faded into the night, Mila Gonzalez knew that this was only the beginning of an extraordinary journey.",
+    "doc_idx": 18,
+    "chunk_idx": 9,
+    "global_id": "18_9",
+    "start_sentence": 27,
+    "end_sentence": 30,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage concludes the scene, describing Mila's feelings and a symbolic image after her performance.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

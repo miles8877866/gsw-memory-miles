@@ -1,4 +1,4 @@
-"""
+﻿"""
 Entity matching strategies and indices for the GSW reconciler.
 
 This module provides different approaches for indexing and matching entities
@@ -201,7 +201,7 @@ class ExactMatchStrategy(MatchingStrategy):
 
     def __init__(
         self,
-        model_name: str = "gpt-4o",
+        model_name: str = "gemini/gemini-2.0-flash",
         generation_params: Optional[Dict[str, float]] = None,
     ):
         """Initialize with model name and generation parameters."""
@@ -579,7 +579,7 @@ class EmbeddingEntityIndex(EntityIndex):
         try:
             self.gpu_resources = faiss.StandardGpuResources()
         except Exception as e:
-            print(f"⚠️ Warning: Could not initialize GPU resources: {e}")
+            print(f"?? Warning: Could not initialize GPU resources: {e}")
 
     def add_entities(self, entities: List[EntityNode], batch_size: int = 32):
         """Add new entities to the index."""
@@ -685,7 +685,7 @@ class EmbeddingMatchStrategy(MatchingStrategy):
     def __init__(
         self,
         k: int = 5,
-        model_name: str = "gpt-4o",
+        model_name: str = "gemini/gemini-2.0-flash",
         generation_params: Optional[Dict[str, float]] = None,
     ):
         """Initialize the strategy."""
@@ -798,7 +798,7 @@ def create_matching_components(
     """
     if approach == "exact":
         strategy = ExactMatchStrategy(
-            model_name=kwargs.get("model_name", "gpt-4o"),
+            model_name=kwargs.get("model_name", "gemini/gemini-2.0-flash"),
             generation_params=kwargs.get(
                 "generation_params", {"temperature": 0.0, "max_tokens": 500}
             ),
@@ -815,7 +815,7 @@ def create_matching_components(
 
         strategy = EmbeddingMatchStrategy(
             k=kwargs.get("k", 5),
-            model_name=kwargs.get("model_name", "gpt-4o"),
+            model_name=kwargs.get("model_name", "gemini/gemini-2.0-flash"),
             generation_params=kwargs.get("generation_params", {"temperature": 0.0}),
         )
         index = EmbeddingEntityIndex(embedding_dim=kwargs.get("embedding_dim", 1024))
@@ -825,3 +825,4 @@ def create_matching_components(
         raise ValueError(
             f"Unknown matching approach: {approach}. Use 'exact' or 'embedding'."
         )
+

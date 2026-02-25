@@ -1,0 +1,17 @@
+{
+    "text": "The woman felt as though the woman were balancing on a knife's edge, poised between revelation and oblivion. In the final moments of the play, as the actors took their bows to thunderous applause, a realization struck the woman with the force of a physical blow. The entire performance had been a carefully orchestrated ruse, a smokescreen for something far more sinister.",
+    "doc_idx": 8,
+    "chunk_idx": 11,
+    "global_id": "8_11",
+    "start_sentence": 33,
+    "end_sentence": 36,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk describes the climax of the play, where the woman realizes the performance was a deceptive facade.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

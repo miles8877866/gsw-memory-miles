@@ -1,0 +1,23 @@
+{
+    "text": "\"\n\nJulian Ross glanced at Julian Ross's smartwatch, the display reading May 31, 2024. Time seemed to stretch as Julian Ross immersed himself in the digital forensics, Julian Ross's fingers flying across the keys. The world outside faded away, replaced by a landscape of data streams and encrypted messages.",
+    "doc_idx": 15,
+    "chunk_idx": 5,
+    "global_id": "15_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Julian Ross is alerted to a security breach at the hackathon and begins working to identify and contain the threat.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "May 31, 2024"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"May 31, 2024\"\n    }\n]\n}\n```"
+    }
+}

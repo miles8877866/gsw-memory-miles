@@ -1,0 +1,17 @@
+{
+    "text": "missing. can't believe it. what are we going to do.",
+    "doc_idx": 1,
+    "chunk_idx": 4,
+    "global_id": "1_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival on a bridge, overhears a snippet of conversation hinting at something missing, piquing his curiosity.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

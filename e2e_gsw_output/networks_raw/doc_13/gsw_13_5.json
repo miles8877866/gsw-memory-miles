@@ -1,0 +1,17 @@
+{
+    "text": "The spotlight blinded Zoe Brown momentarily, and Zoe Brown blinked rapidly, willing Zoe Brown's eyes to adjust. As the first chords struck, a hush fell over the crowd. Zoe Brown performed with live band accompaniment, Zoe Brown's voice blending seamlessly with the instruments.",
+    "doc_idx": 13,
+    "chunk_idx": 5,
+    "global_id": "13_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown is about to perform on stage at an outdoor event in Hither Hills State Park.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

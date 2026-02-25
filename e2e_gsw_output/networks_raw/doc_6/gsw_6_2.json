@@ -1,0 +1,17 @@
+{
+    "text": "The weight of the night's significance pressed upon Levi Rodriguez, a burden as heavy as the secrets of the universe itself. Quill Womack approached, a glint of curiosity in Quill Womack's eyes. \"Quite the turnout tonight,\" Quill Womack remarked, scanning the crowd.",
+    "doc_idx": 6,
+    "chunk_idx": 2,
+    "global_id": "6_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Levi Rodriguez is about to begin a presentation at the planetarium.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

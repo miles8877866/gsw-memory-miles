@@ -1,0 +1,28 @@
+{
+    "text": "The air crackled with anticipation as Mila Gonzalez stepped onto the makeshift stage, Mila Gonzalez's heart pounding in rhythm with the distant waves. Mila Gonzalez performed a dramatic scene, Mila Gonzalez's voice carrying across the gathering crowd, each word imbued with a magic that seemed to shimmer in the fading daylight. The onlookers gasped, their eyes widening as Mila Gonzalez wove Mila Gonzalez's tale, Mila Gonzalez's gestures painting vivid pictures against the backdrop of metal and stone.",
+    "doc_idx": 18,
+    "chunk_idx": 0,
+    "global_id": "18_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This paragraph describes Mila Gonzalez beginning her performance on a makeshift stage, captivating the audience with her storytelling.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "makeshift stage"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "fading daylight"
+            }
+        ],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"makeshift stage\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"fading daylight\"\n    }\n  ]\n}\n```"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "text": "The path ahead wound through shadowy trees, leading to a clearing where laughter and the occasional off-key note drifted on the breeze. As Zoe Brown approached the makeshift stage, Zoe Brown's heart raced with anticipation. Hither Hills State Park's usual serenity had been transformed into a vibrant hub of activity.",
+    "doc_idx": 13,
+    "chunk_idx": 1,
+    "global_id": "13_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown arrives at Hither Hills State Park for an open mic night.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Hither Hills State Park"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Hither Hills State Park\"\n    }\n]\n}\n```"
+    }
+}

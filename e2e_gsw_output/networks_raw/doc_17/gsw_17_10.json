@@ -1,0 +1,23 @@
+{
+    "text": "\"Same time next week, sonny. \" Rocco Cormier chirped. Owen Thomas nodded weakly, already dreading what new ways Owen Thomas would find to embarrass Owen Thomas.",
+    "doc_idx": 17,
+    "chunk_idx": 10,
+    "global_id": "17_10",
+    "start_sentence": 30,
+    "end_sentence": 33,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk concludes the narrative about Owen Thomas's first parkour workshop, highlighting his mixed feelings of accomplishment and apprehension about future sessions.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "Same time next week"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"Same time next week\"\n    }\n]\n}\n```"
+    }
+}

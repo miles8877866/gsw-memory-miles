@@ -1,0 +1,23 @@
+{
+    "text": "The grand halls of the Woolworth Building echoed with the excited chatter of beer enthusiasts. Scarlett Thomas weaved through the crowd, dodging Meredith Lester's impressive beer belly and narrowly avoiding a collision with Presley Lunt, who was attempting to balance seven tasting glasses in one hand. \"Excuse me, pardon me, coming through.",
+    "doc_idx": 4,
+    "chunk_idx": 1,
+    "global_id": "4_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Scarlett Thomas navigating the crowded craft beer festival at the Woolworth Building.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Woolworth Building"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Woolworth Building\"\n    }\n]\n}\n```"
+    }
+}

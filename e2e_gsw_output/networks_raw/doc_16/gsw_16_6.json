@@ -1,0 +1,17 @@
+{
+    "text": "\" Creed Berlin said, gesturing to the slowly melting sculptures around them. Benjamin Green nodded, unable to form words around the lump in Benjamin Green's throat. Creed Berlin continued, oblivious to Benjamin Green's distress, \"I heard there used to be an expert who gave talks about preserving these beauties.",
+    "doc_idx": 16,
+    "chunk_idx": 6,
+    "global_id": "16_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After reflecting on his past, Benjamin Green is approached by a visitor who unknowingly references Green's former expertise in ice preservation.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

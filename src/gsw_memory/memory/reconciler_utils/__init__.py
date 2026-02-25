@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Reconciler Components - Entity matching strategies and indices.
 
 This module provides matching strategies and entity indices for the GSW reconciler,
@@ -24,3 +24,4 @@ __all__ = [
     "MatchingStrategy",
     "EntityIndex",
 ]
+

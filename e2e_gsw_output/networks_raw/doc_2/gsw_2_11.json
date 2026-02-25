@@ -1,0 +1,17 @@
+{
+    "text": "The day had been filled with wonder, creativity, and unexpected connections. Jonah Kramer took one last look at the slowly melting sculptures, committing the scene to memory. Whatever the future held, Jonah Kramer knew this day would remain frozen in time, a perfect moment captured like the very ice that had brought the day to life.",
+    "doc_idx": 2,
+    "chunk_idx": 11,
+    "global_id": "2_11",
+    "start_sentence": 33,
+    "end_sentence": 36,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding paragraph of the story, summarizing Jonah Kramer's experience at the ice sculpture exhibition and its lasting impact on him.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

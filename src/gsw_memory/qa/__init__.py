@@ -1,4 +1,4 @@
-"""
+﻿"""
 Q&A module for GSW Memory System.
 
 This module provides question-answering capabilities for the GSW framework,
@@ -22,3 +22,4 @@ __all__ = [
     "GSWQuestionAnswerer",
     "AnsweringAgent",
 ]
+

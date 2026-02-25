@@ -1,0 +1,28 @@
+{
+    "text": "Zoe Brown's heart fluttered, and Zoe Brown wondered if perhaps this hackathon might lead to more than just technological breakthroughs. As the day drew to a close, Zoe Brown gathered Zoe Brown's courage and approached Remy Waterman, ready to share Zoe Brown's ideas and perhaps explore the chemistry that seemed to crackle between Remy Waterman and Zoe Brown.",
+    "doc_idx": 7,
+    "chunk_idx": 5,
+    "global_id": "7_5",
+    "start_sentence": 15,
+    "end_sentence": 17,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown attends a tech hackathon, becomes engrossed in her project, but is also distracted by a connection with Remy Waterman.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "As the day drew to a close"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "hackathon"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"As the day drew to a close\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"hackathon\"\n    }\n]\n}\n```"
+    }
+}

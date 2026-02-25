@@ -1,0 +1,28 @@
+{
+    "text": "The crisp air nipped at Jonah Kramer's cheeks as Jonah Kramer strolled through Washington Square Park, Jonah Kramer's eyes drawn to the glistening forms emerging from blocks of ice. Sculptors wielded the sculptors' tools with precision, coaxing delicate shapes from frozen canvases. Jonah Kramer paused, mesmerized by the transformation taking place before Jonah Kramer, Jonah Kramer's breath forming small clouds in the unseasonably cool spring air.",
+    "doc_idx": 2,
+    "chunk_idx": 0,
+    "global_id": "2_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening paragraph, introducing Jonah Kramer and setting the scene at an ice sculpture exhibition in Washington Square Park.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Washington Square Park"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "spring"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"spring\"\n    }\n]\n}\n```"
+    }
+}

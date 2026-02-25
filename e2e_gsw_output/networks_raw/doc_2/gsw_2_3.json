@@ -1,0 +1,23 @@
+{
+    "text": "The artist had captured the essence of motion in stillness, and Jonah Kramer longed to run Jonah Kramer's fingers over the icy surface. Karsyn Schaeffer noticed Jonah Kramer's fascination and gently took Jonah Kramer's hand, leading Jonah Kramer closer for a better view. Washington Square Park bustled with activity, families and couples alike marveling at the frozen artworks.",
+    "doc_idx": 2,
+    "chunk_idx": 3,
+    "global_id": "2_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer and Karsyn Schaeffer are exploring the ice sculpture exhibition in Washington Square Park.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Washington Square Park"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    }\n]\n}\n```"
+    }
+}

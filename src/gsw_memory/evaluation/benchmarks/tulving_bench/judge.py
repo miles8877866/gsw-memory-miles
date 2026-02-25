@@ -1,4 +1,4 @@
-"""
+﻿"""
 Tulving Bench specific LLM judge implementation.
 
 This module provides the LLM judge for evaluating Q&A responses using the
@@ -6,6 +6,7 @@ Tulving Bench methodology, including prompt structure, response parsing,
 and metrics calculation specific to Tulving Bench.
 """
 
+import os
 import json
 import re
 from typing import Any, Dict, List, Optional
@@ -20,6 +21,15 @@ class TulvingBenchJudge(BaseJudge, curator.LLM):
     """LLM-as-a-judge for Tulving Bench evaluation with integrated metrics calculation."""
 
     return_completions_object = True
+    require_all_responses = False
+
+    def __init__(self, **kwargs):
+        # Pop parameters that curator doesn't like in __init__
+        kwargs.pop("max_concurrent_requests", None)
+        kwargs.pop("require_all_responses", None)
+        
+        super().__init__(**kwargs)
+        self.require_all_responses = False
 
     def prompt(self, input_data):
         """Create a prompt for the judge LLM to evaluate an answer using Tulving Bench methodology."""
@@ -196,9 +206,21 @@ Provide your evaluation in the following JSON format:
                 "answer_type": answer_type,
             })
 
-        # Run evaluation
-        results = self(evaluation_inputs)
-        return results.dataset
+        # Run evaluation (Sequential fallback for Windows/Robustness)
+        if os.name == 'nt' or kwargs.get("sequential", False):
+            print(f"--- Evaluating {len(evaluation_inputs)} answers sequentially ---")
+            from tqdm import tqdm
+            evaluation_results = []
+            for inp in tqdm(evaluation_inputs, desc="Judging"):
+                try:
+                    res = self([inp])
+                    evaluation_results.extend(res.dataset)
+                except Exception as e:
+                    print(f"Warning: Judge evaluation failed for question: {inp.get('question')[:50]}... Error: {e}")
+            return evaluation_results
+        else:
+            results = self(evaluation_inputs)
+            return results.dataset
 
     def evaluate_single(
         self,
@@ -259,3 +281,4 @@ Provide your evaluation in the following JSON format:
         )
 
         return {"precision": float(precision), "recall": float(recall), "f1": float(f1)}
+

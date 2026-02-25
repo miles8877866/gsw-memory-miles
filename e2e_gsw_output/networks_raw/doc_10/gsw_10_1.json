@@ -1,0 +1,17 @@
+{
+    "text": "Hazel Lewis had organized historical fashion shows for years, but this reenactment felt different. The costumes seemed too authentic, the participants too invested in their roles. As Hazel Lewis surveyed the scene, a shiver ran down Hazel Lewis's spine, and Hazel Lewis couldn't shake the feeling that something was terribly wrong.",
+    "doc_idx": 10,
+    "chunk_idx": 1,
+    "global_id": "10_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Hazel Lewis's initial unease at the historical reenactment, highlighting the heightened realism and foreshadowing the supernatural events to come.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

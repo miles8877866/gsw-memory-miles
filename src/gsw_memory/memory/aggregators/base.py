@@ -1,4 +1,4 @@
-"""
+﻿"""
 Base classes for GSW aggregation.
 
 This module defines the abstract interfaces and data structures used by all
@@ -77,3 +77,4 @@ class BaseAggregator(ABC):
             A formatted string for LLM context
         """
         pass
+

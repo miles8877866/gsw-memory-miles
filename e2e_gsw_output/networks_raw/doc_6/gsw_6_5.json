@@ -1,0 +1,17 @@
+{
+    "text": "The microphone crackled to life, and Levi Rodriguez began to speak, Levi Rodriguez's words weaving a tapestry of celestial wonder and earthly intrigue. As the night progressed, the atmosphere grew electric with competition and camaraderie. Levi Rodriguez hosted astronomy trivia contests, Levi Rodriguez's questions probing not just the depths of space but the minds of those present.",
+    "doc_idx": 6,
+    "chunk_idx": 5,
+    "global_id": "6_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Levi Rodriguez begins his presentation at the planetarium and then hosts astronomy trivia, observing the audience closely.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

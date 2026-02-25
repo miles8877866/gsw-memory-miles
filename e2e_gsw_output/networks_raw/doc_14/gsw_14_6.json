@@ -1,0 +1,17 @@
+{
+    "text": "Uri Wemple's and Logan Diaz's conversation flowed effortlessly, touching on shared experiences and mutual acquaintances. Logan Diaz felt a connection forming, one that transcended mere professional courtesy. Logan Diaz couldn't help but feel a sense of satisfaction as Logan Diaz realized how much ground Logan Diaz had covered.",
+    "doc_idx": 14,
+    "chunk_idx": 6,
+    "global_id": "14_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After a successful networking event, Logan Diaz is approached by Uri Wemple, and they have a meaningful conversation.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

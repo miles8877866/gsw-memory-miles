@@ -1,0 +1,17 @@
+{
+    "text": "Zoe Brown nodded back, a small smile playing on Zoe Brown's lips as Zoe Brown made her way to the sign-up sheet. The emcee's voice boomed through the speakers, announcing the next performer. \"And now, ladies and gentlemen, please welcome to the stage.",
+    "doc_idx": 13,
+    "chunk_idx": 3,
+    "global_id": "13_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown arrives at the open mic night, greets a friend, and prepares to sign up before being unexpectedly called to the stage.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

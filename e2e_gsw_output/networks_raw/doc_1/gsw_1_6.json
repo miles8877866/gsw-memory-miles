@@ -1,0 +1,17 @@
+{
+    "text": "\"It's about the exhibitions. \" Henry Reed's stomach dropped. Henry Reed had hosted film poster exhibitions as a key feature of the festival, showcasing rare and valuable pieces from cinema history.",
+    "doc_idx": 1,
+    "chunk_idx": 6,
+    "global_id": "1_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the festival organizer, is interrupted by Oakley Goetz, who informs him of a problem related to the film poster exhibitions, a key feature of the event.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,4 +1,4 @@
-"""
+﻿"""
 Core data models for GSW Memory System.
 
 This module contains the primary data structures that represent the semantic
@@ -426,3 +426,4 @@ class GSWStructure(BaseModel):
                 for entity, count in connected_entities[:top_n]
             ]
         )
+

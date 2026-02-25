@@ -1,0 +1,17 @@
+{
+    "text": "Chloe Castillo tried to rationalize the fleeting shadow as a trick of the light, but a chill ran down Chloe Castillo's spine nonetheless. The first participants began to trickle in, their voices echoing unnaturally in the fog-shrouded space. Chloe Castillo hosted parkour film screening the previous night, and Chloe Castillo recognized a few faces from the event.",
+    "doc_idx": 3,
+    "chunk_idx": 3,
+    "global_id": "3_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Chloe Castillo's growing unease as she waits for participants to arrive at her parkour workshop, noting a strange atmosphere and a fleeting shadow.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

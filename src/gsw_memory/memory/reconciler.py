@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Memory Reconciler.
 
 This module contains the main Reconciler class that orchestrates the reconciliation
@@ -864,3 +864,4 @@ def reconcile_gsw_outputs(
         print("No output directory specified - results not saved")
 
     return final_results
+

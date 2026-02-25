@@ -1,0 +1,17 @@
+{
+    "text": "Panic erupted as the participants scattered, their feet pounding against the elevated pathway. Chloe Castillo found herself frozen in place, watching in disbelief as more of the park's features came to life around Chloe Castillo. The carefully tended plants began to writhe and reach out with thorny tendrils, while the benches groaned and shifted as if trying to stand.",
+    "doc_idx": 3,
+    "chunk_idx": 5,
+    "global_id": "3_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the immediate aftermath of a sculpture inexplicably turning its head, triggering a panic as the park itself begins to animate and attack the parkour workshop participants.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

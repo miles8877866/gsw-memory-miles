@@ -1,0 +1,17 @@
+{
+    "text": "The crisp autumn air carried the scent of buttered popcorn and anticipation as Henry Reed stepped onto the bustling bridge. Colorful banners fluttered overhead, announcing the annual cinematic extravaganza. Henry Reed adjusted his glasses, taking in the sight of eager film enthusiasts crowding around makeshift screens and chattering excitedly about their favorite directors.",
+    "doc_idx": 1,
+    "chunk_idx": 0,
+    "global_id": "1_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening scene, introducing Henry Reed and the cinematic extravaganza he organized on a bridge.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

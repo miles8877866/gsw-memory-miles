@@ -1,0 +1,17 @@
+{
+    "text": "The gentle rumble of traffic below added a constant backdrop to the festive atmosphere. As Henry Reed made his way through the throng, Henry Reed couldn't help but feel a sense of pride. This cinematic extravaganza was Henry Reed's brainchild, after all \u2013 transforming this iconic structure into a celebration of the silver screen.",
+    "doc_idx": 1,
+    "chunk_idx": 1,
+    "global_id": "1_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the protagonist, Henry Reed, arriving at the film festival he organized, highlighting his pride in the event.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

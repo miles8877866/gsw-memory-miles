@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Tools for Agentic Question Answering.
 
 This module provides tool functions that give agentic answering agents
@@ -60,7 +60,7 @@ class GSWTools:
             try:
                 self.gpu_resources = faiss.StandardGpuResources()
             except Exception as e:
-                print(f"⚠️ Warning: Could not initialize GPU resources: {e}")
+                print(f"?? Warning: Could not initialize GPU resources: {e}")
 
         # Cache directory for embeddings
         self.cache_dir = ".gsw_cache"
@@ -128,10 +128,10 @@ class GSWTools:
             print(f"Building embedding index from {total_entities} entities...")
             self._build_embedding_index()
         elif not EMBEDDING_AVAILABLE:
-            print("⚠️  Embedding search not available (missing dependencies)")
+            print("??  Embedding search not available (missing dependencies)")
             
         self._index_built = True
-        print(f"✅ Search index built successfully! {total_entities} entities indexed from {processed_files} files.")
+        print(f"??Search index built successfully! {total_entities} entities indexed from {processed_files} files.")
     
     def _build_search_index(self):
         """Build BM25 search index for entities (called lazily). Use build_index() for explicit building."""
@@ -183,13 +183,13 @@ class GSWTools:
                     self.entity_embeddings = faiss.vector_to_array(cpu_index.reconstruct_n(0, num_vectors))
                     self.entity_embeddings = self.entity_embeddings.reshape(num_vectors, -1)
 
-                    print(f"✅ Loaded FAISS GPU index with {num_vectors} cached embeddings")
+                    print(f"??Loaded FAISS GPU index with {num_vectors} cached embeddings")
                     return
                 else:
-                    print("⚠️ Cache size mismatch, rebuilding...")
+                    print("?? Cache size mismatch, rebuilding...")
 
             except Exception as e:
-                print(f"⚠️ Failed to load GPU cache: {e}, trying HNSW fallback...")
+                print(f"?? Failed to load GPU cache: {e}, trying HNSW fallback...")
 
         # Try to load from legacy HNSW cache and convert to GPU
         if self.gpu_resources is not None and os.path.exists(faiss_hnsw_cache) and os.path.exists(metadata_cache):
@@ -220,13 +220,13 @@ class GSWTools:
                     # Transfer to GPU
                     self.faiss_index = faiss.index_cpu_to_gpu(self.gpu_resources, self.gpu_device, cpu_index)
 
-                    print(f"✅ Converted HNSW cache to GPU index with {num_vectors} embeddings")
+                    print(f"??Converted HNSW cache to GPU index with {num_vectors} embeddings")
                     return
                 else:
-                    print("⚠️ Cache size mismatch, rebuilding...")
+                    print("?? Cache size mismatch, rebuilding...")
 
             except Exception as e:
-                print(f"⚠️ Failed to load HNSW cache: {e}, rebuilding...")
+                print(f"?? Failed to load HNSW cache: {e}, rebuilding...")
 
         # Build embeddings from scratch
         print("Building embeddings from scratch...")
@@ -266,7 +266,7 @@ class GSWTools:
 
                 # Save CPU FAISS index
                 faiss.write_index(cpu_index_for_save, faiss_index_cache)
-                print(f"💾 Saved FAISS GPU index to {faiss_index_cache}")
+                print(f"? Saved FAISS GPU index to {faiss_index_cache}")
 
                 # Save metadata with entity count
                 metadata_with_count = {
@@ -275,17 +275,17 @@ class GSWTools:
                 }
                 with open(metadata_cache, 'w') as f:
                     json.dump(metadata_with_count, f)
-                print(f"💾 Saved metadata")
+                print(f"? Saved metadata")
             except Exception as e:
-                print(f"⚠️ Failed to save cache: {e}")
+                print(f"?? Failed to save cache: {e}")
         else:
             # Fallback to CPU index if GPU not available
             cpu_index = faiss.IndexFlatIP(embedding_dim)
             cpu_index.add(self.entity_embeddings)
             self.faiss_index = cpu_index
-            print("⚠️ GPU not available, using CPU index")
+            print("?? GPU not available, using CPU index")
 
-        print(f"✅ Embedding index built with {len(entity_names)} entities")
+        print(f"??Embedding index built with {len(entity_names)} entities")
     
     def search_gsw(self, query: str, limit: int = 10) -> List[Dict[str, Any]]:
         """
@@ -622,3 +622,4 @@ class GSWTools:
             contexts.append(context)
         
         return contexts
+

@@ -1,0 +1,17 @@
+{
+    "text": "The theater was alive with hushed murmurs and the rustle of programs, a palpable energy pulsing through the space. As the lights dimmed further, the woman felt her heart rate quicken. The heavy curtains parted with a soft swish, revealing a stark stage bathed in an otherworldly glow.",
+    "doc_idx": 8,
+    "chunk_idx": 1,
+    "global_id": "8_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the atmosphere and the woman's anticipation as the play is about to begin.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

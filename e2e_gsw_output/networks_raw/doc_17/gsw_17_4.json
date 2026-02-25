@@ -1,0 +1,17 @@
+{
+    "text": "Ornate 19th-century buildings loomed before Owen Thomas, their intricate architecture seeming to mock Owen Thomas's lack of agility. Lilah Hamilton gestured towards a low wall, grinning mischievously. \"Time for some vaults, folks.",
+    "doc_idx": 17,
+    "chunk_idx": 4,
+    "global_id": "17_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After a break from spatial awareness exercises, the parkour group moves outside where Lilah Hamilton introduces vaulting exercises.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

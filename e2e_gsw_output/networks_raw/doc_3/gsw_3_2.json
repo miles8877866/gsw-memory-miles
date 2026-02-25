@@ -1,0 +1,17 @@
+{
+    "text": "The workshop participants hadn't arrived yet, and Chloe Castillo was alone with Chloe Castillo's thoughts and the increasingly oppressive atmosphere. As Chloe Castillo scanned the length of the park, Chloe Castillo's eyes caught a fleeting shadow darting between the carefully curated plantings. Chloe Castillo blinked, and the fleeting shadow was gone.",
+    "doc_idx": 3,
+    "chunk_idx": 2,
+    "global_id": "3_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Chloe Castillo's growing unease as she waits for participants to arrive at her parkour workshop, noticing a strange shadow and feeling increasingly isolated.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

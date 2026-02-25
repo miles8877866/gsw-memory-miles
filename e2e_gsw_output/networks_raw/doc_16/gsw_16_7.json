@@ -1,0 +1,28 @@
+{
+    "text": "Wonder whatever happened to the expert. \"\n\nThe irony was not lost on Benjamin Green as Benjamin Green stood there, surrounded by the very art Benjamin Green had once devoted Benjamin Green's life to protecting. As twilight descended upon Washington Square Park on February 27, 2026, Benjamin Green watched helplessly as droplets of water began to form on the sculptures' surfaces.",
+    "doc_idx": 16,
+    "chunk_idx": 7,
+    "global_id": "16_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the moment when Benjamin Green, a former ice preservation expert, is confronted with the decline of the ice sculptures and the fading memory of his past expertise.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Washington Square Park"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "February 27, 2026"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"February 27, 2026\"\n    }\n]\n}\n```"
+    }
+}

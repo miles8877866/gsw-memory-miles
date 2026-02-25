@@ -1,0 +1,28 @@
+{
+    "text": "Henry Reed, one of the sculptors, invited Jonah Kramer to try Jonah Kramer's hand at carving. With trepidation, Jonah Kramer accepted the offered chisel and approached a small block of ice. Under Henry Reed's guidance, Jonah Kramer began to shape the frozen mass, Jonah Kramer's movements clumsy at first but growing more confident with each strike.",
+    "doc_idx": 2,
+    "chunk_idx": 6,
+    "global_id": "2_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer, after admiring the ice sculptures and spending time with Karsyn Schaeffer, is invited by one of the sculptors to try carving ice himself.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

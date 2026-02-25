@@ -1,0 +1,23 @@
+{
+    "text": "Henry Reed nodded at Zander Davenport, a fellow organizer, who was frantically waving from a nearby information booth. Something seemed off about Zander Davenport's demeanor, but Henry Reed brushed it aside, focusing instead on the myriad of sights and sounds surrounding Henry Reed. Henry Reed checked his watch \u2013 2:24 PM on October 13, 2024.",
+    "doc_idx": 1,
+    "chunk_idx": 2,
+    "global_id": "1_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the festival's creator, arrives at the film festival he organized and notices a fellow organizer acting strangely, but dismisses it.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "October 13, 2024"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"October 13, 2024\"\n    }\n  ]\n}\n```"
+    }
+}

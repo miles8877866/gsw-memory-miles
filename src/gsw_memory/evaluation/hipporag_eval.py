@@ -1,4 +1,4 @@
-"""
+﻿"""
 HippoRAG-compatible evaluation utilities for fair comparison.
 
 This module implements the same evaluation methodology used by HippoRAG:
@@ -177,8 +177,8 @@ def format_evaluation_report(overall_results: Dict[str, float],
     if show_examples > 0:
         report_lines.append(f"\n=== Sample Results (first {show_examples}) ===")
         for i, result in enumerate(example_results[:show_examples]):
-            em_status = "✅" if result["ExactMatch"] == 1.0 else "❌"
-            f1_status = "✅" if result["F1"] > 0.5 else "❌"
+            em_status = "[PASS]" if result["ExactMatch"] == 1.0 else "[FAIL]"
+            f1_status = "[GOOD]" if result["F1"] > 0.5 else "[POOR]"
             
             report_lines.append(f"\nExample {i+1}:")
             report_lines.append(f"  Predicted: {result['predicted_answer']}")
@@ -187,3 +187,4 @@ def format_evaluation_report(overall_results: Dict[str, float],
             report_lines.append(f"  F1: {result['F1']:.3f} {f1_status}")
     
     return "\n".join(report_lines)
+

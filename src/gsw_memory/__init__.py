@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Memory Package
 
 A clean, packageable implementation of Generative Semantic Workspaces (GSW)
@@ -20,14 +20,14 @@ from gsw_memory import GSWProcessor, reconcile_gsw_outputs, GSWQuestionAnswerer
 from gsw_memory.memory.aggregators import EntitySummaryAggregator
 
 # Process documents
-processor = GSWProcessor(model_name="gpt-4o")
+processor = GSWProcessor(model_name="gemini/gemini-2.0-flash")
 gsw_structures = processor.process_documents(documents)
 
 # Reconcile with local strategy (keeps documents separate)
 reconciled_gsws = reconcile_gsw_outputs(gsw_structures, strategy="local")
 
 # Generate entity summaries for each document
-llm_config = {"model_name": "gpt-4o", "generation_params": {"temperature": 0.0}}
+llm_config = {"model_name": "gemini/gemini-2.0-flash", "generation_params": {"temperature": 0.0}}
 aggregators = []
 for gsw in reconciled_gsws:
     aggregator = EntitySummaryAggregator(gsw, llm_config)
@@ -111,3 +111,4 @@ __all__ = [
 
 def main() -> None:
     print("Hello from gsw-memory!")
+

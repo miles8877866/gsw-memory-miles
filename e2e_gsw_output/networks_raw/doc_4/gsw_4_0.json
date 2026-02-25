@@ -1,0 +1,33 @@
+{
+    "text": "The cacophony of clinking glasses and raucous laughter filled the air as the craft beer festival reached its frothy peak on October 13, 2024. Amidst the chaos, a red-haired woman darted between tasting booths, her clipboard clutched tightly to her chest. Scarlett Thomas had organized homebrewing workshops for this event, but now Scarlett Thomas found herself caught in a whirlwind of hoppy madness.",
+    "doc_idx": 4,
+    "chunk_idx": 0,
+    "global_id": "4_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening paragraph, introducing the main character, Scarlett Thomas, and the setting of a chaotic craft beer festival she helped organize.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "October 13, 2024"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "tasting booths"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "craft beer festival"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"October 13, 2024\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"tasting booths\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"craft beer festival\"\n    }\n  ]\n}\n```"
+    }
+}

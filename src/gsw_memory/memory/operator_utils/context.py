@@ -1,4 +1,4 @@
-"""
+﻿"""
 Context Generation Operator.
 
 This module contains the ContextGenerator class for generating chunk-specific
@@ -37,3 +37,4 @@ class ContextGenerator(curator.LLM):
                 "global_id": input.get("global_id", "unknown"),
             }
         ]
+

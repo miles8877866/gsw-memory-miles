@@ -1,0 +1,17 @@
+{
+    "text": "Zoe Brown couldn't shake the feeling of being watched, a prickle of unease creeping up Zoe Brown's spine. When Zoe Brown turned to look, Zoe Brown caught a glimpse of a figure retreating into the darkness, leaving behind nothing but questions and a lingering sense of mystery.",
+    "doc_idx": 13,
+    "chunk_idx": 8,
+    "global_id": "13_8",
+    "start_sentence": 24,
+    "end_sentence": 26,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the aftermath of Zoe Brown's performance, where she experiences a feeling of being watched and sees a mysterious figure.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

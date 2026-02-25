@@ -1,0 +1,28 @@
+{
+    "text": "Jonah Kramer found himself lingering near a particularly intricate piece, a delicate fairytale castle complete with tiny ice flags fluttering from the fairytale castle's towers. As twilight approached, strings of lights illuminated the ice sculpture exhibition, bathing the ice in a warm, golden glow. The atmosphere shifted, becoming more intimate and romantic.",
+    "doc_idx": 2,
+    "chunk_idx": 8,
+    "global_id": "2_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "As the day transitions to evening at the ice sculpture exhibition, Jonah Kramer is captivated by a fairytale castle sculpture as the scene becomes illuminated and romantic.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "ice sculpture exhibition"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "twilight"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"ice sculpture exhibition\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"twilight\"\n    }\n]\n}\n```"
+    }
+}

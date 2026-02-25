@@ -1,4 +1,4 @@
-"""
+﻿"""
 Summary reranking using VoyageAI embeddings and cosine similarity.
 
 This module implements the fourth step of the Q&A pipeline:
@@ -156,3 +156,4 @@ class SummaryReranker:
         ]
 
         return final_reranked_summaries
+

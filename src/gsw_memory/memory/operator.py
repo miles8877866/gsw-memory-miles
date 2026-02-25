@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Memory Main Operator.
 
 This module contains the main GSWProcessor class that orchestrates the complete
@@ -26,7 +26,7 @@ class GSWProcessor:
 
     def __init__(
         self,
-        model_name: str = "gpt-4o",
+        model_name: str = "gemini/gemini-2.0-flash",
         vllm_base_url: str = "http://127.0.0.1:6379/v1",
         generation_params: Optional[Dict] = None,
         enable_coref: bool = True,
@@ -325,7 +325,11 @@ class GSWProcessor:
             if "gemini" in self.model_name.lower() or "google" in self.model_name.lower():
                 backend = "litellm"
             
-            if self.batched:
+            # Windows workaround: curator's multiprocessing/asyncio can hang.
+            # We'll use a local loop to process one by one if requested or as a fallback.
+            use_sequential_fallback = os.name == 'nt'
+
+            if self.batched and not use_sequential_fallback:
                 gsw_model = GSWOperator(
                     model_name=self.model_name,
                     generation_params=self.generation_params,
@@ -334,6 +338,7 @@ class GSWProcessor:
                     response_format=GSWStructure,  # Use constrained decoding
                     batch=self.batched,
                     backend_params={"batch_size": self.batch_size,
+                                    "max_concurrent_requests": 1,
                                     "require_all_responses": False},
                 )
             else:
@@ -343,8 +348,9 @@ class GSWProcessor:
                     prompt_type=self.prompt_type,
                     backend=backend,
                     response_format=GSWStructure,  # Use constrained decoding
-                    batch=self.batched,
-                    backend_params={"require_all_responses": False},
+                    batch=False,
+                    backend_params={"max_concurrent_requests": 1,
+                                    "require_all_responses": False},
                 )
 
         # Prepare GSW inputs from all chunks across all documents
@@ -362,8 +368,26 @@ class GSWProcessor:
                 }
                 gsw_inputs.append(gsw_input)
 
-        # Generate all GSWs in parallel
-        gsw_response = gsw_model(gsw_inputs)
+        # Generate all GSWs
+        if os.name == 'nt':
+            print(f"--- Generating GSWs sequentially for {len(gsw_inputs)} inputs (Windows Workaround) ---")
+            from tqdm import tqdm
+            gsw_results_list = []
+            for inp in tqdm(gsw_inputs, desc="Processing GSWs"):
+                try:
+                    # Direct call to the operator
+                    res = gsw_model([inp])
+                    gsw_results_list.extend(res.dataset)
+                except Exception as e:
+                    print(f"Warning: Sequential GSW generation failed for {inp.get('global_id')}: {e}")
+            
+            # Mock the curator Response object structure enough for the loop below
+            class MockResponse:
+                def __init__(self, dataset):
+                    self.dataset = dataset
+            gsw_response = MockResponse(gsw_results_list)
+        else:
+            gsw_response = gsw_model(gsw_inputs)
 
         for response in gsw_response.dataset: #TODO: Check if this is correct
             try:
@@ -663,7 +687,7 @@ class GSWProcessor:
 
 if __name__ == "__main__":
     processor = GSWProcessor(
-        model_name="gpt-4o",
+        model_name="gemini/gemini-2.0-flash",
         enable_coref=False,
         enable_chunking=False,
         enable_context=False,
@@ -682,3 +706,4 @@ if __name__ == "__main__":
     gsw_structures = processor.process_documents([test_document])
 
     print(gsw_structures)
+

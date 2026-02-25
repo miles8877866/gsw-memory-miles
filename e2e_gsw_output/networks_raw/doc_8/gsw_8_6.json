@@ -1,0 +1,17 @@
+{
+    "text": "A chill ran down the woman's spine as Nylah Zavala's gaze seemed to lock onto the woman, Nylah Zavala's words taking on a menacing undertone. Intermission arrived, bringing with intermission a flurry of movement and chatter. The woman remained seated, the woman's mind racing as the woman tried to process what the woman had witnessed.",
+    "doc_idx": 8,
+    "chunk_idx": 6,
+    "global_id": "8_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the protagonist's growing unease during a play, culminating in a chilling moment when an actor breaks the fourth wall and seems to directly threaten her. Intermission follows, and she is left to grapple with the unsettling experience.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

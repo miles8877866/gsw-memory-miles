@@ -1,4 +1,4 @@
-"""
+﻿"""
 Main Q&A system that orchestrates the complete pipeline.
 
 This module provides the main GSWQuestionAnswerer class that coordinates
@@ -151,7 +151,7 @@ class GSWQuestionAnswerer:
             )
 
         # Step 5: Generate answers for all questions (batched)
-        answers = self.generate_answer(questions_with_context).dataset
+        answers = self.answering_agent(questions_with_context).dataset
         for i, result in enumerate(results):
             result["answer"] = answers[i]["answer"]
             result["sources"] = answers[i]["context_used"]
@@ -236,3 +236,4 @@ class GSWQuestionAnswerer:
     ) -> List[Dict[str, Any]]:
         """Step 5: Generate final answer from ranked summaries."""
         return self.answering_agent(questions_with_context)
+

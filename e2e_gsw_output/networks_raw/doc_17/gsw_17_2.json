@@ -1,0 +1,23 @@
+{
+    "text": "Owen Thomas collapsed dramatically onto the floor, Owen Thomas's chest heaving. Owen Thomas glanced around at Owen Thomas's fellow parkour enthusiasts, all looking significantly less disheveled than Owen Thomas felt. Rocco Cormier, a sprightly octogenarian with a shock of white hair, winked at Owen Thomas and did a perfect handstand.",
+    "doc_idx": 17,
+    "chunk_idx": 2,
+    "global_id": "17_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Owen Thomas's exhaustion and self-consciousness during a break in a parkour workshop, contrasting Owen Thomas's struggles with the abilities of other participants.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

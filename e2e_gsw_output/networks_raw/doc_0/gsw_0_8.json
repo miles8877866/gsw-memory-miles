@@ -1,0 +1,17 @@
+{
+    "text": "The workshop had pushed the participant to the participant's limits, testing not just the participant's physical abilities but the participant's mental fortitude as well. As the group gathered for a final debrief, the participant couldn't shake the feeling that something fundamental had shifted during the long night of September 13, 2025. The parkour workshop may have ended, but the participant sensed that a new, more dangerous game was just beginning.",
+    "doc_idx": 0,
+    "chunk_idx": 8,
+    "global_id": "0_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding paragraph of the narrative, summarizing the participant's experience at the parkour workshop and foreshadowing future events.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

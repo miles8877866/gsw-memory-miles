@@ -1,0 +1,17 @@
+{
+    "text": "\"What about the film poster exhibitions. \" Henry Reed asked, dreading the answer. Oakley Goetz hesitated, glancing around nervously before leaning in closer.",
+    "doc_idx": 1,
+    "chunk_idx": 7,
+    "global_id": "1_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival, learns from Oakley Goetz that there's a problem with the film poster exhibitions after overhearing a snippet of a concerning conversation.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

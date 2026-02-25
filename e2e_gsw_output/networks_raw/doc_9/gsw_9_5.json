@@ -1,0 +1,17 @@
+{
+    "text": "As the final, devastating scene unfolded, Jackson Ramos felt a tear slip down Jackson Ramos's own cheek, surprised by the depth of Jackson Ramos's emotional investment. The curtain fell, and for a moment, silence reigned. Then, as if awakening from a shared dream, the audience erupted into thunderous applause.",
+    "doc_idx": 9,
+    "chunk_idx": 5,
+    "global_id": "9_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the climax and immediate aftermath of the play, focusing on Jackson Ramos's emotional reaction and the audience's response.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

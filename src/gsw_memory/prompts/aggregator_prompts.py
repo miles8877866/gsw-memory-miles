@@ -1,4 +1,4 @@
-"""
+﻿"""
 Prompt templates for GSW Aggregator components.
 """
 
@@ -62,3 +62,4 @@ Based *only* on the information provided above:
             entity_name=entity_name,
             formatted_data=formatted_data
         )
+

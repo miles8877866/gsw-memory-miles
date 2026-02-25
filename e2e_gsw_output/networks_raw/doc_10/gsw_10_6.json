@@ -1,0 +1,23 @@
+{
+    "text": "Hazel Lewis spun around, trying to locate the source of the whispers, but found Hazel Lewis surrounded by a sea of blank faces, all turned towards Hazel Lewis with an unnerving stillness. As Hazel Lewis backed away, Hazel Lewis's heel caught on something solid. Hazel Lewis looked down to find Octavia Talley, sprawled motionless on the wooden planks.",
+    "doc_idx": 10,
+    "chunk_idx": 6,
+    "global_id": "10_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Hazel Lewis experiences increasingly disturbing events at a historical reenactment, including disembodied whispers and a crowd with blank faces, before discovering a motionless body.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

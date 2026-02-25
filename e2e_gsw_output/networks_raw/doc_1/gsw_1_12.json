@@ -1,0 +1,17 @@
+{
+    "text": "The show must go on, but first, Henry Reed had a mystery to solve \u2013 and time was running out.",
+    "doc_idx": 1,
+    "chunk_idx": 12,
+    "global_id": "1_12",
+    "start_sentence": 36,
+    "end_sentence": 37,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After learning that a valuable Hitchcock poster is missing from the film festival he organized, Henry Reed resolves to solve the mystery while keeping the festival running.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

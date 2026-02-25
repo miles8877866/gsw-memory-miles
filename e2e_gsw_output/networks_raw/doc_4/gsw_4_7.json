@@ -1,0 +1,28 @@
+{
+    "text": "The day wore on, and Scarlett Thomas found herself juggling tasks like a circus performer on a unicycle. Scarlett Thomas mediated disputes over the last drops of a rare barrel-aged stout, consoled Delphi Parent who had accidentally mixed Delphi Parent's tasting glass with Delphi Parent's spit bucket, and heroically caught a runaway keg that had decided to make a break for freedom down the Woolworth Building's ornate staircase. As the festival drew to a close, Scarlett Thomas collapsed into a nearby chair, Scarlett Thomas's clipboard abandoned on the floor beside Scarlett Thomas.",
+    "doc_idx": 4,
+    "chunk_idx": 7,
+    "global_id": "4_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Scarlett Thomas's increasingly hectic day managing the craft beer festival as it nears its end, highlighting the various chaotic situations she handles.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Woolworth Building's ornate staircase"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"Woolworth Building's ornate staircase\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+    }
+}

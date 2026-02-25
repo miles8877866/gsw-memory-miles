@@ -1,0 +1,17 @@
+{
+    "text": "Sienna Lyles, the head of security, was already there, Sienna Lyles's face a mask of concentration as Sienna Lyles typed furiously on a keyboard. \"Someone's trying to breach the firewall,\" Sienna Lyles explained tersely. \"We need to track the source and contain the source before the source compromises the entire event.",
+    "doc_idx": 15,
+    "chunk_idx": 4,
+    "global_id": "15_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Julian Ross is alerted to a security breach at the hackathon.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

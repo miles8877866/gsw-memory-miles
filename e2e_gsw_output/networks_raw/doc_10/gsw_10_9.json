@@ -1,0 +1,28 @@
+{
+    "text": "The date on the front page burned itself into Hazel Lewis's mind: September 03, 2026. But as Hazel Lewis watched, the numbers began to shift and change, spiraling backwards through time as the Brooklyn Bridge claimed its latest victims.",
+    "doc_idx": 10,
+    "chunk_idx": 9,
+    "global_id": "10_9",
+    "start_sentence": 27,
+    "end_sentence": 29,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the climax of the story, where Hazel realizes the time loop and the bridge's role as a temporal nexus.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "September 03, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Brooklyn Bridge"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"September 03, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Brooklyn Bridge\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "text": "Zoe Brown tested user experience with laser-like focus, determined to create something truly innovative. Yet, Zoe Brown couldn't help but steal glances at Remy Waterman, who was now working just a few feet away. Remy Waterman's and Zoe Brown's eyes met again, and this time, a smile passed between Remy Waterman and Zoe Brown.",
+    "doc_idx": 7,
+    "chunk_idx": 4,
+    "global_id": "7_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Zoe Brown's experience at a tech hackathon, focusing on her work and growing attraction to another participant, Remy Waterman.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

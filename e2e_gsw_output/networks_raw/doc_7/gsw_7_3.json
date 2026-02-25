@@ -1,0 +1,17 @@
+{
+    "text": "Shaking off the distraction, Zoe Brown focused on the task at hand, Zoe Brown's fingers flying across Zoe Brown's tablet as Zoe Brown jotted down ideas. The day stretched ahead, full of promise and the potential for both professional and personal discoveries. As the afternoon wore on, Zoe Brown found herself immersed in Zoe Brown's project, barely noticing the passage of time.",
+    "doc_idx": 7,
+    "chunk_idx": 3,
+    "global_id": "7_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown attends a tech hackathon, is initially distracted by Remy Waterman, then refocuses on her project.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

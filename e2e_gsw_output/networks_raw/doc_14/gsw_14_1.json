@@ -1,0 +1,28 @@
+{
+    "text": "High Line buzzed with energy on this crisp spring evening of March 23, 2024. The converted railway-turned-park provided a unique backdrop for the networking event, with High Line's lush greenery and urban chic design serving as a conversation starter for many attendees. As Logan Diaz made his way through the crowd, Logan Diaz couldn't help but admire the way the setting sun cast a warm glow over the gathering.",
+    "doc_idx": 14,
+    "chunk_idx": 1,
+    "global_id": "14_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This section describes the setting and atmosphere of the networking event that Logan Diaz is attending.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "March 23, 2024"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "High Line"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"March 23, 2024\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"High Line\"\n    }\n]\n}\n```"
+    }
+}

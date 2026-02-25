@@ -1,0 +1,17 @@
+{
+    "text": "The man who once conducted ice preservation talks' fingers twitched, muscle memory from years of handling ice samples threatening to overtake the man who once conducted ice preservation talks. As the day wore on, the park filled with more visitors, their excited chatter a stark contrast to the somber mood that had settled over the man who once conducted ice preservation talks. Children darted between the sculptures, their laughter ringing out across the grounds.",
+    "doc_idx": 16,
+    "chunk_idx": 3,
+    "global_id": "16_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the protagonist's internal conflict and growing sense of displacement as he observes the ice sculpture exhibition and the reactions of the visitors around him.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

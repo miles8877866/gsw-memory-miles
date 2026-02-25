@@ -1,0 +1,17 @@
+{
+    "text": "The velvet curtains parted, revealing a stage bathed in an ethereal glow. The audience at High Line held their collective breath, anticipating the performance that would soon unfold. Whispers of excitement rippled through the crowd, mingling with the faint scent of perfume and polished wood.",
+    "doc_idx": 9,
+    "chunk_idx": 0,
+    "global_id": "9_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This paragraph describes the beginning of a play at the High Line theater, setting the scene and atmosphere as the audience anticipates the performance.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

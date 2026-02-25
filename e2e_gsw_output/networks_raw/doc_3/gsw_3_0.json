@@ -1,0 +1,17 @@
+{
+    "text": "The early morning mist clung to the elevated walkway, obscuring the cityscape beyond. Chloe Castillo inhaled deeply, the damp air filling Chloe Castillo's lungs as Chloe Castillo stretched Chloe Castillo's limbs in preparation for the day ahead. The parkour workshop was set to begin soon, and an eerie silence hung over the abandoned railway turned urban park.",
+    "doc_idx": 3,
+    "chunk_idx": 0,
+    "global_id": "3_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening paragraph, setting the scene and introducing the protagonist, Chloe Castillo, and the location, an urban park where she is about to host a parkour workshop.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

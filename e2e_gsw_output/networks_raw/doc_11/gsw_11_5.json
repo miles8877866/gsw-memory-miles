@@ -1,0 +1,17 @@
+{
+    "text": "The juxtaposition of the primordial and the futuristic created a mesmerizing tapestry of style and imagination. As the show reached its crescendo, Chloe Castillo felt a surge of power coursing through Chloe Castillo's veins. With a wave of Chloe Castillo's hand, Chloe Castillo conjured a storm of glittering butterflies that swirled around the audience, leaving trails of stardust in the butterflies' wake.",
+    "doc_idx": 11,
+    "chunk_idx": 5,
+    "global_id": "11_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the climax of Chloe Castillo's fashion show at the American Museum of Natural History, where she blends ancient and futuristic elements and uses magic to create a spectacular display.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

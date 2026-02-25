@@ -1,0 +1,17 @@
+{
+    "text": "Julian Ross was vaguely aware of the setting sun casting long shadows through the ornate windows, marking the passage of hours. As night fell, the hackathon took on a different atmosphere. The initial buzz had given way to a focused intensity, punctuated by occasional outbursts of triumph or frustration.",
+    "doc_idx": 15,
+    "chunk_idx": 6,
+    "global_id": "15_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Julian Ross is working with Hezekiah Bean and Sienna Lyles to stop a security breach at the hackathon.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

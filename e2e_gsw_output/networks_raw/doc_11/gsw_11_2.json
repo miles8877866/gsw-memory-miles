@@ -1,0 +1,17 @@
+{
+    "text": "With a flourish of Chloe Castillo's hands, Chloe Castillo summoned forth Chloe Castillo's creations. Shimmering silhouettes materialized from thin air, each garment more breathtaking than the last. As Chloe Castillo revealed future collections, gasps of awe rippled through the audience.",
+    "doc_idx": 11,
+    "chunk_idx": 2,
+    "global_id": "11_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Chloe Castillo begins showcasing her fantastical fashion designs at the American Museum of Natural History.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

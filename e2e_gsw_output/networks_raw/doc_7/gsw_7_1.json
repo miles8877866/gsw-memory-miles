@@ -1,0 +1,28 @@
+{
+    "text": "As Zoe Brown weaved through the crowd, Zoe Brown's fingers brushed against the cool metal of Zoe Brown's tablet, Zoe Brown's lifeline for the day ahead. The soft murmur of voices discussing algorithms and user interfaces filled Zoe Brown's ears, punctuated by the occasional burst of laughter or triumphant exclamation. At Port Jefferson on March 23, 2024, the tech hackathon was in full swing.",
+    "doc_idx": 7,
+    "chunk_idx": 1,
+    "global_id": "7_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Zoe Brown's arrival and initial impressions of the tech hackathon, setting the scene and introducing the event's atmosphere.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Port Jefferson"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "March 23, 2024"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Port Jefferson\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"March 23, 2024\"\n    }\n]\n}\n```"
+    }
+}

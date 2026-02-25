@@ -1,0 +1,17 @@
+{
+    "text": "Logan Diaz found himself captivated by Meredith Gardner's piercing gaze, momentarily forgetting the purpose of the evening. Shaking himself from his reverie, Logan Diaz engaged in a spirited discussion with a group of industry leaders. The passion in the industry leaders' voices as the industry leaders debated current trends was almost palpable, and Logan Diaz felt a familiar thrill course through Logan Diaz.",
+    "doc_idx": 14,
+    "chunk_idx": 3,
+    "global_id": "14_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After arriving at a networking event and admiring the venue, Logan Diaz is approached by Meredith Gardner, and then Logan Diaz joins a discussion with industry leaders.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

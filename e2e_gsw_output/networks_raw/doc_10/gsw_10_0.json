@@ -1,0 +1,17 @@
+{
+    "text": "The crisp autumn air carried an ominous chill as Hazel Lewis stepped onto the weathered planks. Mist clung to the river below, obscuring the water's surface and lending an eerie atmosphere to the gathering crowd. Spectators, dressed in period attire, milled about with an air of anticipation, their excited chatter a stark contrast to the growing sense of unease that gnawed at Hazel Lewis's gut.",
+    "doc_idx": 10,
+    "chunk_idx": 0,
+    "global_id": "10_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening paragraph of a horror story, setting the scene at a historical reenactment on the Brooklyn Bridge where the protagonist, Hazel Lewis, begins to sense something is wrong.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

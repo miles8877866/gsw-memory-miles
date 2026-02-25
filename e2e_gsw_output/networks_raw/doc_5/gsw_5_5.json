@@ -1,0 +1,17 @@
+{
+    "text": "In that moment, surrounded by the hum of computers and the cheers of fellow developers, Benjamin Green realized that sometimes the most unexpected connections are forged in the crucible of shared passion and innovation.",
+    "doc_idx": 5,
+    "chunk_idx": 5,
+    "global_id": "5_5",
+    "start_sentence": 15,
+    "end_sentence": 16,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding sentence of the passage, summarizing Benjamin Green's realization that the hackathon led to an unexpected personal connection with Genevieve Burgin.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

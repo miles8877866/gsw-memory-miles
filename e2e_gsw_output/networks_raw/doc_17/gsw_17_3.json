@@ -1,0 +1,17 @@
+{
+    "text": "Owen Thomas groaned, wondering if it was too late to take up knitting instead. As the break ended, Lilah Hamilton herded the group outside. The crisp autumn air nipped at Owen Thomas's flushed cheeks as Owen Thomas surveyed the sprawling grounds.",
+    "doc_idx": 17,
+    "chunk_idx": 3,
+    "global_id": "17_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Following a disastrous spatial awareness exercise, Owen Thomas is taking a break during a parkour workshop before the group moves outside.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

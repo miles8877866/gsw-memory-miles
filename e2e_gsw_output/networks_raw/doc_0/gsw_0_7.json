@@ -1,0 +1,17 @@
+{
+    "text": "A muffled cry from somewhere in the darkness sent the participant's heart racing. Was it merely another participant, or something more sinister. As the participant emerged from the maze, panting and exhilarated, the first rays of dawn began to peek over the horizon.",
+    "doc_idx": 0,
+    "chunk_idx": 7,
+    "global_id": "0_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the participant's experience navigating a dark and unsettling maze, the final challenge of the parkour workshop.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

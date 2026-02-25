@@ -1,0 +1,17 @@
+{
+    "text": "Julian Ross felt a surge of excitement as Julian Ross navigated through the throng of coders, designers, and entrepreneurs. The hackathon's energy was palpable, a cocktail of caffeine-fueled determination and the thrill of potential breakthroughs. Julian Ross caught snippets of animated conversations about quantum algorithms and neural interfaces, Julian Ross's mind already racing with possibilities.",
+    "doc_idx": 15,
+    "chunk_idx": 1,
+    "global_id": "15_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Julian Ross arrives at the hackathon and is energized by the atmosphere.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

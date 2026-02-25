@@ -1,0 +1,17 @@
+{
+    "text": "Diem Nix watched from the wings, Diem Nix's ethereal form barely visible in the growing twilight. Diem Nix nodded approvingly as Mila Gonzalez reached the climax of Mila Gonzalez's performance, Mila Gonzalez's voice rising and falling like the tides that lapped at the island's shores. The audience held their collective breath, caught in the spell of Mila Gonzalez's storytelling, transported to fantastical realms far beyond the audience's everyday lives.",
+    "doc_idx": 18,
+    "chunk_idx": 1,
+    "global_id": "18_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Diem Nix's observation of Mila Gonzalez's performance and the audience's captivated reaction.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

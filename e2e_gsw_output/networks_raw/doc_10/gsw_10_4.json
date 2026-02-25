@@ -1,0 +1,17 @@
+{
+    "text": "The crowd seemed to move in unison, their movements mechanical and precise, as if choreographed by some unseen force. A low rumble emanated from the structure beneath Hazel Lewis's feet, causing Hazel Lewis to stumble. Hazel Lewis reached out to steady herself against a nearby railing, only to recoil in horror as the cold metal pulsed beneath Hazel Lewis's fingertips like a living thing.",
+    "doc_idx": 10,
+    "chunk_idx": 4,
+    "global_id": "10_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Hazel's growing horror as the historical reenactment becomes increasingly surreal and the environment itself seems to warp, indicating something supernatural is occurring.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

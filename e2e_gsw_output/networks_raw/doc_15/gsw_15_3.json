@@ -1,0 +1,46 @@
+{
+    "text": "\"We've got a situation,\" Hezekiah Bean murmured, gesturing towards a dimly lit corner of the vast room. Julian Ross's instincts kicked in, years of problem-solving experience coming to the fore as Julian Ross followed Hezekiah Bean through the labyrinth of workstations. Hezekiah Bean and Julian Ross arrived at a cluster of abandoned computers, screens flickering with indecipherable code.",
+    "doc_idx": 15,
+    "chunk_idx": 3,
+    "global_id": "15_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Julian Ross is participating in a hackathon when Hezekiah Bean alerts him to a security issue.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [
+                    "e1",
+                    "e2"
+                ],
+                "tag_type": "spatial",
+                "tag_value": "vast room"
+            },
+            {
+                "linked_entities": [
+                    "e1",
+                    "e2",
+                    "e3",
+                    "e4",
+                    "e5",
+                    "e6"
+                ],
+                "tag_type": "spatial",
+                "tag_value": "vast room"
+            },
+            {
+                "linked_entities": [
+                    "e5",
+                    "e6"
+                ],
+                "tag_type": "spatial",
+                "tag_value": "cluster of abandoned computers"
+            }
+        ],
+        "full_response": "```json\n{\n\"entity_nodes\": [\n    {\n      \"id\": \"e1\",\n      \"name\": \"Hezekiah Bean\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e2\",\n      \"name\": \"Julian Ross\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e3\",\n      \"name\": \"room\",\n      \"roles\": [],\n      \"states\": [\n        \"vast\"\n      ]\n    },\n    {\n      \"id\": \"e4\",\n      \"name\": \"workstations\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e5\",\n      \"name\": \"computers\",\n      \"roles\": [],\n      \"states\": [\n        \"abandoned\"\n      ]\n    },\n    {\n      \"id\": \"e6\",\n      \"name\": \"screens\",\n      \"roles\": [],\n      \"states\": [\n        \"flickering\"\n      ]\n    }\n  ],\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"vast room\"\n    },\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\",\n        \"e3\",\n        \"e4\",\n        \"e5\",\n        \"e6\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"vast room\"\n    },\n    {\n      \"linked_entities\": [\n        \"e5\",\n        \"e6\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"cluster of abandoned computers\"\n    }\n  ]\n}\n```"
+    }
+}

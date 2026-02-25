@@ -1,0 +1,17 @@
+{
+    "text": "At least Owen Thomas would have some great stories for Owen Thomas's future grandchildren \u2013 assuming Owen Thomas survived long enough to have any.",
+    "doc_idx": 17,
+    "chunk_idx": 11,
+    "global_id": "17_11",
+    "start_sentence": 33,
+    "end_sentence": 34,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding sentence of a scene describing Owen Thomas's first parkour workshop, where he humorously reflects on his clumsy experience and the potential for future stories.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

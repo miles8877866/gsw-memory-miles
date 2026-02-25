@@ -1,4 +1,4 @@
-"""
+﻿"""
 Utility functions for GSW operators.
 
 This module contains utility functions used across different operators,
@@ -113,3 +113,4 @@ def chunk_text(text: str, chunk_size: int = 3, overlap: int = 1) -> List[Dict]:
         i += chunk_size - overlap
 
     return chunks
+

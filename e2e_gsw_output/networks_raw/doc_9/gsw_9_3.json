@@ -1,0 +1,28 @@
+{
+    "text": "February 27, 2026, would be remembered as a day of profound emotional impact for all in attendance. The actors moved across the stage with grace and purpose, the actors' movements a choreographed dance of sorrow and redemption. In the third act, a gasp rippled through the audience as the protagonist made a fateful decision, sealing the protagonist's doom and that of the protagonist's loved ones.",
+    "doc_idx": 9,
+    "chunk_idx": 3,
+    "global_id": "9_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the progression of the play and its increasing emotional impact on the audience, including Jackson Ramos.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "February 27, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "the stage"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"February 27, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"the stage\"\n    }\n]\n}\n```"
+    }
+}

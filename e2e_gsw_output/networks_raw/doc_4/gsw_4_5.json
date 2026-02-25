@@ -1,0 +1,17 @@
+{
+    "text": "\"Why don't we agree that all IPAs are created equal. Except for the ones that aren't, of course. \" Scarlett Thomas's attempt at humor fell flat as the two men glared at each other, their fists clenched around their tasting glasses.",
+    "doc_idx": 4,
+    "chunk_idx": 5,
+    "global_id": "4_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Scarlett Thomas intervenes in a heated argument about IPAs at the beer festival.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

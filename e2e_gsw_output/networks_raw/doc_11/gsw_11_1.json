@@ -1,0 +1,23 @@
+{
+    "text": "Chloe Castillo paused at the end of the catwalk, drinking in the sea of expectant faces before Chloe Castillo. Sienna Hamrick, seated in the front row, leaned forward with undisguised hunger in Sienna Hamrick's eyes. Chloe Castillo allowed herself a small smile, knowing that what was about to unfold would surpass even Sienna Hamrick's wildest imaginations.",
+    "doc_idx": 11,
+    "chunk_idx": 1,
+    "global_id": "11_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Chloe Castillo is about to begin her fashion show, and this paragraph describes her anticipation and the audience's eagerness.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

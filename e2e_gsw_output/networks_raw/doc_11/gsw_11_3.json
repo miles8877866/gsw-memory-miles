@@ -1,0 +1,17 @@
+{
+    "text": "Dresses spun from starlight, suits crafted from living shadows, and accessories that defied the laws of physics danced before the audience's eyes. The models, ethereal beings themselves, glided down the runway with an otherworldly grace. The models' skin sparkled with an iridescent sheen, and the models' eyes held the wisdom of a thousand lifetimes.",
+    "doc_idx": 11,
+    "chunk_idx": 3,
+    "global_id": "11_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the fantastical fashion designs and ethereal models showcased during Chloe Castillo's groundbreaking runway show.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

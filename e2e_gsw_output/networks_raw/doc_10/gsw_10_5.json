@@ -1,0 +1,17 @@
+{
+    "text": "Panic began to set in as Hazel Lewis realized that this was no ordinary reenactment. The fog thickened, obscuring Hazel Lewis's vision and muffling the sounds around Hazel Lewis. Disembodied whispers echoed in Hazel Lewis's ears, speaking in languages long forgotten.",
+    "doc_idx": 10,
+    "chunk_idx": 5,
+    "global_id": "10_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Hazel Lewis is experiencing increasingly strange and unsettling events at a historical reenactment, leading her to realize something is terribly wrong.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

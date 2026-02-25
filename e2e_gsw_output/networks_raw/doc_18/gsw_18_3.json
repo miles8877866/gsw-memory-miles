@@ -1,0 +1,17 @@
+{
+    "text": "Mila Gonzalez bowed, Mila Gonzalez's chest heaving with exertion and emotion, sweat glistening on Mila Gonzalez's brow despite the cool evening air. Eli Groth approached, Eli Groth's eyes gleaming with an otherworldly light. \"Mila Gonzalez's performance was.",
+    "doc_idx": 18,
+    "chunk_idx": 3,
+    "global_id": "18_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the immediate aftermath of Mila Gonzalez's performance, focusing on Mila Gonzalez's physical state and the reaction of Eli Groth.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

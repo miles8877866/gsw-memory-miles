@@ -1,0 +1,17 @@
+{
+    "text": "\" Scarlett Thomas shouted, her voice barely audible above the din. Scarlett Thomas squeezed past a group of pretzel necklace-wearing attendees, their salty accessories swinging dangerously close to Scarlett Thomas's face. The scent of malt and hops hung heavy in the air, mingling with the unmistakable aroma of spilled beer and regret.",
+    "doc_idx": 4,
+    "chunk_idx": 2,
+    "global_id": "4_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Scarlett Thomas navigates the crowded and chaotic craft beer festival.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

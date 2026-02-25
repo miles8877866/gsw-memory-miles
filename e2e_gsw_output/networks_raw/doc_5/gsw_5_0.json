@@ -1,0 +1,17 @@
+{
+    "text": "The air buzzed with excitement as Benjamin Green stepped into the grand hall, Benjamin Green's heart racing with anticipation. Developers from all corners of the tech world mingled, the developers' voices a symphony of innovation and possibility. As Benjamin Green scanned the room, Benjamin Green couldn't help but feel a sense of belonging, of finding Benjamin Green's tribe.",
+    "doc_idx": 5,
+    "chunk_idx": 0,
+    "global_id": "5_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt introduces Benjamin Green at a hackathon, setting the scene and establishing his initial feelings of excitement and belonging.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

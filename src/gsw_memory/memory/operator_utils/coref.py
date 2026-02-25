@@ -1,4 +1,4 @@
-"""
+﻿"""
 Coreference Resolution Operator.
 
 This module contains the CorefOperator class for performing coreference resolution
@@ -33,3 +33,4 @@ class CorefOperator(curator.LLM):
                 "idx": input["idx"],
             }
         ]
+

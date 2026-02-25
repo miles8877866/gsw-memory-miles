@@ -1,0 +1,17 @@
+{
+    "text": "The man who once conducted ice preservation talks moved slowly among the crystalline figures, each step careful and deliberate on the slippery ground. The sculptures ranged from delicate, intricate designs to massive, towering structures that seemed to defy gravity itself. As the man who once conducted ice preservation talks approached a particularly striking piece, a representation of a weeping angel with wings of fractured ice, the man who once conducted ice preservation talks felt a pang of longing for the days when the man who once conducted ice preservation talks shared his passion with eager listeners.",
+    "doc_idx": 16,
+    "chunk_idx": 1,
+    "global_id": "16_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the main character's reaction to seeing the ice sculptures at the exhibition, highlighting his connection to the art and his regret over his changed circumstances.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,4 +1,4 @@
-"""GSW Memory core components."""
+﻿"""GSW Memory core components."""
 
 from .models import (
     EntityNode,
@@ -46,3 +46,4 @@ __all__ = [
     "extract_json_from_output",
     "parse_gsw",
 ]
+

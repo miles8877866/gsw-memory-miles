@@ -1,0 +1,17 @@
+{
+    "text": "transcendent,\" Eli Groth murmured, Eli Groth's voice like the whisper of wind through ancient ruins. Mila Gonzalez nodded gratefully, still catching Mila Gonzalez's breath, Mila Gonzalez's mind reeling from the intensity of the experience. The sky above had deepened to a rich indigo, stars beginning to peek through the velvety darkness.",
+    "doc_idx": 18,
+    "chunk_idx": 4,
+    "global_id": "18_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Following Mila Gonzalez's performance, Eli Groth offers a cryptic compliment, highlighting the impact of the performance as Mila Gonzalez processes the experience.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

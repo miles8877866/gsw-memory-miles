@@ -1,0 +1,17 @@
+{
+    "text": "The air crackled with anticipation as the woman slipped into her seat, the plush velvet cushion enveloping the woman like a whisper. The ornate ceiling arched high above, the ornate ceiling's intricate patterns casting eerie shadows in the dim light. The woman inhaled deeply, the scent of polished wood and aged stone filling the woman's lungs.",
+    "doc_idx": 8,
+    "chunk_idx": 0,
+    "global_id": "8_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening scene, describing the protagonist's arrival and initial impressions of the theater before the play begins.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

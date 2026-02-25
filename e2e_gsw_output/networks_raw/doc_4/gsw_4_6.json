@@ -1,0 +1,23 @@
+{
+    "text": "As Scarlett Thomas led the feuding parties away from each other, Scarlett Thomas caught sight of Scarlett Thomas's homebrewing workshop area. Nyla Bower was enthusiastically demonstrating the art of adding fruit to a fermenter, but had somehow managed to turn the entire table into a sticky, pulpy mess. Sighing, Scarlett Thomas made a mental note to stock up on paper towels for future events.",
+    "doc_idx": 4,
+    "chunk_idx": 6,
+    "global_id": "4_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Scarlett Thomas diffuses an argument at the beer festival and then notices a mess at the homebrewing workshop.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Scarlett Thomas's homebrewing workshop area"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Scarlett Thomas's homebrewing workshop area\"\n    }\n]\n}\n```"
+    }
+}

@@ -35,6 +35,16 @@ os.environ["CURATOR_DISABLE_CACHE"] = "true"
 # Load environment variables
 load_dotenv()
 
+# Global monkey-patch for bespokelabs-curator robustness on Windows/Gemini
+from bespokelabs.curator import LLM
+LLM.require_all_responses = False
+# We also want to ensure max_concurrent_requests is low to avoid Windows issues
+# but that's usually set per-instance. Let's just force the property if possible.
+try:
+    LLM.max_concurrent_requests = 1
+except:
+    pass
+
 
 def load_tulving_bench_data():
     """Load the Tulving Bench book and questions."""
@@ -152,40 +162,40 @@ def setup_qa_system(reconciled_chapters, aggregators):
 
 
 def run_qa_evaluation(qa_system, questions_data, use_subset=True):
-    """Run Q&A system on Tulving Bench questions."""
-    print("\n=== Running Q&A Evaluation ===")
+    """Run Q&A system on Tulving Bench questions sequentially for robustness."""
+    print("\n=== Running Q&A Evaluation (Sequential Mode) ===")
 
     # Use subset for faster testing
     if use_subset:
         questions_data = questions_data[:5]
         print(f"Using subset of {len(questions_data)} questions for testing")
 
-    # Extract questions
-    questions = [item["question"] for item in questions_data]
-
-    print(f"Processing {len(questions)} questions across multiple chapters...")
-
-    # Run batch Q&A
-    qa_results = qa_system.ask_batch(questions, max_summaries=5)
-
-    # Format results for evaluation
+    from tqdm import tqdm
     evaluation_data = []
-    for i, result in enumerate(qa_results):
-        question_item = questions_data[i]
-        evaluation_data.append(
-            {
-                "question": result["question"],
-                "predicted_answer": result["answer"],
-                "ground_truth": question_item["correct_answer"],
-                "context": question_item.get("context", ""),
-                "extracted_entities": result["extracted_entities"],
-                "matched_entities": result["matched_entities"],
-                "num_summaries_used": result["num_summaries_used"],
-            }
-        )
+    
+    print(f"Processing {len(questions_data)} questions sequentially...")
+    
+    for item in tqdm(questions_data, desc="Answering"):
+        try:
+            question = item["question"]
+            # Step-by-step processing instead of ask_batch to avoid curator bugs
+            result = qa_system.ask(question, max_summaries=5)
+            
+            evaluation_data.append(
+                {
+                    "question": result["question"],
+                    "predicted_answer": result["answer"],
+                    "ground_truth": item["correct_answer"],
+                    "context": item.get("context", ""),
+                    "extracted_entities": result["extracted_entities"],
+                    "matched_entities": result["matched_entities"],
+                    "num_summaries_used": result["num_summaries_used"],
+                }
+            )
+        except Exception as e:
+            print(f"Warning: Question failed: {item.get('question')[:50]}... Error: {e}")
 
     print(f"Generated answers for {len(evaluation_data)} questions")
-
     return evaluation_data
 
 

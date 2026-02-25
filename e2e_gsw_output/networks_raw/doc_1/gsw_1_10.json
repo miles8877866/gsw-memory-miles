@@ -1,0 +1,17 @@
+{
+    "text": "\" Henry Reed asked, Henry Reed's mind already racing through possibilities. Oakley Goetz shook their head, \"That's just it, sir. No one seems to know.",
+    "doc_idx": 1,
+    "chunk_idx": 10,
+    "global_id": "1_10",
+    "start_sentence": 30,
+    "end_sentence": 33,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed learns that a valuable Hitchcock poster is missing from the film festival exhibition and begins investigating.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

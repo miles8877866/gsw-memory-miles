@@ -1,0 +1,17 @@
+{
+    "text": "As Chloe Castillo began the introductions, Luka Shaffer suddenly let out a blood-curdling scream. Everyone whirled around to see Luka Shaffer pointing at a nearby sculpture, Luka Shaffer's face drained of color. Chloe Castillo's eyes widened in horror as Chloe Castillo saw what had caused such terror \u2013 the sculpture, which Chloe Castillo knew to be a static installation, was slowly turning its head towards the group.",
+    "doc_idx": 3,
+    "chunk_idx": 4,
+    "global_id": "3_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the moment the park comes alive, marked by a participant's scream and a sculpture moving on its own, initiating the supernatural events of the story.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

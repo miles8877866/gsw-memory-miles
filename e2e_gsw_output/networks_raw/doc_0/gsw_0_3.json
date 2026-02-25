@@ -1,0 +1,28 @@
+{
+    "text": "The participant felt a bead of sweat trickle down the participant's spine as the participant approached the next challenge \u2013 a series of precarious platforms suspended high above the ground. The distant hum of crickets provided an eerie soundtrack to the scene. Mara Ledbetter stumbled on a particularly tricky jump, Mara Ledbetter's cry of alarm piercing the night air.",
+    "doc_idx": 0,
+    "chunk_idx": 3,
+    "global_id": "0_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the increasing difficulty and tension as the parkour workshop progresses, highlighting a near-accident involving another participant.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "high above the ground"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "night"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"high above the ground\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"night\"\n    }\n  ]\n}\n```"
+    }
+}

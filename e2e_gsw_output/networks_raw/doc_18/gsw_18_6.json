@@ -1,0 +1,23 @@
+{
+    "text": "Mila Gonzalez couldn't shake the feeling that something fundamental had shifted in the fabric of the world. Rey Pierre materialized beside Mila Gonzalez, Rey Pierre's form shimmering like heat haze. \"Mila Gonzalez has awakened something ancient tonight,\" Rey Pierre whispered, Rey Pierre's words carrying the weight of prophecy.",
+    "doc_idx": 18,
+    "chunk_idx": 6,
+    "global_id": "18_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Following Mila Gonzalez's successful and emotionally charged performance, she reflects on the significance of the event, and Rey Pierre appears, hinting at the deeper, perhaps mystical, implications of her act.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "tonight"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"tonight\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "That poster was worth a small fortune and was meant to be the centerpiece of the exhibition. Henry Reed took a deep breath, trying to maintain Henry Reed's composure. \"When was the Hitchcock original last seen.",
+    "doc_idx": 1,
+    "chunk_idx": 9,
+    "global_id": "1_9",
+    "start_sentence": 27,
+    "end_sentence": 30,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival on a bridge, learns that a valuable Hitchcock poster is missing from the exhibition.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "Mila Gonzalez and Nash Ensign's hushed tones and furtive glances only served to heighten the woman's suspicion. The woman strained to hear Mila Gonzalez and Nash Ensign's words, but the din of the crowd made it impossible. As the second act began, the atmosphere grew even more charged.",
+    "doc_idx": 8,
+    "chunk_idx": 8,
+    "global_id": "8_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Following a disquieting first act where an actor breaks the fourth wall, the protagonist observes suspicious behavior between two other actors during intermission, fueling her growing unease.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

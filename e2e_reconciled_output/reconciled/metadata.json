@@ -1,0 +1,9 @@
+{
+  "reconciliation_metadata": {
+    "strategy": "local",
+    "matching_approach": "exact",
+    "processed_at": "2026-02-25T02:25:33.729655",
+    "total_input_chunks": 168,
+    "total_documents": 19
+  }
+}

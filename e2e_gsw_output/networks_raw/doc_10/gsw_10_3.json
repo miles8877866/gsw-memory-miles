@@ -1,0 +1,17 @@
+{
+    "text": "Hazel Lewis felt her heart racing as Hazel Lewis tried to make sense of what Hazel Lewis had just witnessed. Hazel Lewis blinked hard, convinced Hazel Lewis's mind was playing tricks on Hazel Lewis. But when Hazel Lewis opened Hazel Lewis's eyes, the unsettling sights only intensified.",
+    "doc_idx": 10,
+    "chunk_idx": 3,
+    "global_id": "10_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Following an unsettling encounter with a participant, Sol Schiller, Hazel Lewis tries to rationalize what she saw, but the strangeness escalates.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

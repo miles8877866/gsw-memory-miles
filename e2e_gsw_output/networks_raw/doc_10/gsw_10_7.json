@@ -1,0 +1,28 @@
+{
+    "text": "Octavia Talley's eyes were wide open, staring sightlessly at the sky above. But it was Octavia Talley's attire that truly horrified Hazel Lewis \u2013 Octavia Talley's clothes seemed to shift and change, cycling through different historical periods as if time itself was unraveling. A piercing scream cut through the air, and Hazel Lewis realized with a start that the scream was Hazel Lewis's own.",
+    "doc_idx": 10,
+    "chunk_idx": 7,
+    "global_id": "10_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Hazel's growing horror as the historical reenactment devolves into a temporal anomaly, focusing on the unsettling sight of a dead woman whose clothes shift through time periods, culminating in Hazel's own scream.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": null\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+    }
+}

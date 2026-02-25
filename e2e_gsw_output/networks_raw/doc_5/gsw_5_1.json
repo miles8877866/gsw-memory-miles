@@ -1,0 +1,17 @@
+{
+    "text": "With a deep breath, Benjamin Green approached the first group, introducing himself and sharing Benjamin Green's vision. Benjamin Green formed developer teams with practiced ease, Benjamin Green's charisma drawing people in like moths to a flame. The connection was palpable, electric even, as ideas flowed and collaborations sparked to life.",
+    "doc_idx": 5,
+    "chunk_idx": 1,
+    "global_id": "5_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Benjamin Green arrives at a hackathon and begins networking and forming teams.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "Couples drew closer together, the couples' whispers and laughter mingling with the soft sound of melting ice. Jonah Kramer felt a longing to share this magical moment with someone special. It was then that Jonah Kramer realized how much the ice sculpture exhibition reminded Jonah Kramer of Jonah Kramer's own artistic pursuits.",
+    "doc_idx": 2,
+    "chunk_idx": 9,
+    "global_id": "2_9",
+    "start_sentence": 27,
+    "end_sentence": 30,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "As twilight falls at the ice sculpture exhibition, the romantic atmosphere makes Jonah Kramer long for connection and reflect on the parallels between the sculptures and Jonah Kramer's own art.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "The gentle hum of conversation filled the air as Logan Diaz stepped into the bustling event space. The scent of expensive cologne and freshly brewed coffee mingled, creating an intoxicating atmosphere of ambition and possibility. Logan Diaz adjusted his tie, feeling a flutter of nervous excitement in Logan Diaz's stomach as Logan Diaz scanned the room for familiar faces.",
+    "doc_idx": 14,
+    "chunk_idx": 0,
+    "global_id": "14_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening scene, describing Logan Diaz's arrival at a networking event.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

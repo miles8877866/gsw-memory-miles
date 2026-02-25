@@ -1,0 +1,23 @@
+{
+    "text": "The detective-turned-photographer, Henry Reed, couldn't shake the feeling that something was amiss. A hushed conversation between Ronan Guevara and Miles Pritchett caught Henry Reed's attention, Ronan Guevara's and Miles Pritchett's furtive glances adding to the air of mystery. Henry Reed approached a group gathered around Henry Reed's own work, where Henry Reed explained post-processing techniques with practiced ease.",
+    "doc_idx": 12,
+    "chunk_idx": 1,
+    "global_id": "12_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk describes Henry Reed's initial observations and growing suspicion at the photography exhibition, focusing on a hushed conversation and his own interaction with attendees.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

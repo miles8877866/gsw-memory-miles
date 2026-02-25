@@ -1,0 +1,23 @@
+{
+    "text": "Zoe Brown. \" A smattering of applause rippled through the audience at Hither Hills State Park. Zoe Brown took a deep breath, steeling herself as Zoe Brown climbed the rickety steps.",
+    "doc_idx": 13,
+    "chunk_idx": 4,
+    "global_id": "13_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown is about to perform on stage at an open mic night in Hither Hills State Park.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Hither Hills State Park"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Hither Hills State Park\"\n    }\n]\n}\n```"
+    }
+}

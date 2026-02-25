@@ -1,0 +1,17 @@
+{
+    "text": "The city lights twinkled across the water, a reflection of the stars above. Mila Gonzalez closed Mila Gonzalez's eyes, breathing in the salt-tinged air, feeling the last vestiges of adrenaline coursing through Mila Gonzalez's veins. In this moment, suspended between earth and sky, Mila Gonzalez felt truly alive.",
+    "doc_idx": 18,
+    "chunk_idx": 8,
+    "global_id": "18_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Mila's emotional and physical state after her performance, as she reflects on the experience and its significance.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

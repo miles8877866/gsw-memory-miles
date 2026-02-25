@@ -1,0 +1,28 @@
+{
+    "text": "\"\n\nAs the implications of this revelation sank in, Henry Reed gazed out over the East River, the Queensboro Bridge suddenly feeling less like a celebration and more like a crime scene. The festival-goers continued their merrymaking, blissfully unaware of the drama unfolding behind the scenes. Henry Reed squared his shoulders, determination setting in.",
+    "doc_idx": 1,
+    "chunk_idx": 11,
+    "global_id": "1_11",
+    "start_sentence": 33,
+    "end_sentence": 36,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival on the Queensboro Bridge, learns that a valuable Hitchcock poster is missing, shifting the atmosphere from celebratory to a potential crime scene.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "East River"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Queensboro Bridge"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"East River\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Queensboro Bridge\"\n    }\n]\n}\n```"
+    }
+}

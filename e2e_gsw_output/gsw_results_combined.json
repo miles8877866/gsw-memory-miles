@@ -1,0 +1,3518 @@
+{
+  "metadata": {
+    "total_documents": 19,
+    "total_chunks": 170,
+    "processed_at": "2026-02-25T02:25:03.350267"
+  },
+  "documents": {
+    "doc_0": {
+      "0_0": {
+        "text": "The harsh glare of the floodlights cast long shadows across the rugged terrain. Adrenaline coursed through the participant's veins as the participant surveyed the daunting obstacles before the participant. The parkour workshop had drawn a diverse crowd, each participant eager to push their limits and master the urban art of movement.",
+        "doc_idx": 0,
+        "chunk_idx": 0,
+        "global_id": "0_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening scene, setting the stage for a parkour workshop.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "0_1": {
+        "text": "The participant flexed the participant's fingers, anticipation building in the participant's chest as the participant prepared for the night's challenges. At Bethpage Black Course, Ezra Edwards demonstrated cat leaps with a grace that belied the difficulty of the maneuver. The other participants watched in awe as Ezra Edwards effortlessly cleared the gap between two towering structures.",
+        "doc_idx": 0,
+        "chunk_idx": 1,
+        "global_id": "0_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the beginning of a parkour workshop, focusing on the participant's anticipation and a demonstration by another participant named Ezra Edwards.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Bethpage Black Course"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"Bethpage Black Course\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "0_2": {
+        "text": "Noa Middleton, the lead instructor, nodded approvingly, a hint of a smile playing at the corners of Noa Middleton's mouth. As the workshop progressed, the air grew thick with tension. The obstacles became increasingly complex, testing the limits of even the most seasoned traceurs.",
+        "doc_idx": 0,
+        "chunk_idx": 2,
+        "global_id": "0_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": null,
+        "context": "This excerpt describes the parkour workshop, focusing on the increasing difficulty of the obstacles and the growing tension among the participants, with the lead instructor observing.",
+        "spacetime": {}
+      },
+      "0_3": {
+        "text": "The participant felt a bead of sweat trickle down the participant's spine as the participant approached the next challenge \u2013 a series of precarious platforms suspended high above the ground. The distant hum of crickets provided an eerie soundtrack to the scene. Mara Ledbetter stumbled on a particularly tricky jump, Mara Ledbetter's cry of alarm piercing the night air.",
+        "doc_idx": 0,
+        "chunk_idx": 3,
+        "global_id": "0_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the increasing difficulty and tension as the parkour workshop progresses, highlighting a near-accident involving another participant.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "high above the ground"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "night"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"high above the ground\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"night\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "0_4": {
+        "text": "The participant instinctively reached out, the participant's fingers barely grazing Mara Ledbetter's arm as Mara Ledbetter teetered on the edge of the platform. Time seemed to slow as Mara Ledbetter regained Mara Ledbetter's balance, Mara Ledbetter's eyes wide with fear and gratitude. The near-miss sent a shiver through the group, a stark reminder of the risks the participants were taking.",
+        "doc_idx": 0,
+        "chunk_idx": 4,
+        "global_id": "0_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "During the parkour workshop, as the obstacles become more challenging, Mara Ledbetter nearly falls, highlighting the inherent risks of the activity.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "0_5": {
+        "text": "As midnight approached, the workshop took on a more sinister tone. Noa Middleton announced the final challenge \u2013 a complex route through a maze-like structure shrouded in darkness. The participants exchanged nervous glances, the thrill of the unknown mingling with a growing sense of unease.",
+        "doc_idx": 0,
+        "chunk_idx": 5,
+        "global_id": "0_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "The parkour workshop is nearing its end, and the instructors introduce a final, more ominous challenge.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "0_6": {
+        "text": "The participant took a deep breath, steeling the participant for what lay ahead. The maze was a cacophony of creaks and groans, every shadow seeming to hide a potential threat. The participant moved swiftly, the participant's muscles burning with exertion as the participant vaulted over walls and slid under low-hanging beams.",
+        "doc_idx": 0,
+        "chunk_idx": 6,
+        "global_id": "0_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "The participants are about to enter a maze as the final challenge of the parkour workshop.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "0_7": {
+        "text": "A muffled cry from somewhere in the darkness sent the participant's heart racing. Was it merely another participant, or something more sinister. As the participant emerged from the maze, panting and exhilarated, the first rays of dawn began to peek over the horizon.",
+        "doc_idx": 0,
+        "chunk_idx": 7,
+        "global_id": "0_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the participant's experience navigating a dark and unsettling maze, the final challenge of the parkour workshop.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "0_8": {
+        "text": "The workshop had pushed the participant to the participant's limits, testing not just the participant's physical abilities but the participant's mental fortitude as well. As the group gathered for a final debrief, the participant couldn't shake the feeling that something fundamental had shifted during the long night of September 13, 2025. The parkour workshop may have ended, but the participant sensed that a new, more dangerous game was just beginning.",
+        "doc_idx": 0,
+        "chunk_idx": 8,
+        "global_id": "0_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding paragraph of the narrative, summarizing the participant's experience at the parkour workshop and foreshadowing future events.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_1": {
+      "1_0": {
+        "text": "The crisp autumn air carried the scent of buttered popcorn and anticipation as Henry Reed stepped onto the bustling bridge. Colorful banners fluttered overhead, announcing the annual cinematic extravaganza. Henry Reed adjusted his glasses, taking in the sight of eager film enthusiasts crowding around makeshift screens and chattering excitedly about their favorite directors.",
+        "doc_idx": 1,
+        "chunk_idx": 0,
+        "global_id": "1_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening scene, introducing Henry Reed and the cinematic extravaganza he organized on a bridge.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_1": {
+        "text": "The gentle rumble of traffic below added a constant backdrop to the festive atmosphere. As Henry Reed made his way through the throng, Henry Reed couldn't help but feel a sense of pride. This cinematic extravaganza was Henry Reed's brainchild, after all \u2013 transforming this iconic structure into a celebration of the silver screen.",
+        "doc_idx": 1,
+        "chunk_idx": 1,
+        "global_id": "1_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the protagonist, Henry Reed, arriving at the film festival he organized, highlighting his pride in the event.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_2": {
+        "text": "Henry Reed nodded at Zander Davenport, a fellow organizer, who was frantically waving from a nearby information booth. Something seemed off about Zander Davenport's demeanor, but Henry Reed brushed it aside, focusing instead on the myriad of sights and sounds surrounding Henry Reed. Henry Reed checked his watch \u2013 2:24 PM on October 13, 2024.",
+        "doc_idx": 1,
+        "chunk_idx": 2,
+        "global_id": "1_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the festival's creator, arrives at the film festival he organized and notices a fellow organizer acting strangely, but dismisses it.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "October 13, 2024"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"October 13, 2024\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "1_3": {
+        "text": "The main event was set to begin in just over an hour, and there was still so much to do. Henry Reed quickened his pace, weaving between groups of cinephiles who were engrossed in heated debates about plot twists and character arcs. As Henry Reed passed by a particularly passionate discussion, Henry Reed overheard a snippet that made Henry Reed pause: \".",
+        "doc_idx": 1,
+        "chunk_idx": 3,
+        "global_id": "1_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival on a bridge, is walking through the crowd when he overhears a snippet of conversation that piques his curiosity.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_4": {
+        "text": "missing. can't believe it. what are we going to do.",
+        "doc_idx": 1,
+        "chunk_idx": 4,
+        "global_id": "1_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival on a bridge, overhears a snippet of conversation hinting at something missing, piquing his curiosity.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_5": {
+        "text": "\"\n\nFrowning, Henry Reed approached the group, Henry Reed's curiosity piqued. Before Henry Reed could inquire, however, Oakley Goetz appeared at Henry Reed's elbow, looking flustered. \"Sir, we have a situation,\" Oakley Goetz whispered urgently.",
+        "doc_idx": 1,
+        "chunk_idx": 5,
+        "global_id": "1_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival, overhears a snippet of conversation about something missing, but is interrupted before he can investigate.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_6": {
+        "text": "\"It's about the exhibitions. \" Henry Reed's stomach dropped. Henry Reed had hosted film poster exhibitions as a key feature of the festival, showcasing rare and valuable pieces from cinema history.",
+        "doc_idx": 1,
+        "chunk_idx": 6,
+        "global_id": "1_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the festival organizer, is interrupted by Oakley Goetz, who informs him of a problem related to the film poster exhibitions, a key feature of the event.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_7": {
+        "text": "\"What about the film poster exhibitions. \" Henry Reed asked, dreading the answer. Oakley Goetz hesitated, glancing around nervously before leaning in closer.",
+        "doc_idx": 1,
+        "chunk_idx": 7,
+        "global_id": "1_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival, learns from Oakley Goetz that there's a problem with the film poster exhibitions after overhearing a snippet of a concerning conversation.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_8": {
+        "text": "\"One of the posters is missing. The Hitchcock original. \" Henry Reed felt the blood drain from Henry Reed's face.",
+        "doc_idx": 1,
+        "chunk_idx": 8,
+        "global_id": "1_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival on a bridge, learns that a valuable Hitchcock poster is missing from the exhibition.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_9": {
+        "text": "That poster was worth a small fortune and was meant to be the centerpiece of the exhibition. Henry Reed took a deep breath, trying to maintain Henry Reed's composure. \"When was the Hitchcock original last seen.",
+        "doc_idx": 1,
+        "chunk_idx": 9,
+        "global_id": "1_9",
+        "start_sentence": 27,
+        "end_sentence": 30,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival on a bridge, learns that a valuable Hitchcock poster is missing from the exhibition.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_10": {
+        "text": "\" Henry Reed asked, Henry Reed's mind already racing through possibilities. Oakley Goetz shook their head, \"That's just it, sir. No one seems to know.",
+        "doc_idx": 1,
+        "chunk_idx": 10,
+        "global_id": "1_10",
+        "start_sentence": 30,
+        "end_sentence": 33,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed learns that a valuable Hitchcock poster is missing from the film festival exhibition and begins investigating.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "1_11": {
+        "text": "\"\n\nAs the implications of this revelation sank in, Henry Reed gazed out over the East River, the Queensboro Bridge suddenly feeling less like a celebration and more like a crime scene. The festival-goers continued their merrymaking, blissfully unaware of the drama unfolding behind the scenes. Henry Reed squared his shoulders, determination setting in.",
+        "doc_idx": 1,
+        "chunk_idx": 11,
+        "global_id": "1_11",
+        "start_sentence": 33,
+        "end_sentence": 36,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, the organizer of a film festival on the Queensboro Bridge, learns that a valuable Hitchcock poster is missing, shifting the atmosphere from celebratory to a potential crime scene.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "East River"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Queensboro Bridge"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"East River\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Queensboro Bridge\"\n    }\n]\n}\n```"
+        }
+      },
+      "1_12": {
+        "text": "The show must go on, but first, Henry Reed had a mystery to solve \u2013 and time was running out.",
+        "doc_idx": 1,
+        "chunk_idx": 12,
+        "global_id": "1_12",
+        "start_sentence": 36,
+        "end_sentence": 37,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After learning that a valuable Hitchcock poster is missing from the film festival he organized, Henry Reed resolves to solve the mystery while keeping the festival running.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_2": {
+      "2_0": {
+        "text": "The crisp air nipped at Jonah Kramer's cheeks as Jonah Kramer strolled through Washington Square Park, Jonah Kramer's eyes drawn to the glistening forms emerging from blocks of ice. Sculptors wielded the sculptors' tools with precision, coaxing delicate shapes from frozen canvases. Jonah Kramer paused, mesmerized by the transformation taking place before Jonah Kramer, Jonah Kramer's breath forming small clouds in the unseasonably cool spring air.",
+        "doc_idx": 2,
+        "chunk_idx": 0,
+        "global_id": "2_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening paragraph, introducing Jonah Kramer and setting the scene at an ice sculpture exhibition in Washington Square Park.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Washington Square Park"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "spring"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"spring\"\n    }\n]\n}\n```"
+        }
+      },
+      "2_1": {
+        "text": "Karsyn Schaeffer approached Jonah Kramer, Karsyn Schaeffer's smile as bright as the sunlight glinting off the ice. \"Beautiful, isn't it. \" Karsyn Schaeffer remarked, gesturing towards a half-finished swan, the swan's graceful neck stretching towards the sky.",
+        "doc_idx": 2,
+        "chunk_idx": 1,
+        "global_id": "2_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer is observing ice sculptures in Washington Square Park.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "2_2": {
+        "text": "Jonah Kramer nodded, feeling a flutter in Jonah Kramer's chest as Jonah Kramer and Karsyn Schaeffer's eyes met. The ice sculpture exhibition had only just begun, but already Jonah Kramer sensed this day would be etched in Jonah Kramer's memory forever. As Jonah Kramer and Karsyn Schaeffer wandered among the sculptures, Jonah Kramer found himself drawn to a particular piece \u2013 a frozen waterfall cascading over crystalline rocks.",
+        "doc_idx": 2,
+        "chunk_idx": 2,
+        "global_id": "2_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer meets Karsyn Schaeffer at the ice sculpture exhibition and they begin to explore the art together.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "2_3": {
+        "text": "The artist had captured the essence of motion in stillness, and Jonah Kramer longed to run Jonah Kramer's fingers over the icy surface. Karsyn Schaeffer noticed Jonah Kramer's fascination and gently took Jonah Kramer's hand, leading Jonah Kramer closer for a better view. Washington Square Park bustled with activity, families and couples alike marveling at the frozen artworks.",
+        "doc_idx": 2,
+        "chunk_idx": 3,
+        "global_id": "2_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer and Karsyn Schaeffer are exploring the ice sculpture exhibition in Washington Square Park.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Washington Square Park"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    }\n]\n}\n```"
+        }
+      },
+      "2_4": {
+        "text": "Children laughed and pointed, the children's excitement palpable in the air. Jonah Kramer couldn't help but smile, remembering Jonah Kramer's own childlike wonder at experiencing Jonah Kramer's first ice sculpture exhibition years ago. Now, as an adult, the magic hadn't diminished \u2013 if anything, the magic had grown stronger.",
+        "doc_idx": 2,
+        "chunk_idx": 4,
+        "global_id": "2_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer and Karsyn Schaeffer are enjoying the ice sculpture exhibition in Washington Square Park.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "2_5": {
+        "text": "As the day progressed, the sun's warmth began to affect the sculptures, causing tiny rivulets of water to trickle down the sculptures' surfaces. Jonah Kramer watched, transfixed, as droplets formed and fell, each one catching the light like a miniature prism. The droplets reminded Jonah Kramer of the transient nature of beauty, and how precious these moments truly were.",
+        "doc_idx": 2,
+        "chunk_idx": 5,
+        "global_id": "2_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer is attending an ice sculpture exhibition in Washington Square Park and this paragraph describes the effect of the sun on the sculptures as the day warms up.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "2_6": {
+        "text": "Henry Reed, one of the sculptors, invited Jonah Kramer to try Jonah Kramer's hand at carving. With trepidation, Jonah Kramer accepted the offered chisel and approached a small block of ice. Under Henry Reed's guidance, Jonah Kramer began to shape the frozen mass, Jonah Kramer's movements clumsy at first but growing more confident with each strike.",
+        "doc_idx": 2,
+        "chunk_idx": 6,
+        "global_id": "2_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer, after admiring the ice sculptures and spending time with Karsyn Schaeffer, is invited by one of the sculptors to try carving ice himself.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "2_7": {
+        "text": "As a simple flower began to emerge from the ice, Jonah Kramer felt a sense of accomplishment and connection to the art form. The sun dipped lower in the sky, casting long shadows across Washington Square Park. The sculptures took on an ethereal quality in the fading light, the sculptures' contours softened and mysterious.",
+        "doc_idx": 2,
+        "chunk_idx": 7,
+        "global_id": "2_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer tries ice sculpting under the guidance of one of the artists as the day progresses and the sun begins to set.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Washington Square Park"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "2_8": {
+        "text": "Jonah Kramer found himself lingering near a particularly intricate piece, a delicate fairytale castle complete with tiny ice flags fluttering from the fairytale castle's towers. As twilight approached, strings of lights illuminated the ice sculpture exhibition, bathing the ice in a warm, golden glow. The atmosphere shifted, becoming more intimate and romantic.",
+        "doc_idx": 2,
+        "chunk_idx": 8,
+        "global_id": "2_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "As the day transitions to evening at the ice sculpture exhibition, Jonah Kramer is captivated by a fairytale castle sculpture as the scene becomes illuminated and romantic.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "ice sculpture exhibition"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "twilight"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"ice sculpture exhibition\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"twilight\"\n    }\n]\n}\n```"
+        }
+      },
+      "2_9": {
+        "text": "Couples drew closer together, the couples' whispers and laughter mingling with the soft sound of melting ice. Jonah Kramer felt a longing to share this magical moment with someone special. It was then that Jonah Kramer realized how much the ice sculpture exhibition reminded Jonah Kramer of Jonah Kramer's own artistic pursuits.",
+        "doc_idx": 2,
+        "chunk_idx": 9,
+        "global_id": "2_9",
+        "start_sentence": 27,
+        "end_sentence": 30,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "As twilight falls at the ice sculpture exhibition, the romantic atmosphere makes Jonah Kramer long for connection and reflect on the parallels between the sculptures and Jonah Kramer's own art.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "2_10": {
+        "text": "Just as Jonah Kramer had conducted ice-themed music performances, these sculptors had found a way to express beauty through a medium as fleeting as ice. The parallel struck Jonah Kramer deeply, igniting a spark of inspiration for future compositions. As the ice sculpture exhibition came to a close on May 11, 2026, Jonah Kramer lingered in Washington Square Park, reluctant to leave.",
+        "doc_idx": 2,
+        "chunk_idx": 10,
+        "global_id": "2_10",
+        "start_sentence": 30,
+        "end_sentence": 33,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Jonah Kramer reflects on the ice sculpture exhibition, drawing parallels to his own artistic endeavors and feeling inspired as the event concludes.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "May 11, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Washington Square Park"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"May 11, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    }\n]\n}\n```"
+        }
+      },
+      "2_11": {
+        "text": "The day had been filled with wonder, creativity, and unexpected connections. Jonah Kramer took one last look at the slowly melting sculptures, committing the scene to memory. Whatever the future held, Jonah Kramer knew this day would remain frozen in time, a perfect moment captured like the very ice that had brought the day to life.",
+        "doc_idx": 2,
+        "chunk_idx": 11,
+        "global_id": "2_11",
+        "start_sentence": 33,
+        "end_sentence": 36,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding paragraph of the story, summarizing Jonah Kramer's experience at the ice sculpture exhibition and its lasting impact on him.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_3": {
+      "3_0": {
+        "text": "The early morning mist clung to the elevated walkway, obscuring the cityscape beyond. Chloe Castillo inhaled deeply, the damp air filling Chloe Castillo's lungs as Chloe Castillo stretched Chloe Castillo's limbs in preparation for the day ahead. The parkour workshop was set to begin soon, and an eerie silence hung over the abandoned railway turned urban park.",
+        "doc_idx": 3,
+        "chunk_idx": 0,
+        "global_id": "3_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening paragraph, setting the scene and introducing the protagonist, Chloe Castillo, and the location, an urban park where she is about to host a parkour workshop.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "3_1": {
+        "text": "As Chloe Castillo moved through Chloe Castillo's warm-up routine, Chloe Castillo couldn't shake the feeling that something was off. The usual bustle of the city seemed muffled, distant, as if the park had been cut off from the rest of the world. On May 11, 2026, Chloe Castillo found herself standing at the entrance of the High Line, Chloe Castillo's heart racing with a mixture of excitement and inexplicable dread.",
+        "doc_idx": 3,
+        "chunk_idx": 1,
+        "global_id": "3_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the protagonist, Chloe Castillo, arriving at the High Line for a parkour workshop and sensing an unsettling atmosphere before supernatural events begin.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "May 11, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "the entrance of the High Line"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "the park"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"May 11, 2026\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"the entrance of the High Line\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"the park\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "3_2": {
+        "text": "The workshop participants hadn't arrived yet, and Chloe Castillo was alone with Chloe Castillo's thoughts and the increasingly oppressive atmosphere. As Chloe Castillo scanned the length of the park, Chloe Castillo's eyes caught a fleeting shadow darting between the carefully curated plantings. Chloe Castillo blinked, and the fleeting shadow was gone.",
+        "doc_idx": 3,
+        "chunk_idx": 2,
+        "global_id": "3_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Chloe Castillo's growing unease as she waits for participants to arrive at her parkour workshop, noticing a strange shadow and feeling increasingly isolated.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "3_3": {
+        "text": "Chloe Castillo tried to rationalize the fleeting shadow as a trick of the light, but a chill ran down Chloe Castillo's spine nonetheless. The first participants began to trickle in, their voices echoing unnaturally in the fog-shrouded space. Chloe Castillo hosted parkour film screening the previous night, and Chloe Castillo recognized a few faces from the event.",
+        "doc_idx": 3,
+        "chunk_idx": 3,
+        "global_id": "3_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Chloe Castillo's growing unease as she waits for participants to arrive at her parkour workshop, noting a strange atmosphere and a fleeting shadow.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "3_4": {
+        "text": "As Chloe Castillo began the introductions, Luka Shaffer suddenly let out a blood-curdling scream. Everyone whirled around to see Luka Shaffer pointing at a nearby sculpture, Luka Shaffer's face drained of color. Chloe Castillo's eyes widened in horror as Chloe Castillo saw what had caused such terror \u2013 the sculpture, which Chloe Castillo knew to be a static installation, was slowly turning its head towards the group.",
+        "doc_idx": 3,
+        "chunk_idx": 4,
+        "global_id": "3_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the moment the park comes alive, marked by a participant's scream and a sculpture moving on its own, initiating the supernatural events of the story.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "3_5": {
+        "text": "Panic erupted as the participants scattered, their feet pounding against the elevated pathway. Chloe Castillo found herself frozen in place, watching in disbelief as more of the park's features came to life around Chloe Castillo. The carefully tended plants began to writhe and reach out with thorny tendrils, while the benches groaned and shifted as if trying to stand.",
+        "doc_idx": 3,
+        "chunk_idx": 5,
+        "global_id": "3_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the immediate aftermath of a sculpture inexplicably turning its head, triggering a panic as the park itself begins to animate and attack the parkour workshop participants.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "3_6": {
+        "text": "The mist thickened, obscuring Chloe Castillo's view of the exits. As Chloe Castillo finally broke free from Chloe Castillo's paralysis and started to run, Chloe Castillo heard a chorus of whispers rising from the very boards beneath Chloe Castillo's feet. The parkour workshop had turned into a nightmare, and Chloe Castillo realized with growing terror that Chloe Castillo's skills might be the only thing keeping Chloe Castillo alive in this suddenly hostile urban oasis.",
+        "doc_idx": 3,
+        "chunk_idx": 6,
+        "global_id": "3_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk describes the escalating supernatural events at the parkour workshop, as the park's features come to life and Chloe realizes she must use her skills to survive.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_4": {
+      "4_0": {
+        "text": "The cacophony of clinking glasses and raucous laughter filled the air as the craft beer festival reached its frothy peak on October 13, 2024. Amidst the chaos, a red-haired woman darted between tasting booths, her clipboard clutched tightly to her chest. Scarlett Thomas had organized homebrewing workshops for this event, but now Scarlett Thomas found herself caught in a whirlwind of hoppy madness.",
+        "doc_idx": 4,
+        "chunk_idx": 0,
+        "global_id": "4_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening paragraph, introducing the main character, Scarlett Thomas, and the setting of a chaotic craft beer festival she helped organize.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "October 13, 2024"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "tasting booths"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "craft beer festival"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"October 13, 2024\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"tasting booths\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"craft beer festival\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "4_1": {
+        "text": "The grand halls of the Woolworth Building echoed with the excited chatter of beer enthusiasts. Scarlett Thomas weaved through the crowd, dodging Meredith Lester's impressive beer belly and narrowly avoiding a collision with Presley Lunt, who was attempting to balance seven tasting glasses in one hand. \"Excuse me, pardon me, coming through.",
+        "doc_idx": 4,
+        "chunk_idx": 1,
+        "global_id": "4_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Scarlett Thomas navigating the crowded craft beer festival at the Woolworth Building.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Woolworth Building"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Woolworth Building\"\n    }\n]\n}\n```"
+        }
+      },
+      "4_2": {
+        "text": "\" Scarlett Thomas shouted, her voice barely audible above the din. Scarlett Thomas squeezed past a group of pretzel necklace-wearing attendees, their salty accessories swinging dangerously close to Scarlett Thomas's face. The scent of malt and hops hung heavy in the air, mingling with the unmistakable aroma of spilled beer and regret.",
+        "doc_idx": 4,
+        "chunk_idx": 2,
+        "global_id": "4_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Scarlett Thomas navigates the crowded and chaotic craft beer festival.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "4_3": {
+        "text": "Scarlett Thomas paused for a moment, surveying the scene before Scarlett Thomas. Scarlett Thomas watched as Kali Newcomb attempted to explain the nuances of a particularly pungent sour beer to Ronan Francois, who was clearly more interested in the free pretzels than the lecture on lactobacillus fermentation. Suddenly, a commotion erupted near the IPA section.",
+        "doc_idx": 4,
+        "chunk_idx": 3,
+        "global_id": "4_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Scarlett Thomas, the organizer of homebrewing workshops at a craft beer festival, navigates the crowded and chaotic event.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "4_4": {
+        "text": "Cora Xiong, sporting a shirt that proclaimed \"Hoppy and I Know It,\" had become entangled in a heated debate about the merits of West Coast versus New England style IPAs. Scarlett Thomas rushed over, praying Scarlett Thomas could diffuse the situation before the situation escalated into a full-blown hop riot. \"Gentlemen, gentlemen,\" Scarlett Thomas intervened, stepping between the two beer warriors.",
+        "doc_idx": 4,
+        "chunk_idx": 4,
+        "global_id": "4_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Scarlett Thomas's experience at a chaotic craft beer festival, specifically detailing her intervention in a brewing dispute.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "4_5": {
+        "text": "\"Why don't we agree that all IPAs are created equal. Except for the ones that aren't, of course. \" Scarlett Thomas's attempt at humor fell flat as the two men glared at each other, their fists clenched around their tasting glasses.",
+        "doc_idx": 4,
+        "chunk_idx": 5,
+        "global_id": "4_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Scarlett Thomas intervenes in a heated argument about IPAs at the beer festival.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "4_6": {
+        "text": "As Scarlett Thomas led the feuding parties away from each other, Scarlett Thomas caught sight of Scarlett Thomas's homebrewing workshop area. Nyla Bower was enthusiastically demonstrating the art of adding fruit to a fermenter, but had somehow managed to turn the entire table into a sticky, pulpy mess. Sighing, Scarlett Thomas made a mental note to stock up on paper towels for future events.",
+        "doc_idx": 4,
+        "chunk_idx": 6,
+        "global_id": "4_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Scarlett Thomas diffuses an argument at the beer festival and then notices a mess at the homebrewing workshop.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Scarlett Thomas's homebrewing workshop area"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Scarlett Thomas's homebrewing workshop area\"\n    }\n]\n}\n```"
+        }
+      },
+      "4_7": {
+        "text": "The day wore on, and Scarlett Thomas found herself juggling tasks like a circus performer on a unicycle. Scarlett Thomas mediated disputes over the last drops of a rare barrel-aged stout, consoled Delphi Parent who had accidentally mixed Delphi Parent's tasting glass with Delphi Parent's spit bucket, and heroically caught a runaway keg that had decided to make a break for freedom down the Woolworth Building's ornate staircase. As the festival drew to a close, Scarlett Thomas collapsed into a nearby chair, Scarlett Thomas's clipboard abandoned on the floor beside Scarlett Thomas.",
+        "doc_idx": 4,
+        "chunk_idx": 7,
+        "global_id": "4_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Scarlett Thomas's increasingly hectic day managing the craft beer festival as it nears its end, highlighting the various chaotic situations she handles.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Woolworth Building's ornate staircase"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"Woolworth Building's ornate staircase\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+        }
+      },
+      "4_8": {
+        "text": "Scarlett Thomas watched as the last stragglers stumbled towards the exit, their pockets bulging with bottle openers and branded coasters. Despite the chaos, a small smile played on Scarlett Thomas's lips. After all, in the world of craft beer, there was always another festival just around the corner \u2013 and hopefully, this time, Scarlett Thomas would remember to wear shoes with better traction on beer-soaked floors.",
+        "doc_idx": 4,
+        "chunk_idx": 8,
+        "global_id": "4_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding paragraph, describing the end of the craft beer festival and Scarlett's reflections on the day.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_5": {
+      "5_0": {
+        "text": "The air buzzed with excitement as Benjamin Green stepped into the grand hall, Benjamin Green's heart racing with anticipation. Developers from all corners of the tech world mingled, the developers' voices a symphony of innovation and possibility. As Benjamin Green scanned the room, Benjamin Green couldn't help but feel a sense of belonging, of finding Benjamin Green's tribe.",
+        "doc_idx": 5,
+        "chunk_idx": 0,
+        "global_id": "5_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt introduces Benjamin Green at a hackathon, setting the scene and establishing his initial feelings of excitement and belonging.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "5_1": {
+        "text": "With a deep breath, Benjamin Green approached the first group, introducing himself and sharing Benjamin Green's vision. Benjamin Green formed developer teams with practiced ease, Benjamin Green's charisma drawing people in like moths to a flame. The connection was palpable, electric even, as ideas flowed and collaborations sparked to life.",
+        "doc_idx": 5,
+        "chunk_idx": 1,
+        "global_id": "5_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Benjamin Green arrives at a hackathon and begins networking and forming teams.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "5_2": {
+        "text": "Sunlight streamed through the ornate windows of Snug Harbor Cultural Center, casting a warm glow on the faces of passionate coders huddled around laptops. Benjamin Green found himself drawn to Genevieve Burgin, Benjamin Green's and Genevieve Burgin's eyes meeting across the room in a moment that felt both fleeting and eternal. As Benjamin Green and Genevieve Burgin worked side by side, fingers flying across keyboards, Benjamin Green couldn't help but steal glances at Genevieve Burgin's profile, admiring the determined set of Genevieve Burgin's jaw and the way Genevieve Burgin's brow furrowed in concentration.",
+        "doc_idx": 5,
+        "chunk_idx": 2,
+        "global_id": "5_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Benjamin Green attends a hackathon, forms teams, and begins to notice Genevieve Burgin.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Snug Harbor Cultural Center"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Snug Harbor Cultural Center\"\n    }\n]\n}\n```"
+        }
+      },
+      "5_3": {
+        "text": "The hackathon challenge pushed Benjamin Green and Genevieve Burgin to their limits, but in those moments of shared struggle and triumph, Benjamin Green felt a connection deeper than lines of code. As April 09, 2026 drew to a close, Benjamin Green stood before the assembled crowd, Benjamin Green's project presentation met with thunderous applause. The day had been a whirlwind of creativity and collaboration, but it was the stolen moments with Genevieve Burgin that left Benjamin Green's heart racing.",
+        "doc_idx": 5,
+        "chunk_idx": 3,
+        "global_id": "5_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Benjamin Green meets Genevieve Burgin at the hackathon and they work together, forming a connection.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "5_4": {
+        "text": "Benjamin Green's and Genevieve Burgin's fingers had brushed as Benjamin Green and Genevieve Burgin reached for the same USB drive, sending shivers down Benjamin Green's spine. Now, as the awards were announced, Benjamin Green found himself hoping for more than just recognition for Benjamin Green's technical skills. When Genevieve Burgin's name was called alongside Benjamin Green's own, Benjamin Green's and Genevieve Burgin's eyes locked once more, and Benjamin Green knew that this hackathon had given Benjamin Green far more than Benjamin Green had ever anticipated.",
+        "doc_idx": 5,
+        "chunk_idx": 4,
+        "global_id": "5_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk describes the culmination of Benjamin Green's experience at the hackathon, focusing on his growing romantic connection with Genevieve Burgin and his realization that the event has brought more than just professional success.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "5_5": {
+        "text": "In that moment, surrounded by the hum of computers and the cheers of fellow developers, Benjamin Green realized that sometimes the most unexpected connections are forged in the crucible of shared passion and innovation.",
+        "doc_idx": 5,
+        "chunk_idx": 5,
+        "global_id": "5_5",
+        "start_sentence": 15,
+        "end_sentence": 16,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding sentence of the passage, summarizing Benjamin Green's realization that the hackathon led to an unexpected personal connection with Genevieve Burgin.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_6": {
+      "6_0": {
+        "text": "The starry dome of the planetarium glowed with celestial mysteries as the crowd filed in, the crowd's excited whispers echoing off the curved walls. Levi Rodriguez stood at the entrance, observing each face that passed, searching for any sign of recognition or suspicion. The American Museum of Natural History hummed with anticipation, the American Museum of Natural History's halls filled with the promise of cosmic revelations and hidden truths waiting to be uncovered.",
+        "doc_idx": 6,
+        "chunk_idx": 0,
+        "global_id": "6_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening scene, setting the stage at the American Museum of Natural History planetarium where Levi Rodriguez is observing the arriving crowd.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "6_1": {
+        "text": "As the clock struck eight on December 26, 2026, Levi Rodriguez adjusted his tie and stepped into the dim light of the planetarium. The air was thick with the scent of polished wood and expectation. Levi Rodriguez's fingers brushed against the cool metal of the microphone as Levi Rodriguez prepared to address the gathered stargazers.",
+        "doc_idx": 6,
+        "chunk_idx": 1,
+        "global_id": "6_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Levi Rodriguez arrives at the planetarium and prepares to address the audience.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "6_2": {
+        "text": "The weight of the night's significance pressed upon Levi Rodriguez, a burden as heavy as the secrets of the universe itself. Quill Womack approached, a glint of curiosity in Quill Womack's eyes. \"Quite the turnout tonight,\" Quill Womack remarked, scanning the crowd.",
+        "doc_idx": 6,
+        "chunk_idx": 2,
+        "global_id": "6_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Levi Rodriguez is about to begin a presentation at the planetarium.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "6_3": {
+        "text": "Levi Rodriguez nodded, Levi Rodriguez's gaze fixed on a distant point. \"Yes, the stars have aligned for us,\" Levi Rodriguez replied, the double meaning of Levi Rodriguez's words hanging in the air between Quill Womack and Levi Rodriguez. As Quill Womack moved away, Levi Rodriguez couldn't shake the feeling that something was amiss, a cosmic irregularity in the carefully planned evening.",
+        "doc_idx": 6,
+        "chunk_idx": 3,
+        "global_id": "6_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Levi Rodriguez is about to give a presentation at the planetarium when Quill Womack approaches him and makes a comment about the crowd.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "6_4": {
+        "text": "Levi Rodriguez stepped up to the podium, Levi Rodriguez's heart racing beneath Levi Rodriguez's carefully composed exterior. The spotlight illuminated Levi Rodriguez's face, casting long shadows across the floor. Levi Rodriguez cleared his throat, acutely aware of the hundreds of eyes fixed upon Levi Rodriguez.",
+        "doc_idx": 6,
+        "chunk_idx": 4,
+        "global_id": "6_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Levi Rodriguez is about to begin his presentation at the planetarium.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "6_5": {
+        "text": "The microphone crackled to life, and Levi Rodriguez began to speak, Levi Rodriguez's words weaving a tapestry of celestial wonder and earthly intrigue. As the night progressed, the atmosphere grew electric with competition and camaraderie. Levi Rodriguez hosted astronomy trivia contests, Levi Rodriguez's questions probing not just the depths of space but the minds of those present.",
+        "doc_idx": 6,
+        "chunk_idx": 5,
+        "global_id": "6_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Levi Rodriguez begins his presentation at the planetarium and then hosts astronomy trivia, observing the audience closely.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "6_6": {
+        "text": "Levi Rodriguez watched closely, noting each response, each reaction. Who among them might hold the key to unraveling the mystery that had brought Levi Rodriguez here. The stars above seemed to wink knowingly, guardians of secrets both cosmic and terrestrial, as Levi Rodriguez navigated the treacherous waters of deception and discovery.",
+        "doc_idx": 6,
+        "chunk_idx": 6,
+        "global_id": "6_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Levi Rodriguez is hosting astronomy trivia at the planetarium, using the event to observe the attendees and identify someone who can help him solve a mystery.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      }
+    },
+    "doc_7": {
+      "7_0": {
+        "text": "The air buzzed with anticipation as Zoe Brown entered the bustling conference center. Sleek laptops and tangled cords littered tables, while the scent of coffee mingled with the faint odor of nervous sweat. Zoe Brown's heart raced, not just from the caffeine coursing through Zoe Brown's veins, but from the electric atmosphere of innovation and possibility.",
+        "doc_idx": 7,
+        "chunk_idx": 0,
+        "global_id": "7_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Zoe Brown's arrival and initial impressions of the tech hackathon, setting the scene and introducing her excitement.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "Based on the provided `Text Chunk`, the `Operator Output` JSON, and the instructions, I will generate the `spatio_temporal_links`.\n\nSince the `Operator Output` has an empty `entity_nodes` list, I will create some entities based on the text chunk.\n\n```json\n{\n  \"entity_nodes\": [\n    {\n      \"id\": \"e1\",\n      \"name\": \"Zoe Brown\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e2\",\n      \"name\": \"conference center\",\n      \"roles\": [],\n      \"states\": [\"bustling\"]\n    },\n    {\n      \"id\": \"e3\",\n      \"name\": \"tables\",\n      \"roles\": [],\n      \"states\": [\"littered\"]\n    },\n    {\n      \"id\": \"e4\",\n      \"name\": \"laptops\",\n      \"roles\": [],\n      \"states\": [\"sleek\"]\n    },\n    {\n      \"id\": \"e5\",\n      \"name\": \"cords\",\n      \"roles\": [],\n      \"states\": [\"tangled\"]\n    },\n    {\n      \"id\": \"e6\",\n      \"name\": \"scent\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e7\",\n      \"name\": \"coffee\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e8\",\n      \"name\": \"odor\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e9\",\n      \"name\": \"sweat\",\n      \"roles\": [],\n      \"states\": [\"nervous\"]\n    }\n  ]\n}\n```\n\nNow, I will generate the `spatio_temporal_links` based on the entities above.\n\n```json\n{\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [\"e1\", \"e2\", \"e3\", \"e4\", \"e5\", \"e6\", \"e7\", \"e8\", \"e9\"],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"conference center\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "7_1": {
+        "text": "As Zoe Brown weaved through the crowd, Zoe Brown's fingers brushed against the cool metal of Zoe Brown's tablet, Zoe Brown's lifeline for the day ahead. The soft murmur of voices discussing algorithms and user interfaces filled Zoe Brown's ears, punctuated by the occasional burst of laughter or triumphant exclamation. At Port Jefferson on March 23, 2024, the tech hackathon was in full swing.",
+        "doc_idx": 7,
+        "chunk_idx": 1,
+        "global_id": "7_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Zoe Brown's arrival and initial impressions of the tech hackathon, setting the scene and introducing the event's atmosphere.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Port Jefferson"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "March 23, 2024"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Port Jefferson\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"March 23, 2024\"\n    }\n]\n}\n```"
+        }
+      },
+      "7_2": {
+        "text": "Sunlight streamed through the tall windows, casting a warm glow on the faces of determined participants. Zoe Brown found herself drawn to a corner where Remy Waterman was gesticulating wildly, explaining a concept with infectious enthusiasm. Remy Waterman's and Zoe Brown's eyes met briefly, and Zoe Brown felt a spark of connection that made Zoe Brown's cheeks flush.",
+        "doc_idx": 7,
+        "chunk_idx": 2,
+        "global_id": "7_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Zoe Brown's arrival and initial observations at the tech hackathon, including her first encounter with Remy Waterman.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": null\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+        }
+      },
+      "7_3": {
+        "text": "Shaking off the distraction, Zoe Brown focused on the task at hand, Zoe Brown's fingers flying across Zoe Brown's tablet as Zoe Brown jotted down ideas. The day stretched ahead, full of promise and the potential for both professional and personal discoveries. As the afternoon wore on, Zoe Brown found herself immersed in Zoe Brown's project, barely noticing the passage of time.",
+        "doc_idx": 7,
+        "chunk_idx": 3,
+        "global_id": "7_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown attends a tech hackathon, is initially distracted by Remy Waterman, then refocuses on her project.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "7_4": {
+        "text": "Zoe Brown tested user experience with laser-like focus, determined to create something truly innovative. Yet, Zoe Brown couldn't help but steal glances at Remy Waterman, who was now working just a few feet away. Remy Waterman's and Zoe Brown's eyes met again, and this time, a smile passed between Remy Waterman and Zoe Brown.",
+        "doc_idx": 7,
+        "chunk_idx": 4,
+        "global_id": "7_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Zoe Brown's experience at a tech hackathon, focusing on her work and growing attraction to another participant, Remy Waterman.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "7_5": {
+        "text": "Zoe Brown's heart fluttered, and Zoe Brown wondered if perhaps this hackathon might lead to more than just technological breakthroughs. As the day drew to a close, Zoe Brown gathered Zoe Brown's courage and approached Remy Waterman, ready to share Zoe Brown's ideas and perhaps explore the chemistry that seemed to crackle between Remy Waterman and Zoe Brown.",
+        "doc_idx": 7,
+        "chunk_idx": 5,
+        "global_id": "7_5",
+        "start_sentence": 15,
+        "end_sentence": 17,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown attends a tech hackathon, becomes engrossed in her project, but is also distracted by a connection with Remy Waterman.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "As the day drew to a close"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "hackathon"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"As the day drew to a close\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"hackathon\"\n    }\n]\n}\n```"
+        }
+      }
+    },
+    "doc_8": {
+      "8_0": {
+        "text": "The air crackled with anticipation as the woman slipped into her seat, the plush velvet cushion enveloping the woman like a whisper. The ornate ceiling arched high above, the ornate ceiling's intricate patterns casting eerie shadows in the dim light. The woman inhaled deeply, the scent of polished wood and aged stone filling the woman's lungs.",
+        "doc_idx": 8,
+        "chunk_idx": 0,
+        "global_id": "8_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening scene, describing the protagonist's arrival and initial impressions of the theater before the play begins.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_1": {
+        "text": "The theater was alive with hushed murmurs and the rustle of programs, a palpable energy pulsing through the space. As the lights dimmed further, the woman felt her heart rate quicken. The heavy curtains parted with a soft swish, revealing a stark stage bathed in an otherworldly glow.",
+        "doc_idx": 8,
+        "chunk_idx": 1,
+        "global_id": "8_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the atmosphere and the woman's anticipation as the play is about to begin.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_2": {
+        "text": "Kylee Beard, the lead actor, stepped forward, Kylee Beard's presence commanding and magnetic. The woman leaned forward, captivated by the intensity in Kylee Beard's eyes as Kylee Beard began to speak, Kylee Beard's voice resonating through the cavernous space. The performance unfolded like a fever dream, each scene more gripping than the last.",
+        "doc_idx": 8,
+        "chunk_idx": 2,
+        "global_id": "8_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the beginning of the play, focusing on the lead actor's captivating performance and the immersive atmosphere.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "cavernous space"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"cavernous space\"\n    }\n]\n}\n```"
+        }
+      },
+      "8_3": {
+        "text": "The woman found herself holding her breath, the woman's fingers digging into the armrests as the plot twisted and turned. The actors moved across the stage with fluid grace, the actors' movements precise and purposeful. Every gasp and whisper from the audience around the woman only heightened the tension.",
+        "doc_idx": 8,
+        "chunk_idx": 3,
+        "global_id": "8_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the woman's intense engagement with the play as the plot thickens, highlighting the rising tension and her physical reaction to the performance.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_4": {
+        "text": "During a particularly tense moment, the woman noticed Josephine Gaither shift uncomfortably in the seat next to the woman. The woman and Josephine Gaither's eyes met briefly, a flicker of shared unease passing between them. The woman turned her attention back to the stage, but couldn't shake the feeling that something was off.",
+        "doc_idx": 8,
+        "chunk_idx": 4,
+        "global_id": "8_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "The woman is watching a play and begins to feel that something is amiss, noticing a shared unease with another audience member.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_5": {
+        "text": "The air seemed to thicken, the cathedral's vast space suddenly feeling claustrophobic. As the first act came to a close, the woman recalled how Mila Gonzalez discussed audience interaction earlier, wondering if audience interaction would come into play. The thought barely had time to form before Nylah Zavala, another actor, broke the fourth wall, addressing the audience directly.",
+        "doc_idx": 8,
+        "chunk_idx": 5,
+        "global_id": "8_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the rising tension during the play's first act, culminating in an actor breaking the fourth wall and directly addressing the audience, which the protagonist finds unsettling.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "cathedral"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "null"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"cathedral\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"null\"\n    }\n]\n}\n```"
+        }
+      },
+      "8_6": {
+        "text": "A chill ran down the woman's spine as Nylah Zavala's gaze seemed to lock onto the woman, Nylah Zavala's words taking on a menacing undertone. Intermission arrived, bringing with intermission a flurry of movement and chatter. The woman remained seated, the woman's mind racing as the woman tried to process what the woman had witnessed.",
+        "doc_idx": 8,
+        "chunk_idx": 6,
+        "global_id": "8_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the protagonist's growing unease during a play, culminating in a chilling moment when an actor breaks the fourth wall and seems to directly threaten her. Intermission follows, and she is left to grapple with the unsettling experience.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_7": {
+        "text": "The other theatergoers seemed oblivious to the undercurrent of danger the woman sensed. The woman scanned the crowd, searching for any sign that others shared the woman's unease. It was then that the woman spotted Mila Gonzalez, engaged in an intense conversation with Nash Ensign near the back of the cathedral.",
+        "doc_idx": 8,
+        "chunk_idx": 7,
+        "global_id": "8_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Following a disturbing moment where an actor breaks the fourth wall, the protagonist feels a sense of unease and suspects something is amiss, leading her to observe the other audience members for any sign they share her feelings.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [
+                "Mila Gonzalez",
+                "Nash Ensign"
+              ],
+              "tag_type": "spatial",
+              "tag_value": "back of the cathedral"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [\"Mila Gonzalez\", \"Nash Ensign\"],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"back of the cathedral\"\n    }\n]\n}\n```"
+        }
+      },
+      "8_8": {
+        "text": "Mila Gonzalez and Nash Ensign's hushed tones and furtive glances only served to heighten the woman's suspicion. The woman strained to hear Mila Gonzalez and Nash Ensign's words, but the din of the crowd made it impossible. As the second act began, the atmosphere grew even more charged.",
+        "doc_idx": 8,
+        "chunk_idx": 8,
+        "global_id": "8_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Following a disquieting first act where an actor breaks the fourth wall, the protagonist observes suspicious behavior between two other actors during intermission, fueling her growing unease.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_9": {
+        "text": "The actors' performances took on a frenzied quality, the actors' movements becoming increasingly erratic. The woman found herself on the edge of her seat, the woman's breath coming in short, sharp gasps. The lines between reality and fiction began to blur, the events on stage seeming to mirror some hidden truth.",
+        "doc_idx": 8,
+        "chunk_idx": 9,
+        "global_id": "8_9",
+        "start_sentence": 27,
+        "end_sentence": 30,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the escalating tension and increasingly surreal nature of the play's second act, heightening the protagonist's sense of unease and blurring the lines between reality and fiction.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_10": {
+        "text": "A fleeting thought of the date, January 03, 2026, flashed through the woman's mind. Was there significance to January 03, 2026. The question lingered as the performance reached its climax, the tension in the room reaching a fever pitch.",
+        "doc_idx": 8,
+        "chunk_idx": 10,
+        "global_id": "8_10",
+        "start_sentence": 30,
+        "end_sentence": 33,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "During the play's climax, the woman has a sudden, unexplained thought about the date January 3, 2026, adding to her growing unease.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "January 03, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "the room"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"January 03, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"the room\"\n    }\n]\n}\n```"
+        }
+      },
+      "8_11": {
+        "text": "The woman felt as though the woman were balancing on a knife's edge, poised between revelation and oblivion. In the final moments of the play, as the actors took their bows to thunderous applause, a realization struck the woman with the force of a physical blow. The entire performance had been a carefully orchestrated ruse, a smokescreen for something far more sinister.",
+        "doc_idx": 8,
+        "chunk_idx": 11,
+        "global_id": "8_11",
+        "start_sentence": 33,
+        "end_sentence": 36,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk describes the climax of the play, where the woman realizes the performance was a deceptive facade.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "8_12": {
+        "text": "As the lights came up, illuminating the grand interior of St. Patrick's Cathedral, the woman knew with chilling certainty that the woman's real ordeal was only just beginning.",
+        "doc_idx": 8,
+        "chunk_idx": 12,
+        "global_id": "8_12",
+        "start_sentence": 36,
+        "end_sentence": 38,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding sentence of the narrative, where the protagonist realizes the play was a facade for something dangerous.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "St. Patrick's Cathedral"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"St. Patrick's Cathedral\"\n    }\n]\n}\n```"
+        }
+      }
+    },
+    "doc_9": {
+      "9_0": {
+        "text": "The velvet curtains parted, revealing a stage bathed in an ethereal glow. The audience at High Line held their collective breath, anticipating the performance that would soon unfold. Whispers of excitement rippled through the crowd, mingling with the faint scent of perfume and polished wood.",
+        "doc_idx": 9,
+        "chunk_idx": 0,
+        "global_id": "9_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This paragraph describes the beginning of a play at the High Line theater, setting the scene and atmosphere as the audience anticipates the performance.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "9_1": {
+        "text": "As the first actor stepped into the spotlight, a hush fell over the theater, enveloping everyone in a cocoon of anticipation. Jackson Ramos leaned forward in his seat, Jackson Ramos's eyes fixed on the stage. Earlier that day, Jackson Ramos discussed theater funding with Israel Gallo, but now Jackson Ramos's mind was consumed by the unfolding drama before Jackson Ramos.",
+        "doc_idx": 9,
+        "chunk_idx": 1,
+        "global_id": "9_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the beginning of a play at the High Line theater, focusing on Jackson Ramos's anticipation and absorption in the performance, contrasting it with his earlier discussion about theater funding.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "theater"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "Earlier that day"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"theater\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"Earlier that day\"\n    }\n]\n}\n```"
+        }
+      },
+      "9_2": {
+        "text": "The lead actress's voice, rich and melodious, filled the air, weaving a tale of love and loss that seemed to resonate with every soul in the audience. Jackson Ramos felt a tightening in Jackson Ramos's chest, a premonition of the tragedy to come. As the performance progressed, the weight of the narrative bore down upon the spectators.",
+        "doc_idx": 9,
+        "chunk_idx": 2,
+        "global_id": "9_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the beginning of the play and Jackson Ramos's initial emotional reaction to it.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "9_3": {
+        "text": "February 27, 2026, would be remembered as a day of profound emotional impact for all in attendance. The actors moved across the stage with grace and purpose, the actors' movements a choreographed dance of sorrow and redemption. In the third act, a gasp rippled through the audience as the protagonist made a fateful decision, sealing the protagonist's doom and that of the protagonist's loved ones.",
+        "doc_idx": 9,
+        "chunk_idx": 3,
+        "global_id": "9_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the progression of the play and its increasing emotional impact on the audience, including Jackson Ramos.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "February 27, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "the stage"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"February 27, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"the stage\"\n    }\n]\n}\n```"
+        }
+      },
+      "9_4": {
+        "text": "Tears glistened on cheeks throughout the theater, illuminated by the soft glow of the stage lights. Jackson Ramos gripped the armrests of Jackson Ramos's seat, knuckles white with tension, as the story hurtled towards its inevitable conclusion. The air grew thick with shared grief, the collective heartbreak of hundreds of strangers united in their empathy for the characters' plight.",
+        "doc_idx": 9,
+        "chunk_idx": 4,
+        "global_id": "9_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk describes the audience's emotional reaction, particularly Jackson Ramos's, as the tragic play nears its climax.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "9_5": {
+        "text": "As the final, devastating scene unfolded, Jackson Ramos felt a tear slip down Jackson Ramos's own cheek, surprised by the depth of Jackson Ramos's emotional investment. The curtain fell, and for a moment, silence reigned. Then, as if awakening from a shared dream, the audience erupted into thunderous applause.",
+        "doc_idx": 9,
+        "chunk_idx": 5,
+        "global_id": "9_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the climax and immediate aftermath of the play, focusing on Jackson Ramos's emotional reaction and the audience's response.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "9_6": {
+        "text": "Jackson Ramos rose to Jackson Ramos's feet, joining the standing ovation, Jackson Ramos's hands stinging from the force of Jackson Ramos's clapping. As the actors took their bows, Jackson Ramos felt a bittersweet mixture of catharsis and melancholy. The tragedy had touched something deep within Jackson Ramos, leaving an indelible mark on Jackson Ramos's soul.",
+        "doc_idx": 9,
+        "chunk_idx": 6,
+        "global_id": "9_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Jackson Ramos's emotional reaction to the play's ending, including his participation in the standing ovation and the lasting impact of the performance on him.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "9_7": {
+        "text": "As the lights came up and the spell of the performance began to fade, Jackson Ramos knew that the memory of this evening would stay with Jackson Ramos for years to come.",
+        "doc_idx": 9,
+        "chunk_idx": 7,
+        "global_id": "9_7",
+        "start_sentence": 21,
+        "end_sentence": 22,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk concludes the narrative, describing Jackson Ramos's lasting emotional response to the theatrical performance he attended.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_10": {
+      "10_0": {
+        "text": "The crisp autumn air carried an ominous chill as Hazel Lewis stepped onto the weathered planks. Mist clung to the river below, obscuring the water's surface and lending an eerie atmosphere to the gathering crowd. Spectators, dressed in period attire, milled about with an air of anticipation, their excited chatter a stark contrast to the growing sense of unease that gnawed at Hazel Lewis's gut.",
+        "doc_idx": 10,
+        "chunk_idx": 0,
+        "global_id": "10_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening paragraph of a horror story, setting the scene at a historical reenactment on the Brooklyn Bridge where the protagonist, Hazel Lewis, begins to sense something is wrong.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "10_1": {
+        "text": "Hazel Lewis had organized historical fashion shows for years, but this reenactment felt different. The costumes seemed too authentic, the participants too invested in their roles. As Hazel Lewis surveyed the scene, a shiver ran down Hazel Lewis's spine, and Hazel Lewis couldn't shake the feeling that something was terribly wrong.",
+        "doc_idx": 10,
+        "chunk_idx": 1,
+        "global_id": "10_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Hazel Lewis's initial unease at the historical reenactment, highlighting the heightened realism and foreshadowing the supernatural events to come.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "10_2": {
+        "text": "The first rays of sunlight struggled to penetrate the thick fog, casting long shadows across the wooden walkway. Hazel Lewis watched as Sol Schiller, clad in a Victorian-era dress, glided past with an unnaturally fluid grace. Sol Schiller's eyes, hollow and devoid of life, locked onto Hazel Lewis's eyes for a brief moment before disappearing into the crowd.",
+        "doc_idx": 10,
+        "chunk_idx": 2,
+        "global_id": "10_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Hazel Lewis's growing unease as the historical reenactment begins, focusing on a disturbing encounter with a participant, Sol Schiller, whose appearance and movements are unsettling.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "wooden walkway"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"wooden walkway\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+        }
+      },
+      "10_3": {
+        "text": "Hazel Lewis felt her heart racing as Hazel Lewis tried to make sense of what Hazel Lewis had just witnessed. Hazel Lewis blinked hard, convinced Hazel Lewis's mind was playing tricks on Hazel Lewis. But when Hazel Lewis opened Hazel Lewis's eyes, the unsettling sights only intensified.",
+        "doc_idx": 10,
+        "chunk_idx": 3,
+        "global_id": "10_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Following an unsettling encounter with a participant, Sol Schiller, Hazel Lewis tries to rationalize what she saw, but the strangeness escalates.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "10_4": {
+        "text": "The crowd seemed to move in unison, their movements mechanical and precise, as if choreographed by some unseen force. A low rumble emanated from the structure beneath Hazel Lewis's feet, causing Hazel Lewis to stumble. Hazel Lewis reached out to steady herself against a nearby railing, only to recoil in horror as the cold metal pulsed beneath Hazel Lewis's fingertips like a living thing.",
+        "doc_idx": 10,
+        "chunk_idx": 4,
+        "global_id": "10_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Hazel's growing horror as the historical reenactment becomes increasingly surreal and the environment itself seems to warp, indicating something supernatural is occurring.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "10_5": {
+        "text": "Panic began to set in as Hazel Lewis realized that this was no ordinary reenactment. The fog thickened, obscuring Hazel Lewis's vision and muffling the sounds around Hazel Lewis. Disembodied whispers echoed in Hazel Lewis's ears, speaking in languages long forgotten.",
+        "doc_idx": 10,
+        "chunk_idx": 5,
+        "global_id": "10_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Hazel Lewis is experiencing increasingly strange and unsettling events at a historical reenactment, leading her to realize something is terribly wrong.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "10_6": {
+        "text": "Hazel Lewis spun around, trying to locate the source of the whispers, but found Hazel Lewis surrounded by a sea of blank faces, all turned towards Hazel Lewis with an unnerving stillness. As Hazel Lewis backed away, Hazel Lewis's heel caught on something solid. Hazel Lewis looked down to find Octavia Talley, sprawled motionless on the wooden planks.",
+        "doc_idx": 10,
+        "chunk_idx": 6,
+        "global_id": "10_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Hazel Lewis experiences increasingly disturbing events at a historical reenactment, including disembodied whispers and a crowd with blank faces, before discovering a motionless body.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "10_7": {
+        "text": "Octavia Talley's eyes were wide open, staring sightlessly at the sky above. But it was Octavia Talley's attire that truly horrified Hazel Lewis \u2013 Octavia Talley's clothes seemed to shift and change, cycling through different historical periods as if time itself was unraveling. A piercing scream cut through the air, and Hazel Lewis realized with a start that the scream was Hazel Lewis's own.",
+        "doc_idx": 10,
+        "chunk_idx": 7,
+        "global_id": "10_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Hazel's growing horror as the historical reenactment devolves into a temporal anomaly, focusing on the unsettling sight of a dead woman whose clothes shift through time periods, culminating in Hazel's own scream.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": null\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+        }
+      },
+      "10_8": {
+        "text": "The crowd began to close in, their faces morphing into grotesque masks of bygone eras. In that moment, Hazel Lewis understood the terrible truth \u2013 the Brooklyn Bridge had become a nexus of temporal chaos, trapping them all in a nightmarish loop of history. As the world around Hazel Lewis began to fade and blur, merging past and present into a terrifying tapestry of horror, Hazel Lewis caught a glimpse of a nearby newspaper stand.",
+        "doc_idx": 10,
+        "chunk_idx": 8,
+        "global_id": "10_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk describes the climax of the story, where Hazel realizes the historical reenactment has become a temporal anomaly, trapping everyone on the Brooklyn Bridge in a time loop.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Brooklyn Bridge"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Brooklyn Bridge\"\n    }\n]\n}\n```"
+        }
+      },
+      "10_9": {
+        "text": "The date on the front page burned itself into Hazel Lewis's mind: September 03, 2026. But as Hazel Lewis watched, the numbers began to shift and change, spiraling backwards through time as the Brooklyn Bridge claimed its latest victims.",
+        "doc_idx": 10,
+        "chunk_idx": 9,
+        "global_id": "10_9",
+        "start_sentence": 27,
+        "end_sentence": 29,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the climax of the story, where Hazel realizes the time loop and the bridge's role as a temporal nexus.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "September 03, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Brooklyn Bridge"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"September 03, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Brooklyn Bridge\"\n    }\n]\n}\n```"
+        }
+      }
+    },
+    "doc_11": {
+      "11_0": {
+        "text": "The air shimmered with an otherworldly energy as Chloe Castillo stepped onto the glittering runway. Gossamer threads of magic wove through the fabric of Chloe Castillo's gown, casting an ethereal glow that seemed to pulse with each step. The grand hall, once home to ancient relics, now pulsed with the heartbeat of high fashion and fantastical couture.",
+        "doc_idx": 11,
+        "chunk_idx": 0,
+        "global_id": "11_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the beginning of Chloe Castillo's fantastical fashion show at the American Museum of Natural History.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "the grand hall"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"the grand hall\"\n    }\n]\n}\n```"
+        }
+      },
+      "11_1": {
+        "text": "Chloe Castillo paused at the end of the catwalk, drinking in the sea of expectant faces before Chloe Castillo. Sienna Hamrick, seated in the front row, leaned forward with undisguised hunger in Sienna Hamrick's eyes. Chloe Castillo allowed herself a small smile, knowing that what was about to unfold would surpass even Sienna Hamrick's wildest imaginations.",
+        "doc_idx": 11,
+        "chunk_idx": 1,
+        "global_id": "11_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Chloe Castillo is about to begin her fashion show, and this paragraph describes her anticipation and the audience's eagerness.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "11_2": {
+        "text": "With a flourish of Chloe Castillo's hands, Chloe Castillo summoned forth Chloe Castillo's creations. Shimmering silhouettes materialized from thin air, each garment more breathtaking than the last. As Chloe Castillo revealed future collections, gasps of awe rippled through the audience.",
+        "doc_idx": 11,
+        "chunk_idx": 2,
+        "global_id": "11_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Chloe Castillo begins showcasing her fantastical fashion designs at the American Museum of Natural History.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "11_3": {
+        "text": "Dresses spun from starlight, suits crafted from living shadows, and accessories that defied the laws of physics danced before the audience's eyes. The models, ethereal beings themselves, glided down the runway with an otherworldly grace. The models' skin sparkled with an iridescent sheen, and the models' eyes held the wisdom of a thousand lifetimes.",
+        "doc_idx": 11,
+        "chunk_idx": 3,
+        "global_id": "11_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the fantastical fashion designs and ethereal models showcased during Chloe Castillo's groundbreaking runway show.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "11_4": {
+        "text": "As the models passed, the very air seemed to bend and twist, creating swirling patterns of color and light that left the audience spellbound. At the American Museum of Natural History, Chloe Castillo had transformed the space into a realm where fashion and fantasy collided. Ancient dinosaur skeletons wore tailored jackets of shimmering scales, while prehistoric plants burst into bloom, their petals forming exquisite hats and accessories.",
+        "doc_idx": 11,
+        "chunk_idx": 4,
+        "global_id": "11_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the magical fashion show Chloe Castillo is putting on, focusing on the otherworldly models and the transformation of the museum setting.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "American Museum of Natural History"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"American Museum of Natural History\"\n    }\n]\n}\n```"
+        }
+      },
+      "11_5": {
+        "text": "The juxtaposition of the primordial and the futuristic created a mesmerizing tapestry of style and imagination. As the show reached its crescendo, Chloe Castillo felt a surge of power coursing through Chloe Castillo's veins. With a wave of Chloe Castillo's hand, Chloe Castillo conjured a storm of glittering butterflies that swirled around the audience, leaving trails of stardust in the butterflies' wake.",
+        "doc_idx": 11,
+        "chunk_idx": 5,
+        "global_id": "11_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the climax of Chloe Castillo's fashion show at the American Museum of Natural History, where she blends ancient and futuristic elements and uses magic to create a spectacular display.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "11_6": {
+        "text": "Reid Blunt reached out in wonder, Reid Blunt's fingers brushing against the delicate wings, only to find Reid Blunt's own clothing transformed into something magical and new. When the last model disappeared in a shower of sparks, and the final notes of the otherworldly music faded away, Chloe Castillo knew Chloe Castillo had changed the face of fashion forever. As the applause thundered through the hall, Chloe Castillo allowed herself a moment of reflection.",
+        "doc_idx": 11,
+        "chunk_idx": 6,
+        "global_id": "11_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the climax and immediate aftermath of Chloe Castillo's groundbreaking fashion show, focusing on the magical effects on the audience and Castillo's realization of her transformative impact.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "hall"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"hall\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+        }
+      },
+      "11_7": {
+        "text": "It was September 22, 2026, and on this night, Chloe Castillo had woven dreams into reality, leaving an indelible mark on the tapestry of time.",
+        "doc_idx": 11,
+        "chunk_idx": 7,
+        "global_id": "11_7",
+        "start_sentence": 21,
+        "end_sentence": 22,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding sentence of the passage, summarizing the impact of Chloe Castillo's fantastical fashion show.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "September 22, 2026"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"September 22, 2026\"\n    }\n]\n}\n```"
+        }
+      }
+    },
+    "doc_12": {
+      "12_0": {
+        "text": "The crisp autumn air whispered of change as Henry Reed stepped into the dimly lit gallery on September 22, 2026. Port Jefferson's annual photography exhibition buzzed with anticipation, the walls adorned with striking images that seemed to pulse with life. As Henry Reed moved through the space, Henry Reed's keen eyes darted from frame to frame, analyzing composition and light.",
+        "doc_idx": 12,
+        "chunk_idx": 0,
+        "global_id": "12_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt introduces the protagonist, Henry Reed, and sets the scene at a photography exhibition where he senses something is wrong.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "September 22, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "gallery"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Port Jefferson"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"September 22, 2026\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"gallery\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"Port Jefferson\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "12_1": {
+        "text": "The detective-turned-photographer, Henry Reed, couldn't shake the feeling that something was amiss. A hushed conversation between Ronan Guevara and Miles Pritchett caught Henry Reed's attention, Ronan Guevara's and Miles Pritchett's furtive glances adding to the air of mystery. Henry Reed approached a group gathered around Henry Reed's own work, where Henry Reed explained post-processing techniques with practiced ease.",
+        "doc_idx": 12,
+        "chunk_idx": 1,
+        "global_id": "12_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk describes Henry Reed's initial observations and growing suspicion at the photography exhibition, focusing on a hushed conversation and his own interaction with attendees.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "12_2": {
+        "text": "Yet even as Henry Reed spoke, Henry Reed's mind raced, piecing together clues from the whispers and shadows that danced at the edges of Henry Reed's vision. The scent of developing chemicals lingered in the air, a reminder of the darker room where secrets could be developed and exposed. As the evening wore on, the atmosphere grew thick with unspoken tension.",
+        "doc_idx": 12,
+        "chunk_idx": 2,
+        "global_id": "12_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Henry Reed, a detective-turned-photographer, attends a photography exhibition in Port Jefferson and notices suspicious behavior, fueling his suspicion that something sinister is hidden beneath the surface of the event. This chunk describes Henry's internal thoughts and growing unease as he observes the scene.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "darker room"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "evening"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"darker room\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"evening\"\n    }\n]\n}\n```"
+        }
+      },
+      "12_3": {
+        "text": "Henry Reed noticed Amira Hayes studying a particular photograph with unusual intensity, jotting notes in a worn leather notebook. The detective in Henry Reed couldn't resist the urge to investigate further. Weaving through the crowd, Henry Reed made his way towards the intriguing scene, Henry Reed's instincts telling Henry Reed that this seemingly innocent exhibition might be concealing something far more sinister beneath Port Jefferson's annual photography exhibition's polished surface.",
+        "doc_idx": 12,
+        "chunk_idx": 3,
+        "global_id": "12_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Henry Reed's growing suspicion that something is amiss at the photography exhibition, focusing on Amira Hayes's behavior as a catalyst for his investigation.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_13": {
+      "13_0": {
+        "text": "The sultry evening air clung to Zoe Brown's skin as Zoe Brown stepped out of the car, the distant thrum of music pulsing through the darkness. May 07, 2024 had finally arrived, and with it, the promise of an unforgettable night. Zoe Brown smoothed down Zoe Brown's sequined dress, the sequined dress's sparkles catching the dim light from the parking lot lamps.",
+        "doc_idx": 13,
+        "chunk_idx": 0,
+        "global_id": "13_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening paragraph, setting the scene as Zoe Brown arrives at Hither Hills State Park for an open mic night on May 7, 2024.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "May 07, 2024"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "parking lot"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"May 07, 2024\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"parking lot\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "13_1": {
+        "text": "The path ahead wound through shadowy trees, leading to a clearing where laughter and the occasional off-key note drifted on the breeze. As Zoe Brown approached the makeshift stage, Zoe Brown's heart raced with anticipation. Hither Hills State Park's usual serenity had been transformed into a vibrant hub of activity.",
+        "doc_idx": 13,
+        "chunk_idx": 1,
+        "global_id": "13_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown arrives at Hither Hills State Park for an open mic night.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Hither Hills State Park"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Hither Hills State Park\"\n    }\n]\n}\n```"
+        }
+      },
+      "13_2": {
+        "text": "Fairy lights twinkled in the trees, casting a warm glow over the assembled crowd. Zoe Brown scanned the faces, searching for familiar features among the sea of strangers. Alma Aultman caught Zoe Brown's eye, raising a plastic cup in greeting.",
+        "doc_idx": 13,
+        "chunk_idx": 2,
+        "global_id": "13_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown arrives at Hither Hills State Park for an open mic night and surveys the scene.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "trees"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"trees\"\n    }\n]\n}\n```"
+        }
+      },
+      "13_3": {
+        "text": "Zoe Brown nodded back, a small smile playing on Zoe Brown's lips as Zoe Brown made her way to the sign-up sheet. The emcee's voice boomed through the speakers, announcing the next performer. \"And now, ladies and gentlemen, please welcome to the stage.",
+        "doc_idx": 13,
+        "chunk_idx": 3,
+        "global_id": "13_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown arrives at the open mic night, greets a friend, and prepares to sign up before being unexpectedly called to the stage.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "13_4": {
+        "text": "Zoe Brown. \" A smattering of applause rippled through the audience at Hither Hills State Park. Zoe Brown took a deep breath, steeling herself as Zoe Brown climbed the rickety steps.",
+        "doc_idx": 13,
+        "chunk_idx": 4,
+        "global_id": "13_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown is about to perform on stage at an open mic night in Hither Hills State Park.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Hither Hills State Park"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Hither Hills State Park\"\n    }\n]\n}\n```"
+        }
+      },
+      "13_5": {
+        "text": "The spotlight blinded Zoe Brown momentarily, and Zoe Brown blinked rapidly, willing Zoe Brown's eyes to adjust. As the first chords struck, a hush fell over the crowd. Zoe Brown performed with live band accompaniment, Zoe Brown's voice blending seamlessly with the instruments.",
+        "doc_idx": 13,
+        "chunk_idx": 5,
+        "global_id": "13_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown is about to perform on stage at an outdoor event in Hither Hills State Park.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "13_6": {
+        "text": "The familiar melody washed over Zoe Brown, transporting Zoe Brown to another world. Zoe Brown lost herself in the music, unaware of the intense gaze fixed upon Zoe Brown from the shadows. Alondra Wilkinson watched, transfixed, as Zoe Brown's performance reached its crescendo.",
+        "doc_idx": 13,
+        "chunk_idx": 6,
+        "global_id": "13_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Zoe Brown is performing on stage, lost in the music, while being watched intently by Alondra Wilkinson.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "13_7": {
+        "text": "The final notes faded into the night, replaced by thunderous applause. Zoe Brown bowed, cheeks flushed with exhilaration, and made Zoe Brown's way off stage. As the next performer took Zoe Brown's place, Zoe Brown weaved through the crowd, accepting congratulations from strangers and friends alike.",
+        "doc_idx": 13,
+        "chunk_idx": 7,
+        "global_id": "13_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the immediate aftermath of Zoe Brown's performance at Hither Hills State Park's open mic night.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "13_8": {
+        "text": "Zoe Brown couldn't shake the feeling of being watched, a prickle of unease creeping up Zoe Brown's spine. When Zoe Brown turned to look, Zoe Brown caught a glimpse of a figure retreating into the darkness, leaving behind nothing but questions and a lingering sense of mystery.",
+        "doc_idx": 13,
+        "chunk_idx": 8,
+        "global_id": "13_8",
+        "start_sentence": 24,
+        "end_sentence": 26,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the aftermath of Zoe Brown's performance, where she experiences a feeling of being watched and sees a mysterious figure.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_14": {
+      "14_0": {
+        "text": "The gentle hum of conversation filled the air as Logan Diaz stepped into the bustling event space. The scent of expensive cologne and freshly brewed coffee mingled, creating an intoxicating atmosphere of ambition and possibility. Logan Diaz adjusted his tie, feeling a flutter of nervous excitement in Logan Diaz's stomach as Logan Diaz scanned the room for familiar faces.",
+        "doc_idx": 14,
+        "chunk_idx": 0,
+        "global_id": "14_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening scene, describing Logan Diaz's arrival at a networking event.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_1": {
+        "text": "High Line buzzed with energy on this crisp spring evening of March 23, 2024. The converted railway-turned-park provided a unique backdrop for the networking event, with High Line's lush greenery and urban chic design serving as a conversation starter for many attendees. As Logan Diaz made his way through the crowd, Logan Diaz couldn't help but admire the way the setting sun cast a warm glow over the gathering.",
+        "doc_idx": 14,
+        "chunk_idx": 1,
+        "global_id": "14_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This section describes the setting and atmosphere of the networking event that Logan Diaz is attending.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "March 23, 2024"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "High Line"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"March 23, 2024\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"High Line\"\n    }\n]\n}\n```"
+        }
+      },
+      "14_2": {
+        "text": "The juxtaposition of nature and sleek architecture created an almost romantic ambiance, despite the professional nature of the event. Meredith Gardner approached Logan Diaz with a dazzling smile, offering a flute of champagne. Meredith Gardner's and Logan Diaz's fingers brushed as Logan Diaz accepted the drink, sending a small shiver down Logan Diaz's spine.",
+        "doc_idx": 14,
+        "chunk_idx": 2,
+        "global_id": "14_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Logan Diaz attends a networking event at High Line and is captivated by the atmosphere.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_3": {
+        "text": "Logan Diaz found himself captivated by Meredith Gardner's piercing gaze, momentarily forgetting the purpose of the evening. Shaking himself from his reverie, Logan Diaz engaged in a spirited discussion with a group of industry leaders. The passion in the industry leaders' voices as the industry leaders debated current trends was almost palpable, and Logan Diaz felt a familiar thrill course through Logan Diaz.",
+        "doc_idx": 14,
+        "chunk_idx": 3,
+        "global_id": "14_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After arriving at a networking event and admiring the venue, Logan Diaz is approached by Meredith Gardner, and then Logan Diaz joins a discussion with industry leaders.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_4": {
+        "text": "This was why Logan Diaz loved these events \u2013 the meeting of minds, the exchange of ideas, the potential for something extraordinary to spark. As the night wore on, Logan Diaz found himself drawn to a quiet corner of the venue. The city lights twinkled below, a stark contrast to the stars peeking through the darkening sky above.",
+        "doc_idx": 14,
+        "chunk_idx": 4,
+        "global_id": "14_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After being captivated by Meredith, Logan Diaz engages in discussions with industry leaders, then seeks a quiet moment to reflect on the event.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_5": {
+        "text": "Logan Diaz took a moment to reflect on the connections Logan Diaz had made, the insights Logan Diaz had gained, and the opportunities that lay ahead. A soft voice interrupted Logan Diaz's thoughts. Uri Wemple stood beside Logan Diaz, offering a gentle smile and a business card.",
+        "doc_idx": 14,
+        "chunk_idx": 5,
+        "global_id": "14_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After networking at an event, Logan Diaz pauses to reflect before being approached by Uri Wemple.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_6": {
+        "text": "Uri Wemple's and Logan Diaz's conversation flowed effortlessly, touching on shared experiences and mutual acquaintances. Logan Diaz felt a connection forming, one that transcended mere professional courtesy. Logan Diaz couldn't help but feel a sense of satisfaction as Logan Diaz realized how much ground Logan Diaz had covered.",
+        "doc_idx": 14,
+        "chunk_idx": 6,
+        "global_id": "14_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After a successful networking event, Logan Diaz is approached by Uri Wemple, and they have a meaningful conversation.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_7": {
+        "text": "Throughout the evening, Logan Diaz exchanged industry insights with a diverse array of professionals, each interaction leaving Logan Diaz more invigorated than the last. As the event drew to a close, Logan Diaz lingered, reluctant to leave the enchanting atmosphere behind. The night had been filled with promise \u2013 of new partnerships, of innovative ideas, and perhaps, of something more.",
+        "doc_idx": 14,
+        "chunk_idx": 7,
+        "global_id": "14_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Logan Diaz's successful networking at the event, highlighting the valuable interactions and the promising atmosphere as the evening concludes.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "14_8": {
+        "text": "With one last glance at the captivating skyline, Logan Diaz stepped into the cool night air, Logan Diaz's mind already racing with possibilities for the future.",
+        "doc_idx": 14,
+        "chunk_idx": 8,
+        "global_id": "14_8",
+        "start_sentence": 24,
+        "end_sentence": 25,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding paragraph, describing Logan Diaz's departure from the networking event and his reflections on the evening.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_15": {
+      "15_0": {
+        "text": "The air hummed with the electric anticipation of innovation as Julian Ross stepped into the bustling atrium. Sleek displays and holographic projections adorned the Art Deco interior, transforming the historic space into a futuristic tech hub. Julian Ross adjusted his augmented reality glasses, scanning the crowd for familiar faces amidst the sea of eager participants.",
+        "doc_idx": 15,
+        "chunk_idx": 0,
+        "global_id": "15_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening scene, introducing the protagonist Julian Ross and setting the stage at a futuristic hackathon in a historic building.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "15_1": {
+        "text": "Julian Ross felt a surge of excitement as Julian Ross navigated through the throng of coders, designers, and entrepreneurs. The hackathon's energy was palpable, a cocktail of caffeine-fueled determination and the thrill of potential breakthroughs. Julian Ross caught snippets of animated conversations about quantum algorithms and neural interfaces, Julian Ross's mind already racing with possibilities.",
+        "doc_idx": 15,
+        "chunk_idx": 1,
+        "global_id": "15_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Julian Ross arrives at the hackathon and is energized by the atmosphere.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "15_2": {
+        "text": "As Julian Ross made his way to the designated area, Julian Ross participated in mentoring sessions, sharing Julian Ross's expertise with wide-eyed newcomers and seasoned professionals alike. The weight of responsibility settled on Julian Ross's shoulders, knowing that Julian Ross's guidance could shape the trajectory of groundbreaking projects. Hezekiah Bean approached Julian Ross, a tablet in hand and a furrowed brow betraying concern.",
+        "doc_idx": 15,
+        "chunk_idx": 2,
+        "global_id": "15_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Julian Ross arrives at the hackathon, mentors participants, and is then approached by Hezekiah Bean with a problem.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "15_3": {
+        "text": "\"We've got a situation,\" Hezekiah Bean murmured, gesturing towards a dimly lit corner of the vast room. Julian Ross's instincts kicked in, years of problem-solving experience coming to the fore as Julian Ross followed Hezekiah Bean through the labyrinth of workstations. Hezekiah Bean and Julian Ross arrived at a cluster of abandoned computers, screens flickering with indecipherable code.",
+        "doc_idx": 15,
+        "chunk_idx": 3,
+        "global_id": "15_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Julian Ross is participating in a hackathon when Hezekiah Bean alerts him to a security issue.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [
+                "e1",
+                "e2"
+              ],
+              "tag_type": "spatial",
+              "tag_value": "vast room"
+            },
+            {
+              "linked_entities": [
+                "e1",
+                "e2",
+                "e3",
+                "e4",
+                "e5",
+                "e6"
+              ],
+              "tag_type": "spatial",
+              "tag_value": "vast room"
+            },
+            {
+              "linked_entities": [
+                "e5",
+                "e6"
+              ],
+              "tag_type": "spatial",
+              "tag_value": "cluster of abandoned computers"
+            }
+          ],
+          "full_response": "```json\n{\n\"entity_nodes\": [\n    {\n      \"id\": \"e1\",\n      \"name\": \"Hezekiah Bean\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e2\",\n      \"name\": \"Julian Ross\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e3\",\n      \"name\": \"room\",\n      \"roles\": [],\n      \"states\": [\n        \"vast\"\n      ]\n    },\n    {\n      \"id\": \"e4\",\n      \"name\": \"workstations\",\n      \"roles\": [],\n      \"states\": []\n    },\n    {\n      \"id\": \"e5\",\n      \"name\": \"computers\",\n      \"roles\": [],\n      \"states\": [\n        \"abandoned\"\n      ]\n    },\n    {\n      \"id\": \"e6\",\n      \"name\": \"screens\",\n      \"roles\": [],\n      \"states\": [\n        \"flickering\"\n      ]\n    }\n  ],\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"vast room\"\n    },\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\",\n        \"e3\",\n        \"e4\",\n        \"e5\",\n        \"e6\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"vast room\"\n    },\n    {\n      \"linked_entities\": [\n        \"e5\",\n        \"e6\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"cluster of abandoned computers\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "15_4": {
+        "text": "Sienna Lyles, the head of security, was already there, Sienna Lyles's face a mask of concentration as Sienna Lyles typed furiously on a keyboard. \"Someone's trying to breach the firewall,\" Sienna Lyles explained tersely. \"We need to track the source and contain the source before the source compromises the entire event.",
+        "doc_idx": 15,
+        "chunk_idx": 4,
+        "global_id": "15_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Julian Ross is alerted to a security breach at the hackathon.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "15_5": {
+        "text": "\"\n\nJulian Ross glanced at Julian Ross's smartwatch, the display reading May 31, 2024. Time seemed to stretch as Julian Ross immersed himself in the digital forensics, Julian Ross's fingers flying across the keys. The world outside faded away, replaced by a landscape of data streams and encrypted messages.",
+        "doc_idx": 15,
+        "chunk_idx": 5,
+        "global_id": "15_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Julian Ross is alerted to a security breach at the hackathon and begins working to identify and contain the threat.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "May 31, 2024"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"May 31, 2024\"\n    }\n]\n}\n```"
+        }
+      },
+      "15_6": {
+        "text": "Julian Ross was vaguely aware of the setting sun casting long shadows through the ornate windows, marking the passage of hours. As night fell, the hackathon took on a different atmosphere. The initial buzz had given way to a focused intensity, punctuated by occasional outbursts of triumph or frustration.",
+        "doc_idx": 15,
+        "chunk_idx": 6,
+        "global_id": "15_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Julian Ross is working with Hezekiah Bean and Sienna Lyles to stop a security breach at the hackathon.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "15_7": {
+        "text": "Julian Ross moved from team to team, offering advice and encouragement, all the while keeping a watchful eye for any signs of further security breaches. In the early hours of the morning, Julian Ross found himself standing before the massive windows of the Woolworth Building, gazing out at the city that never sleeps. The hackathon continued behind Julian Ross, a microcosm of human ingenuity and perseverance.",
+        "doc_idx": 15,
+        "chunk_idx": 7,
+        "global_id": "15_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After helping contain a security breach at the hackathon, Julian Ross continues to monitor the event, offering guidance to the teams and remaining vigilant for further threats.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Woolworth Building"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "early hours of the morning"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Woolworth Building\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"early hours of the morning\"\n    }\n]\n}\n```"
+        }
+      },
+      "15_8": {
+        "text": "As Julian Ross turned back to face the room, Julian Ross couldn't shake the feeling that something monumental was about to unfold, a technological breakthrough that would change everything. With renewed determination, Julian Ross dove back into the fray, ready to face whatever challenges the remaining hours might bring.",
+        "doc_idx": 15,
+        "chunk_idx": 8,
+        "global_id": "15_8",
+        "start_sentence": 24,
+        "end_sentence": 26,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After a long night of mentoring and addressing a security breach at the hackathon, Julian Ross has a premonition of a significant breakthrough.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_16": {
+      "16_0": {
+        "text": "The icy winds whipped through the park, carrying with them the faint echoes of a man who once conducted ice preservation talks. Now, as the sun struggled to pierce through the overcast sky, that same man stood amidst a gathering crowd, his eyes fixed upon the glistening sculptures before him. The exhibition had drawn visitors from far and wide, their breaths forming misty clouds in the frigid air as they marveled at the frozen artworks.",
+        "doc_idx": 16,
+        "chunk_idx": 0,
+        "global_id": "16_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the opening paragraph, introducing the setting, the central character (a former ice preservation expert), and the ice sculpture exhibition.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "16_1": {
+        "text": "The man who once conducted ice preservation talks moved slowly among the crystalline figures, each step careful and deliberate on the slippery ground. The sculptures ranged from delicate, intricate designs to massive, towering structures that seemed to defy gravity itself. As the man who once conducted ice preservation talks approached a particularly striking piece, a representation of a weeping angel with wings of fractured ice, the man who once conducted ice preservation talks felt a pang of longing for the days when the man who once conducted ice preservation talks shared his passion with eager listeners.",
+        "doc_idx": 16,
+        "chunk_idx": 1,
+        "global_id": "16_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": null,
+        "context": "This passage describes the main character's reaction to seeing the ice sculptures at the exhibition, highlighting his connection to them and his past.",
+        "spacetime": {}
+      },
+      "16_2": {
+        "text": "Dakari Liebert, the event organizer, bustled past the man who once conducted ice preservation talks, clipboard in hand and worry etched across her face. \"The temperature's rising faster than we anticipated,\" Dakari Liebert muttered, more to herself than to the man who once conducted ice preservation talks. The man who once conducted ice preservation talks nodded solemnly, understanding all too well the fragility of these frozen masterpieces.",
+        "doc_idx": 16,
+        "chunk_idx": 2,
+        "global_id": "16_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt introduces Dakari Liebert, the event organizer, and highlights the rising temperature's threat to the ice sculptures, emphasizing the protagonist's understanding of the situation.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "16_3": {
+        "text": "The man who once conducted ice preservation talks' fingers twitched, muscle memory from years of handling ice samples threatening to overtake the man who once conducted ice preservation talks. As the day wore on, the park filled with more visitors, their excited chatter a stark contrast to the somber mood that had settled over the man who once conducted ice preservation talks. Children darted between the sculptures, their laughter ringing out across the grounds.",
+        "doc_idx": 16,
+        "chunk_idx": 3,
+        "global_id": "16_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the protagonist's internal conflict and growing sense of displacement as he observes the ice sculpture exhibition and the reactions of the visitors around him.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "16_4": {
+        "text": "The man who once conducted ice preservation talks watched the children, a bittersweet smile tugging at the man who once conducted ice preservation talks' lips as the man who once conducted ice preservation talks remembered the man who once conducted ice preservation talks' own youthful enthusiasm for the art of ice preservation. It was during a lull in the crowd that Benjamin Green found himself face-to-face with Benjamin Green's own reflection in a particularly smooth ice surface. The years had not been kind; lines of worry and fatigue etched deep furrows across Benjamin Green's brow.",
+        "doc_idx": 16,
+        "chunk_idx": 4,
+        "global_id": "16_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes the main character, a former ice preservation expert, observing children at an ice sculpture exhibition, triggering a moment of reflection on his lost passion and the passage of time.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "16_5": {
+        "text": "Benjamin Green reached out, Benjamin Green's fingertips barely grazing the cold surface before pulling back, as if burned by the memories of Benjamin Green's former career. As the afternoon sun began its descent, casting long shadows across the park, Creed Berlin approached Benjamin Green. \"It's truly remarkable work, isn't it.",
+        "doc_idx": 16,
+        "chunk_idx": 5,
+        "global_id": "16_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Benjamin Green, the former ice preservation expert, confronting his reflection in the ice and being approached by another visitor.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "afternoon"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "park"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"afternoon\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"park\"\n    }\n]\n}\n```"
+        }
+      },
+      "16_6": {
+        "text": "\" Creed Berlin said, gesturing to the slowly melting sculptures around them. Benjamin Green nodded, unable to form words around the lump in Benjamin Green's throat. Creed Berlin continued, oblivious to Benjamin Green's distress, \"I heard there used to be an expert who gave talks about preserving these beauties.",
+        "doc_idx": 16,
+        "chunk_idx": 6,
+        "global_id": "16_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After reflecting on his past, Benjamin Green is approached by a visitor who unknowingly references Green's former expertise in ice preservation.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "16_7": {
+        "text": "Wonder whatever happened to the expert. \"\n\nThe irony was not lost on Benjamin Green as Benjamin Green stood there, surrounded by the very art Benjamin Green had once devoted Benjamin Green's life to protecting. As twilight descended upon Washington Square Park on February 27, 2026, Benjamin Green watched helplessly as droplets of water began to form on the sculptures' surfaces.",
+        "doc_idx": 16,
+        "chunk_idx": 7,
+        "global_id": "16_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the moment when Benjamin Green, a former ice preservation expert, is confronted with the decline of the ice sculptures and the fading memory of his past expertise.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Washington Square Park"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "February 27, 2026"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"February 27, 2026\"\n    }\n]\n}\n```"
+        }
+      },
+      "16_8": {
+        "text": "The tragedy of impermanence, which Benjamin Green had fought against for so long, now played out before Benjamin Green in exquisite, heart-wrenching detail.",
+        "doc_idx": 16,
+        "chunk_idx": 8,
+        "global_id": "16_8",
+        "start_sentence": 24,
+        "end_sentence": 25,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding sentence of the story, describing the emotional impact on Benjamin Green as the ice sculptures he dedicated his life to preserving melt around him.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_17": {
+      "17_0": {
+        "text": "The sound of sneakers squeaking against polished floors echoed through the cavernous hall as Owen Thomas conducted spatial awareness exercises. Owen Thomas's lanky frame stretched awkwardly as Owen Thomas attempted to mimic Lilah Hamilton's fluid movements. Lilah Hamilton's graceful leaps and bounds made Owen Thomas feel like a newborn giraffe learning to walk.",
+        "doc_idx": 17,
+        "chunk_idx": 0,
+        "global_id": "17_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt introduces Owen Thomas and his initial struggles with parkour during a spatial awareness exercise led by Lilah Hamilton.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "cavernous hall"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"cavernous hall\"\n    }\n]\n}\n```"
+        }
+      },
+      "17_1": {
+        "text": "Owen Thomas stumbled, arms flailing wildly, nearly taking out a potted plant in the corner. \"Alright, everyone. Let's take five,\" Lilah Hamilton called out on September 27, 2025.",
+        "doc_idx": 17,
+        "chunk_idx": 1,
+        "global_id": "17_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Owen Thomas's initial struggles and clumsiness during a parkour class, leading to a break called by the instructor.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "September 27, 2025"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"September 27, 2025\"\n    }\n]\n}\n```"
+        }
+      },
+      "17_2": {
+        "text": "Owen Thomas collapsed dramatically onto the floor, Owen Thomas's chest heaving. Owen Thomas glanced around at Owen Thomas's fellow parkour enthusiasts, all looking significantly less disheveled than Owen Thomas felt. Rocco Cormier, a sprightly octogenarian with a shock of white hair, winked at Owen Thomas and did a perfect handstand.",
+        "doc_idx": 17,
+        "chunk_idx": 2,
+        "global_id": "17_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Owen Thomas's exhaustion and self-consciousness during a break in a parkour workshop, contrasting Owen Thomas's struggles with the abilities of other participants.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      },
+      "17_3": {
+        "text": "Owen Thomas groaned, wondering if it was too late to take up knitting instead. As the break ended, Lilah Hamilton herded the group outside. The crisp autumn air nipped at Owen Thomas's flushed cheeks as Owen Thomas surveyed the sprawling grounds.",
+        "doc_idx": 17,
+        "chunk_idx": 3,
+        "global_id": "17_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Following a disastrous spatial awareness exercise, Owen Thomas is taking a break during a parkour workshop before the group moves outside.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "17_4": {
+        "text": "Ornate 19th-century buildings loomed before Owen Thomas, their intricate architecture seeming to mock Owen Thomas's lack of agility. Lilah Hamilton gestured towards a low wall, grinning mischievously. \"Time for some vaults, folks.",
+        "doc_idx": 17,
+        "chunk_idx": 4,
+        "global_id": "17_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After a break from spatial awareness exercises, the parkour group moves outside where Lilah Hamilton introduces vaulting exercises.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "17_5": {
+        "text": "\" Owen Thomas's stomach lurched. Owen Thomas had barely mastered walking in a straight line, and now the parkour instructors expected Owen Thomas to leap over obstacles. Approaching the wall at Snug Harbor Cultural Center, Owen Thomas took a deep breath.",
+        "doc_idx": 17,
+        "chunk_idx": 5,
+        "global_id": "17_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "After a break from spatial awareness exercises, the parkour group moves outside to practice vaults, and Owen Thomas expresses his anxiety about having to jump over obstacles.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "Snug Harbor Cultural Center"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Snug Harbor Cultural Center\"\n    }\n]\n}\n```"
+        }
+      },
+      "17_6": {
+        "text": "Owen Thomas visualized Owen Thomas gracefully clearing the barrier, landing cat-like on the other side. Reality, however, had other plans. Owen Thomas's foot caught on the edge, sending Owen Thomas tumbling head over heels.",
+        "doc_idx": 17,
+        "chunk_idx": 6,
+        "global_id": "17_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes Owen Thomas's attempt to vault over a wall during a parkour workshop, contrasting his imagined success with his actual clumsy fall.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "17_7": {
+        "text": "Owen Thomas landed in an ungainly heap, leaves stuck in Owen Thomas's hair and Owen Thomas's dignity thoroughly bruised. Axl Mims, a tattooed woman built like a gymnast, helped Owen Thomas up, stifling a laugh. \"Don't worry, mate.",
+        "doc_idx": 17,
+        "chunk_idx": 7,
+        "global_id": "17_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Owen Thomas attempts a vault over a wall at a parkour workshop and fails spectacularly.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "17_8": {
+        "text": "We've all been there,\" Axl Mims reassured Owen Thomas, before effortlessly vaulting over the wall herself. As the workshop drew to a close, Owen Thomas found Owen Thomas grinning despite the array of bumps and bruises Owen Thomas had acquired. Owen Thomas may not have mastered parkour, but Owen Thomas had certainly mastered the art of falling with style.",
+        "doc_idx": 17,
+        "chunk_idx": 8,
+        "global_id": "17_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Owen Thomas attempts a vault during a parkour workshop at Snug Harbor Cultural Center and fails spectacularly.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "17_9": {
+        "text": "Lilah Hamilton gathered the group for a final pep talk, praising the group's progress. Owen Thomas stood a little straighter, chest puffed out with pride. That is, until Rocco Cormier slapped Owen Thomas on the back, sending Owen Thomas stumbling forward.",
+        "doc_idx": 17,
+        "chunk_idx": 9,
+        "global_id": "17_9",
+        "start_sentence": 27,
+        "end_sentence": 30,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "The passage describes the end of Owen Thomas's first parkour workshop, where he reflects on his clumsy performance and receives encouragement from the instructor and a fellow participant.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [
+                "e1",
+                "e2",
+                "e3",
+                "e4"
+              ],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [
+                "e1",
+                "e2",
+                "e3",
+                "e4"
+              ],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"entity_nodes\": [\n    {\n      \"id\": \"e1\",\n      \"name\": \"Lilah Hamilton\",\n      \"roles\": [\n        \"leader\"\n      ],\n      \"states\": []\n    },\n    {\n      \"id\": \"e2\",\n      \"name\": \"group\",\n      \"roles\": [\n        \"team\"\n      ],\n      \"states\": []\n    },\n    {\n      \"id\": \"e3\",\n      \"name\": \"Owen Thomas\",\n      \"roles\": [\n        \"member\"\n      ],\n      \"states\": []\n    },\n    {\n      \"id\": \"e4\",\n      \"name\": \"Rocco Cormier\",\n      \"roles\": [\n        \"member\"\n      ],\n      \"states\": []\n    }\n  ],\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\",\n        \"e3\",\n        \"e4\"\n      ],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": null\n    },\n    {\n      \"linked_entities\": [\n        \"e1\",\n        \"e2\",\n        \"e3\",\n        \"e4\"\n      ],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+        }
+      },
+      "17_10": {
+        "text": "\"Same time next week, sonny. \" Rocco Cormier chirped. Owen Thomas nodded weakly, already dreading what new ways Owen Thomas would find to embarrass Owen Thomas.",
+        "doc_idx": 17,
+        "chunk_idx": 10,
+        "global_id": "17_10",
+        "start_sentence": 30,
+        "end_sentence": 33,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This chunk concludes the narrative about Owen Thomas's first parkour workshop, highlighting his mixed feelings of accomplishment and apprehension about future sessions.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "Same time next week"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"Same time next week\"\n    }\n]\n}\n```"
+        }
+      },
+      "17_11": {
+        "text": "At least Owen Thomas would have some great stories for Owen Thomas's future grandchildren \u2013 assuming Owen Thomas survived long enough to have any.",
+        "doc_idx": 17,
+        "chunk_idx": 11,
+        "global_id": "17_11",
+        "start_sentence": 33,
+        "end_sentence": 34,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This is the concluding sentence of a scene describing Owen Thomas's first parkour workshop, where he humorously reflects on his clumsy experience and the potential for future stories.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      }
+    },
+    "doc_18": {
+      "18_0": {
+        "text": "The air crackled with anticipation as Mila Gonzalez stepped onto the makeshift stage, Mila Gonzalez's heart pounding in rhythm with the distant waves. Mila Gonzalez performed a dramatic scene, Mila Gonzalez's voice carrying across the gathering crowd, each word imbued with a magic that seemed to shimmer in the fading daylight. The onlookers gasped, their eyes widening as Mila Gonzalez wove Mila Gonzalez's tale, Mila Gonzalez's gestures painting vivid pictures against the backdrop of metal and stone.",
+        "doc_idx": 18,
+        "chunk_idx": 0,
+        "global_id": "18_0",
+        "start_sentence": 0,
+        "end_sentence": 3,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This paragraph describes Mila Gonzalez beginning her performance on a makeshift stage, captivating the audience with her storytelling.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "makeshift stage"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "fading daylight"
+            }
+          ],
+          "full_response": "```json\n{\n  \"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"makeshift stage\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"fading daylight\"\n    }\n  ]\n}\n```"
+        }
+      },
+      "18_1": {
+        "text": "Diem Nix watched from the wings, Diem Nix's ethereal form barely visible in the growing twilight. Diem Nix nodded approvingly as Mila Gonzalez reached the climax of Mila Gonzalez's performance, Mila Gonzalez's voice rising and falling like the tides that lapped at the island's shores. The audience held their collective breath, caught in the spell of Mila Gonzalez's storytelling, transported to fantastical realms far beyond the audience's everyday lives.",
+        "doc_idx": 18,
+        "chunk_idx": 1,
+        "global_id": "18_1",
+        "start_sentence": 3,
+        "end_sentence": 6,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Diem Nix's observation of Mila Gonzalez's performance and the audience's captivated reaction.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "18_2": {
+        "text": "As the final words left Mila Gonzalez's lips, a hush fell over the crowd. For a moment, time stood still, suspended in the space between reality and imagination. Then, as if awaking from a shared dream, the spectators erupted into thunderous applause.",
+        "doc_idx": 18,
+        "chunk_idx": 2,
+        "global_id": "18_2",
+        "start_sentence": 6,
+        "end_sentence": 9,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the immediate aftermath of Mila Gonzalez's performance, focusing on the audience's reaction.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "18_3": {
+        "text": "Mila Gonzalez bowed, Mila Gonzalez's chest heaving with exertion and emotion, sweat glistening on Mila Gonzalez's brow despite the cool evening air. Eli Groth approached, Eli Groth's eyes gleaming with an otherworldly light. \"Mila Gonzalez's performance was.",
+        "doc_idx": 18,
+        "chunk_idx": 3,
+        "global_id": "18_3",
+        "start_sentence": 9,
+        "end_sentence": 12,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This excerpt describes the immediate aftermath of Mila Gonzalez's performance, focusing on Mila Gonzalez's physical state and the reaction of Eli Groth.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "18_4": {
+        "text": "transcendent,\" Eli Groth murmured, Eli Groth's voice like the whisper of wind through ancient ruins. Mila Gonzalez nodded gratefully, still catching Mila Gonzalez's breath, Mila Gonzalez's mind reeling from the intensity of the experience. The sky above had deepened to a rich indigo, stars beginning to peek through the velvety darkness.",
+        "doc_idx": 18,
+        "chunk_idx": 4,
+        "global_id": "18_4",
+        "start_sentence": 12,
+        "end_sentence": 15,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Following Mila Gonzalez's performance, Eli Groth offers a cryptic compliment, highlighting the impact of the performance as Mila Gonzalez processes the experience.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "18_5": {
+        "text": "As Mila Gonzalez made Mila Gonzalez's way off the stage, the weight of the moment settled upon Mila Gonzalez. It was February 27, 2026, a date that would forever be etched in Mila Gonzalez's memory. The importance of this performance, on this night, in this place, filled Mila Gonzalez with a sense of profound purpose.",
+        "doc_idx": 18,
+        "chunk_idx": 5,
+        "global_id": "18_5",
+        "start_sentence": 15,
+        "end_sentence": 18,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Mila Gonzalez's feelings immediately after a successful and impactful performance, marking it as a significant moment in time.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "February 27, 2026"
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": "this place"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"February 27, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"this place\"\n    }\n]\n}\n```"
+        }
+      },
+      "18_6": {
+        "text": "Mila Gonzalez couldn't shake the feeling that something fundamental had shifted in the fabric of the world. Rey Pierre materialized beside Mila Gonzalez, Rey Pierre's form shimmering like heat haze. \"Mila Gonzalez has awakened something ancient tonight,\" Rey Pierre whispered, Rey Pierre's words carrying the weight of prophecy.",
+        "doc_idx": 18,
+        "chunk_idx": 6,
+        "global_id": "18_6",
+        "start_sentence": 18,
+        "end_sentence": 21,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "Following Mila Gonzalez's successful and emotionally charged performance, she reflects on the significance of the event, and Rey Pierre appears, hinting at the deeper, perhaps mystical, implications of her act.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": "tonight"
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"tonight\"\n    }\n]\n}\n```"
+        }
+      },
+      "18_7": {
+        "text": "Mila Gonzalez shivered, not entirely from the chill in the air. The stone beneath Mila Gonzalez's feet seemed to pulse with a newfound energy, as if the very ground had been stirred by Mila Gonzalez's performance. As the crowd began to disperse, murmuring excitedly among themselves, Mila Gonzalez found Mila Gonzalez drawn to the edge of the island.",
+        "doc_idx": 18,
+        "chunk_idx": 7,
+        "global_id": "18_7",
+        "start_sentence": 21,
+        "end_sentence": 24,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Mila Gonzalez's reaction immediately after a transcendent performance, focusing on a strange energy Mila Gonzalez feels and a sense of foreboding.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "18_8": {
+        "text": "The city lights twinkled across the water, a reflection of the stars above. Mila Gonzalez closed Mila Gonzalez's eyes, breathing in the salt-tinged air, feeling the last vestiges of adrenaline coursing through Mila Gonzalez's veins. In this moment, suspended between earth and sky, Mila Gonzalez felt truly alive.",
+        "doc_idx": 18,
+        "chunk_idx": 8,
+        "global_id": "18_8",
+        "start_sentence": 24,
+        "end_sentence": 27,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage describes Mila's emotional and physical state after her performance, as she reflects on the experience and its significance.",
+        "spacetime": {
+          "spatio_temporal_links": [],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+        }
+      },
+      "18_9": {
+        "text": "Mila Gonzalez opened Mila Gonzalez's eyes, gazing up at the towering figure that had borne silent witness to Mila Gonzalez's performance. The Statue of Liberty stood sentinel, the Statue of Liberty's torch held high, a beacon of hope and possibility. As the last echoes of applause faded into the night, Mila Gonzalez knew that this was only the beginning of an extraordinary journey.",
+        "doc_idx": 18,
+        "chunk_idx": 9,
+        "global_id": "18_9",
+        "start_sentence": 27,
+        "end_sentence": 30,
+        "gsw": {
+          "entity_nodes": [],
+          "verb_phrase_nodes": []
+        },
+        "context": "This passage concludes the scene, describing Mila's feelings and a symbolic image after her performance.",
+        "spacetime": {
+          "spatio_temporal_links": [
+            {
+              "linked_entities": [],
+              "tag_type": "spatial",
+              "tag_value": null
+            },
+            {
+              "linked_entities": [],
+              "tag_type": "temporal",
+              "tag_value": null
+            }
+          ],
+          "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+        }
+      }
+    }
+  }
+}

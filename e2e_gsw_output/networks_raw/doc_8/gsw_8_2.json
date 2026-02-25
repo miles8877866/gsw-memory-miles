@@ -1,0 +1,23 @@
+{
+    "text": "Kylee Beard, the lead actor, stepped forward, Kylee Beard's presence commanding and magnetic. The woman leaned forward, captivated by the intensity in Kylee Beard's eyes as Kylee Beard began to speak, Kylee Beard's voice resonating through the cavernous space. The performance unfolded like a fever dream, each scene more gripping than the last.",
+    "doc_idx": 8,
+    "chunk_idx": 2,
+    "global_id": "8_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the beginning of the play, focusing on the lead actor's captivating performance and the immersive atmosphere.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "cavernous space"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"cavernous space\"\n    }\n]\n}\n```"
+    }
+}

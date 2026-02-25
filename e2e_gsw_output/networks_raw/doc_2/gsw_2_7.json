@@ -1,0 +1,28 @@
+{
+    "text": "As a simple flower began to emerge from the ice, Jonah Kramer felt a sense of accomplishment and connection to the art form. The sun dipped lower in the sky, casting long shadows across Washington Square Park. The sculptures took on an ethereal quality in the fading light, the sculptures' contours softened and mysterious.",
+    "doc_idx": 2,
+    "chunk_idx": 7,
+    "global_id": "2_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer tries ice sculpting under the guidance of one of the artists as the day progresses and the sun begins to set.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Washington Square Park"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

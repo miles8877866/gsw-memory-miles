@@ -1,0 +1,17 @@
+{
+    "text": "As the day progressed, the sun's warmth began to affect the sculptures, causing tiny rivulets of water to trickle down the sculptures' surfaces. Jonah Kramer watched, transfixed, as droplets formed and fell, each one catching the light like a miniature prism. The droplets reminded Jonah Kramer of the transient nature of beauty, and how precious these moments truly were.",
+    "doc_idx": 2,
+    "chunk_idx": 5,
+    "global_id": "2_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer is attending an ice sculpture exhibition in Washington Square Park and this paragraph describes the effect of the sun on the sculptures as the day warms up.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

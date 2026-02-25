@@ -1,0 +1,17 @@
+{
+    "text": "The participant instinctively reached out, the participant's fingers barely grazing Mara Ledbetter's arm as Mara Ledbetter teetered on the edge of the platform. Time seemed to slow as Mara Ledbetter regained Mara Ledbetter's balance, Mara Ledbetter's eyes wide with fear and gratitude. The near-miss sent a shiver through the group, a stark reminder of the risks the participants were taking.",
+    "doc_idx": 0,
+    "chunk_idx": 4,
+    "global_id": "0_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "During the parkour workshop, as the obstacles become more challenging, Mara Ledbetter nearly falls, highlighting the inherent risks of the activity.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

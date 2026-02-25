@@ -1,4 +1,4 @@
-"""
+﻿"""
 Space-Time Linking Operator.
 
 This module contains the SpaceTimeLinker class for identifying temporal and spatial
@@ -77,3 +77,4 @@ class SpaceTimeLinker(curator.LLM):
                     "global_id": input_data.get("global_id", "unknown"),
                 }
             ]
+

@@ -1,0 +1,17 @@
+{
+    "text": "As Julian Ross turned back to face the room, Julian Ross couldn't shake the feeling that something monumental was about to unfold, a technological breakthrough that would change everything. With renewed determination, Julian Ross dove back into the fray, ready to face whatever challenges the remaining hours might bring.",
+    "doc_idx": 15,
+    "chunk_idx": 8,
+    "global_id": "15_8",
+    "start_sentence": 24,
+    "end_sentence": 26,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After a long night of mentoring and addressing a security breach at the hackathon, Julian Ross has a premonition of a significant breakthrough.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

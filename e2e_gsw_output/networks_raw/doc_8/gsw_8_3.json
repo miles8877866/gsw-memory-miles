@@ -1,0 +1,17 @@
+{
+    "text": "The woman found herself holding her breath, the woman's fingers digging into the armrests as the plot twisted and turned. The actors moved across the stage with fluid grace, the actors' movements precise and purposeful. Every gasp and whisper from the audience around the woman only heightened the tension.",
+    "doc_idx": 8,
+    "chunk_idx": 3,
+    "global_id": "8_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the woman's intense engagement with the play as the plot thickens, highlighting the rising tension and her physical reaction to the performance.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

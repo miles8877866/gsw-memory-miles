@@ -1,0 +1,28 @@
+{
+    "text": "The first rays of sunlight struggled to penetrate the thick fog, casting long shadows across the wooden walkway. Hazel Lewis watched as Sol Schiller, clad in a Victorian-era dress, glided past with an unnaturally fluid grace. Sol Schiller's eyes, hollow and devoid of life, locked onto Hazel Lewis's eyes for a brief moment before disappearing into the crowd.",
+    "doc_idx": 10,
+    "chunk_idx": 2,
+    "global_id": "10_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Hazel Lewis's growing unease as the historical reenactment begins, focusing on a disturbing encounter with a participant, Sol Schiller, whose appearance and movements are unsettling.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "wooden walkway"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"wooden walkway\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+    }
+}

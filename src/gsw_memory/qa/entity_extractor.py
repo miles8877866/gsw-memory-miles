@@ -1,10 +1,11 @@
-"""
+﻿"""
 Entity extraction from questions using LLM-based NER.
 
 This module implements the first step of the Q&A pipeline:
 extracting named entities from user questions to serve as entry points into the GSW.
 """
 
+import os
 from typing import List
 
 from bespokelabs import curator
@@ -19,6 +20,15 @@ class QuestionEntityExtractor(curator.LLM):
     """
 
     return_completions_object = True
+    require_all_responses = False
+
+    def __init__(self, **kwargs):
+        # Pop parameters that curator doesn't like in __init__
+        kwargs.pop("max_concurrent_requests", None)
+        kwargs.pop("require_all_responses", None)
+        
+        super().__init__(**kwargs)
+        self.require_all_responses = False
 
     def prompt(self, input_data):
         """Create prompt for entity extraction following original pattern."""
@@ -77,8 +87,26 @@ class QuestionEntityExtractor(curator.LLM):
         # Format questions for curator
         question_inputs = [{"question": q} for q in questions]
 
-        # Call curator with batch
-        results = self(question_inputs)
+        # Call curator with batch (Sequential fallback for Windows/Robustness)
+        if os.name == 'nt':
+            print(f"--- Extracting entities from {len(question_inputs)} questions sequentially ---")
+            from tqdm import tqdm
+            results_list = []
+            for inp in tqdm(question_inputs, desc="Extracting Entities"):
+                try:
+                    res = self([inp])
+                    results_list.extend(res.dataset)
+                except Exception as e:
+                    print(f"Warning: Entity extraction failed for question: {inp.get('question')[:50]}... Error: {e}")
+            
+            # Mock the curator Response object structure
+            class MockResponse:
+                def __init__(self, dataset):
+                    self.dataset = dataset
+            results = MockResponse(results_list)
+        else:
+            results = self(question_inputs)
 
         # Extract just the entities from results using .dataset
         return [result["entities"] for result in results.dataset]
+

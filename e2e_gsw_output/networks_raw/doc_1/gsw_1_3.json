@@ -1,0 +1,17 @@
+{
+    "text": "The main event was set to begin in just over an hour, and there was still so much to do. Henry Reed quickened his pace, weaving between groups of cinephiles who were engrossed in heated debates about plot twists and character arcs. As Henry Reed passed by a particularly passionate discussion, Henry Reed overheard a snippet that made Henry Reed pause: \".",
+    "doc_idx": 1,
+    "chunk_idx": 3,
+    "global_id": "1_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival on a bridge, is walking through the crowd when he overhears a snippet of conversation that piques his curiosity.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

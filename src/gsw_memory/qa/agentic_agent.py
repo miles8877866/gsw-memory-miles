@@ -1,4 +1,4 @@
-"""
+﻿"""
 Agentic Answering Agent with GSW Tool Access.
 
 This module implements an agent that can dynamically explore the GSW structure
@@ -37,7 +37,7 @@ class AgenticAnsweringAgent:
     
     def __init__(
         self, 
-        model_name: str = "gpt-4o",
+        model_name: str = "gemini/gemini-2.0-flash",
         generation_params: Optional[Dict[str, Any]] = None,
         max_iterations: int = 10
     ):
@@ -315,3 +315,4 @@ Do NOT include phrases like "The answer is" or "Based on my search" in the answe
             response = self.answer_question(question, tools)
             responses.append(response)
         return responses
+

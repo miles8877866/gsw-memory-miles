@@ -1,0 +1,17 @@
+{
+    "text": "The tragedy of impermanence, which Benjamin Green had fought against for so long, now played out before Benjamin Green in exquisite, heart-wrenching detail.",
+    "doc_idx": 16,
+    "chunk_idx": 8,
+    "global_id": "16_8",
+    "start_sentence": 24,
+    "end_sentence": 25,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding sentence of the story, describing the emotional impact on Benjamin Green as the ice sculptures he dedicated his life to preserving melt around him.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

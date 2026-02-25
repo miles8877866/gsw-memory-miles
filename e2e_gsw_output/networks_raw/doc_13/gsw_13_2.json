@@ -1,0 +1,23 @@
+{
+    "text": "Fairy lights twinkled in the trees, casting a warm glow over the assembled crowd. Zoe Brown scanned the faces, searching for familiar features among the sea of strangers. Alma Aultman caught Zoe Brown's eye, raising a plastic cup in greeting.",
+    "doc_idx": 13,
+    "chunk_idx": 2,
+    "global_id": "13_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown arrives at Hither Hills State Park for an open mic night and surveys the scene.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "trees"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"trees\"\n    }\n]\n}\n```"
+    }
+}

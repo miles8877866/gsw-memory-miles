@@ -1,4 +1,4 @@
-"""
+﻿"""
 Prompt templates for GSW Reconciler components.
 """
 
@@ -62,3 +62,4 @@ Respond with JSON in the following format:
     ...
 }}
 Where "true" means the entities are the same or strongly related, and "false" means they are unrelated."""
+

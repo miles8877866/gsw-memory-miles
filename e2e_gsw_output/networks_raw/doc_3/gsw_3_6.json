@@ -1,0 +1,17 @@
+{
+    "text": "The mist thickened, obscuring Chloe Castillo's view of the exits. As Chloe Castillo finally broke free from Chloe Castillo's paralysis and started to run, Chloe Castillo heard a chorus of whispers rising from the very boards beneath Chloe Castillo's feet. The parkour workshop had turned into a nightmare, and Chloe Castillo realized with growing terror that Chloe Castillo's skills might be the only thing keeping Chloe Castillo alive in this suddenly hostile urban oasis.",
+    "doc_idx": 3,
+    "chunk_idx": 6,
+    "global_id": "3_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk describes the escalating supernatural events at the parkour workshop, as the park's features come to life and Chloe realizes she must use her skills to survive.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

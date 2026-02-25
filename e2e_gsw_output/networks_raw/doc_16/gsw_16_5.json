@@ -1,0 +1,28 @@
+{
+    "text": "Benjamin Green reached out, Benjamin Green's fingertips barely grazing the cold surface before pulling back, as if burned by the memories of Benjamin Green's former career. As the afternoon sun began its descent, casting long shadows across the park, Creed Berlin approached Benjamin Green. \"It's truly remarkable work, isn't it.",
+    "doc_idx": 16,
+    "chunk_idx": 5,
+    "global_id": "16_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Benjamin Green, the former ice preservation expert, confronting his reflection in the ice and being approached by another visitor.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "afternoon"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "park"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"afternoon\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"park\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Memory Prompts.
 
 This module provides prompt templates for various GSW components.
@@ -13,3 +13,4 @@ __all__ = [
     "CorefPrompts", 
     "ContextPrompts",
 ]
+

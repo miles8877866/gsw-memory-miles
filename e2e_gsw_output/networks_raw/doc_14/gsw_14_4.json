@@ -1,0 +1,17 @@
+{
+    "text": "This was why Logan Diaz loved these events \u2013 the meeting of minds, the exchange of ideas, the potential for something extraordinary to spark. As the night wore on, Logan Diaz found himself drawn to a quiet corner of the venue. The city lights twinkled below, a stark contrast to the stars peeking through the darkening sky above.",
+    "doc_idx": 14,
+    "chunk_idx": 4,
+    "global_id": "14_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After being captivated by Meredith, Logan Diaz engages in discussions with industry leaders, then seeks a quiet moment to reflect on the event.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "text": "Scarlett Thomas paused for a moment, surveying the scene before Scarlett Thomas. Scarlett Thomas watched as Kali Newcomb attempted to explain the nuances of a particularly pungent sour beer to Ronan Francois, who was clearly more interested in the free pretzels than the lecture on lactobacillus fermentation. Suddenly, a commotion erupted near the IPA section.",
+    "doc_idx": 4,
+    "chunk_idx": 3,
+    "global_id": "4_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Scarlett Thomas, the organizer of homebrewing workshops at a craft beer festival, navigates the crowded and chaotic event.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

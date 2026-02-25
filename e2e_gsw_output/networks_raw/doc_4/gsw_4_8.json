@@ -1,0 +1,17 @@
+{
+    "text": "Scarlett Thomas watched as the last stragglers stumbled towards the exit, their pockets bulging with bottle openers and branded coasters. Despite the chaos, a small smile played on Scarlett Thomas's lips. After all, in the world of craft beer, there was always another festival just around the corner \u2013 and hopefully, this time, Scarlett Thomas would remember to wear shoes with better traction on beer-soaked floors.",
+    "doc_idx": 4,
+    "chunk_idx": 8,
+    "global_id": "4_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding paragraph, describing the end of the craft beer festival and Scarlett's reflections on the day.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

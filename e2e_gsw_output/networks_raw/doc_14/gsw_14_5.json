@@ -1,0 +1,17 @@
+{
+    "text": "Logan Diaz took a moment to reflect on the connections Logan Diaz had made, the insights Logan Diaz had gained, and the opportunities that lay ahead. A soft voice interrupted Logan Diaz's thoughts. Uri Wemple stood beside Logan Diaz, offering a gentle smile and a business card.",
+    "doc_idx": 14,
+    "chunk_idx": 5,
+    "global_id": "14_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After networking at an event, Logan Diaz pauses to reflect before being approached by Uri Wemple.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

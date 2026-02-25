@@ -1,0 +1,23 @@
+{
+    "text": "Owen Thomas stumbled, arms flailing wildly, nearly taking out a potted plant in the corner. \"Alright, everyone. Let's take five,\" Lilah Hamilton called out on September 27, 2025.",
+    "doc_idx": 17,
+    "chunk_idx": 1,
+    "global_id": "17_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Owen Thomas's initial struggles and clumsiness during a parkour class, leading to a break called by the instructor.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "September 27, 2025"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"September 27, 2025\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "text": "The air shimmered with an otherworldly energy as Chloe Castillo stepped onto the glittering runway. Gossamer threads of magic wove through the fabric of Chloe Castillo's gown, casting an ethereal glow that seemed to pulse with each step. The grand hall, once home to ancient relics, now pulsed with the heartbeat of high fashion and fantastical couture.",
+    "doc_idx": 11,
+    "chunk_idx": 0,
+    "global_id": "11_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the beginning of Chloe Castillo's fantastical fashion show at the American Museum of Natural History.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "the grand hall"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"the grand hall\"\n    }\n]\n}\n```"
+    }
+}

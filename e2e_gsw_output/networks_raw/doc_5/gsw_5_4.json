@@ -1,0 +1,17 @@
+{
+    "text": "Benjamin Green's and Genevieve Burgin's fingers had brushed as Benjamin Green and Genevieve Burgin reached for the same USB drive, sending shivers down Benjamin Green's spine. Now, as the awards were announced, Benjamin Green found himself hoping for more than just recognition for Benjamin Green's technical skills. When Genevieve Burgin's name was called alongside Benjamin Green's own, Benjamin Green's and Genevieve Burgin's eyes locked once more, and Benjamin Green knew that this hackathon had given Benjamin Green far more than Benjamin Green had ever anticipated.",
+    "doc_idx": 5,
+    "chunk_idx": 4,
+    "global_id": "5_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk describes the culmination of Benjamin Green's experience at the hackathon, focusing on his growing romantic connection with Genevieve Burgin and his realization that the event has brought more than just professional success.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

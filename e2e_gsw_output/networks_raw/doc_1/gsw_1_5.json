@@ -1,0 +1,17 @@
+{
+    "text": "\"\n\nFrowning, Henry Reed approached the group, Henry Reed's curiosity piqued. Before Henry Reed could inquire, however, Oakley Goetz appeared at Henry Reed's elbow, looking flustered. \"Sir, we have a situation,\" Oakley Goetz whispered urgently.",
+    "doc_idx": 1,
+    "chunk_idx": 5,
+    "global_id": "1_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival, overhears a snippet of conversation about something missing, but is interrupted before he can investigate.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

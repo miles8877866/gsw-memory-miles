@@ -1,0 +1,17 @@
+{
+    "text": "The actors' performances took on a frenzied quality, the actors' movements becoming increasingly erratic. The woman found herself on the edge of her seat, the woman's breath coming in short, sharp gasps. The lines between reality and fiction began to blur, the events on stage seeming to mirror some hidden truth.",
+    "doc_idx": 8,
+    "chunk_idx": 9,
+    "global_id": "8_9",
+    "start_sentence": 27,
+    "end_sentence": 30,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the escalating tension and increasingly surreal nature of the play's second act, heightening the protagonist's sense of unease and blurring the lines between reality and fiction.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

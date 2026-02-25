@@ -1,0 +1,28 @@
+{
+    "text": "A fleeting thought of the date, January 03, 2026, flashed through the woman's mind. Was there significance to January 03, 2026. The question lingered as the performance reached its climax, the tension in the room reaching a fever pitch.",
+    "doc_idx": 8,
+    "chunk_idx": 10,
+    "global_id": "8_10",
+    "start_sentence": 30,
+    "end_sentence": 33,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "During the play's climax, the woman has a sudden, unexplained thought about the date January 3, 2026, adding to her growing unease.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "January 03, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "the room"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"January 03, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"the room\"\n    }\n]\n}\n```"
+    }
+}

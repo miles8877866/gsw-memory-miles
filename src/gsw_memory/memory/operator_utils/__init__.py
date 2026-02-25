@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Memory Operators.
 
 This module contains the individual operator components for the GSW memory system.
@@ -20,3 +20,4 @@ __all__ = [
     "extract_json_from_output",
     "parse_gsw",
 ]
+

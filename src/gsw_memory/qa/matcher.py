@@ -1,4 +1,4 @@
-"""
+﻿"""
 Entity matching for finding GSW entities that correspond to extracted question entities.
 
 This module implements the second step of the Q&A pipeline:
@@ -132,3 +132,4 @@ class EntityMatcher:
                 connected_entities.append(connected_entity)
         
         return connected_entities
+

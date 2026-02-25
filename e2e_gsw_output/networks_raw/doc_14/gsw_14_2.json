@@ -1,0 +1,17 @@
+{
+    "text": "The juxtaposition of nature and sleek architecture created an almost romantic ambiance, despite the professional nature of the event. Meredith Gardner approached Logan Diaz with a dazzling smile, offering a flute of champagne. Meredith Gardner's and Logan Diaz's fingers brushed as Logan Diaz accepted the drink, sending a small shiver down Logan Diaz's spine.",
+    "doc_idx": 14,
+    "chunk_idx": 2,
+    "global_id": "14_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Logan Diaz attends a networking event at High Line and is captivated by the atmosphere.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

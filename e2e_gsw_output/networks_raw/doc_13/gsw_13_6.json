@@ -1,0 +1,17 @@
+{
+    "text": "The familiar melody washed over Zoe Brown, transporting Zoe Brown to another world. Zoe Brown lost herself in the music, unaware of the intense gaze fixed upon Zoe Brown from the shadows. Alondra Wilkinson watched, transfixed, as Zoe Brown's performance reached its crescendo.",
+    "doc_idx": 13,
+    "chunk_idx": 6,
+    "global_id": "13_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Zoe Brown is performing on stage, lost in the music, while being watched intently by Alondra Wilkinson.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

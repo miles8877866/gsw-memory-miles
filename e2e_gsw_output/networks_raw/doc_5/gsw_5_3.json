@@ -1,0 +1,17 @@
+{
+    "text": "The hackathon challenge pushed Benjamin Green and Genevieve Burgin to their limits, but in those moments of shared struggle and triumph, Benjamin Green felt a connection deeper than lines of code. As April 09, 2026 drew to a close, Benjamin Green stood before the assembled crowd, Benjamin Green's project presentation met with thunderous applause. The day had been a whirlwind of creativity and collaboration, but it was the stolen moments with Genevieve Burgin that left Benjamin Green's heart racing.",
+    "doc_idx": 5,
+    "chunk_idx": 3,
+    "global_id": "5_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Benjamin Green meets Genevieve Burgin at the hackathon and they work together, forming a connection.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

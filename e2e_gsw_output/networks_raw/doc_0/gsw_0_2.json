@@ -1,0 +1,17 @@
+{
+    "text": "Noa Middleton, the lead instructor, nodded approvingly, a hint of a smile playing at the corners of Noa Middleton's mouth. As the workshop progressed, the air grew thick with tension. The obstacles became increasingly complex, testing the limits of even the most seasoned traceurs.",
+    "doc_idx": 0,
+    "chunk_idx": 2,
+    "global_id": "0_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the parkour workshop, focusing on the increasing difficulty of the obstacles and the growing tension among the participants as the lead instructor observes.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

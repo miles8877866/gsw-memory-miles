@@ -1,0 +1,17 @@
+{
+    "text": "Cora Xiong, sporting a shirt that proclaimed \"Hoppy and I Know It,\" had become entangled in a heated debate about the merits of West Coast versus New England style IPAs. Scarlett Thomas rushed over, praying Scarlett Thomas could diffuse the situation before the situation escalated into a full-blown hop riot. \"Gentlemen, gentlemen,\" Scarlett Thomas intervened, stepping between the two beer warriors.",
+    "doc_idx": 4,
+    "chunk_idx": 4,
+    "global_id": "4_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Scarlett Thomas's experience at a chaotic craft beer festival, specifically detailing her intervention in a brewing dispute.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "text": "Just as Jonah Kramer had conducted ice-themed music performances, these sculptors had found a way to express beauty through a medium as fleeting as ice. The parallel struck Jonah Kramer deeply, igniting a spark of inspiration for future compositions. As the ice sculpture exhibition came to a close on May 11, 2026, Jonah Kramer lingered in Washington Square Park, reluctant to leave.",
+    "doc_idx": 2,
+    "chunk_idx": 10,
+    "global_id": "2_10",
+    "start_sentence": 30,
+    "end_sentence": 33,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer reflects on the ice sculpture exhibition, drawing parallels to his own artistic endeavors and feeling inspired as the event concludes.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "May 11, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Washington Square Park"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"May 11, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Washington Square Park\"\n    }\n]\n}\n```"
+    }
+}

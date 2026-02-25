@@ -1,0 +1,17 @@
+{
+    "text": "Levi Rodriguez stepped up to the podium, Levi Rodriguez's heart racing beneath Levi Rodriguez's carefully composed exterior. The spotlight illuminated Levi Rodriguez's face, casting long shadows across the floor. Levi Rodriguez cleared his throat, acutely aware of the hundreds of eyes fixed upon Levi Rodriguez.",
+    "doc_idx": 6,
+    "chunk_idx": 4,
+    "global_id": "6_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Levi Rodriguez is about to begin his presentation at the planetarium.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

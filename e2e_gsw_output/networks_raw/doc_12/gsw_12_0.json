@@ -1,0 +1,33 @@
+{
+    "text": "The crisp autumn air whispered of change as Henry Reed stepped into the dimly lit gallery on September 22, 2026. Port Jefferson's annual photography exhibition buzzed with anticipation, the walls adorned with striking images that seemed to pulse with life. As Henry Reed moved through the space, Henry Reed's keen eyes darted from frame to frame, analyzing composition and light.",
+    "doc_idx": 12,
+    "chunk_idx": 0,
+    "global_id": "12_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt introduces the protagonist, Henry Reed, and sets the scene at a photography exhibition where he senses something is wrong.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "September 22, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "gallery"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Port Jefferson"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"September 22, 2026\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"gallery\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"Port Jefferson\"\n    }\n  ]\n}\n```"
+    }
+}

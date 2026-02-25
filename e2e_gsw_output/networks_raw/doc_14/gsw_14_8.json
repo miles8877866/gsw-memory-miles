@@ -1,0 +1,17 @@
+{
+    "text": "With one last glance at the captivating skyline, Logan Diaz stepped into the cool night air, Logan Diaz's mind already racing with possibilities for the future.",
+    "doc_idx": 14,
+    "chunk_idx": 8,
+    "global_id": "14_8",
+    "start_sentence": 24,
+    "end_sentence": 25,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding paragraph, describing Logan Diaz's departure from the networking event and his reflections on the evening.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

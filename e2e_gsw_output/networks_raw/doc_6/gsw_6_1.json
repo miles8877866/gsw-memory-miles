@@ -1,0 +1,17 @@
+{
+    "text": "As the clock struck eight on December 26, 2026, Levi Rodriguez adjusted his tie and stepped into the dim light of the planetarium. The air was thick with the scent of polished wood and expectation. Levi Rodriguez's fingers brushed against the cool metal of the microphone as Levi Rodriguez prepared to address the gathered stargazers.",
+    "doc_idx": 6,
+    "chunk_idx": 1,
+    "global_id": "6_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Levi Rodriguez arrives at the planetarium and prepares to address the audience.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

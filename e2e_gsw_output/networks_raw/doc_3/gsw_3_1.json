@@ -1,0 +1,33 @@
+{
+    "text": "As Chloe Castillo moved through Chloe Castillo's warm-up routine, Chloe Castillo couldn't shake the feeling that something was off. The usual bustle of the city seemed muffled, distant, as if the park had been cut off from the rest of the world. On May 11, 2026, Chloe Castillo found herself standing at the entrance of the High Line, Chloe Castillo's heart racing with a mixture of excitement and inexplicable dread.",
+    "doc_idx": 3,
+    "chunk_idx": 1,
+    "global_id": "3_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the protagonist, Chloe Castillo, arriving at the High Line for a parkour workshop and sensing an unsettling atmosphere before supernatural events begin.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "May 11, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "the entrance of the High Line"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "the park"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"May 11, 2026\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"the entrance of the High Line\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"the park\"\n    }\n  ]\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "We've all been there,\" Axl Mims reassured Owen Thomas, before effortlessly vaulting over the wall herself. As the workshop drew to a close, Owen Thomas found Owen Thomas grinning despite the array of bumps and bruises Owen Thomas had acquired. Owen Thomas may not have mastered parkour, but Owen Thomas had certainly mastered the art of falling with style.",
+    "doc_idx": 17,
+    "chunk_idx": 8,
+    "global_id": "17_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Owen Thomas attempts a vault during a parkour workshop at Snug Harbor Cultural Center and fails spectacularly.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

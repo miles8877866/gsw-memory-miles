@@ -1,4 +1,4 @@
-"""
+﻿"""
 Bipartite graph creation and visualization for GSW structures.
 
 This module provides functionality to convert GSW structures into NetworkX graphs
@@ -451,3 +451,4 @@ def create_and_save_gsw_visualization(gsw: GSWStructure, output_path: str) -> No
     # Save to file
     with open(output_path, 'w') as f:
         json.dump(cytoscape_data, f, indent=2)
+

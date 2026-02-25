@@ -1,4 +1,4 @@
-"""
+﻿"""
 GSW Memory Aggregators.
 
 This module provides aggregation interfaces and implementations for transforming
@@ -13,3 +13,4 @@ __all__ = [
     "AggregatedView", 
     "EntitySummaryAggregator",
 ]
+

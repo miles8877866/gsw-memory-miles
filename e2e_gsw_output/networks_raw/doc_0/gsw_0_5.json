@@ -1,0 +1,17 @@
+{
+    "text": "As midnight approached, the workshop took on a more sinister tone. Noa Middleton announced the final challenge \u2013 a complex route through a maze-like structure shrouded in darkness. The participants exchanged nervous glances, the thrill of the unknown mingling with a growing sense of unease.",
+    "doc_idx": 0,
+    "chunk_idx": 5,
+    "global_id": "0_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "The parkour workshop is nearing its end, and the instructors introduce a final, more ominous challenge.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "text": "The crowd began to close in, their faces morphing into grotesque masks of bygone eras. In that moment, Hazel Lewis understood the terrible truth \u2013 the Brooklyn Bridge had become a nexus of temporal chaos, trapping them all in a nightmarish loop of history. As the world around Hazel Lewis began to fade and blur, merging past and present into a terrifying tapestry of horror, Hazel Lewis caught a glimpse of a nearby newspaper stand.",
+    "doc_idx": 10,
+    "chunk_idx": 8,
+    "global_id": "10_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk describes the climax of the story, where Hazel realizes the historical reenactment has become a temporal anomaly, trapping everyone on the Brooklyn Bridge in a time loop.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Brooklyn Bridge"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Brooklyn Bridge\"\n    }\n]\n}\n```"
+    }
+}

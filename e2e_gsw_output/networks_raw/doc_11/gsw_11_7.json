@@ -1,0 +1,23 @@
+{
+    "text": "It was September 22, 2026, and on this night, Chloe Castillo had woven dreams into reality, leaving an indelible mark on the tapestry of time.",
+    "doc_idx": 11,
+    "chunk_idx": 7,
+    "global_id": "11_7",
+    "start_sentence": 21,
+    "end_sentence": 22,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the concluding sentence of the passage, summarizing the impact of Chloe Castillo's fantastical fashion show.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "September 22, 2026"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"September 22, 2026\"\n    }\n]\n}\n```"
+    }
+}

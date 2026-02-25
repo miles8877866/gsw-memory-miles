@@ -1,0 +1,17 @@
+{
+    "text": "Throughout the evening, Logan Diaz exchanged industry insights with a diverse array of professionals, each interaction leaving Logan Diaz more invigorated than the last. As the event drew to a close, Logan Diaz lingered, reluctant to leave the enchanting atmosphere behind. The night had been filled with promise \u2013 of new partnerships, of innovative ideas, and perhaps, of something more.",
+    "doc_idx": 14,
+    "chunk_idx": 7,
+    "global_id": "14_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Logan Diaz's successful networking at the event, highlighting the valuable interactions and the promising atmosphere as the evening concludes.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

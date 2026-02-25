@@ -1,0 +1,17 @@
+{
+    "text": "As the final words left Mila Gonzalez's lips, a hush fell over the crowd. For a moment, time stood still, suspended in the space between reality and imagination. Then, as if awaking from a shared dream, the spectators erupted into thunderous applause.",
+    "doc_idx": 18,
+    "chunk_idx": 2,
+    "global_id": "18_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the immediate aftermath of Mila Gonzalez's performance, focusing on the audience's reaction.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

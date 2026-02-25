@@ -1,0 +1,17 @@
+{
+    "text": "\"One of the posters is missing. The Hitchcock original. \" Henry Reed felt the blood drain from Henry Reed's face.",
+    "doc_idx": 1,
+    "chunk_idx": 8,
+    "global_id": "1_8",
+    "start_sentence": 24,
+    "end_sentence": 27,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, the organizer of a film festival on a bridge, learns that a valuable Hitchcock poster is missing from the exhibition.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

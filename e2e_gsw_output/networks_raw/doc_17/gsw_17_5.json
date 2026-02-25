@@ -1,0 +1,23 @@
+{
+    "text": "\" Owen Thomas's stomach lurched. Owen Thomas had barely mastered walking in a straight line, and now the parkour instructors expected Owen Thomas to leap over obstacles. Approaching the wall at Snug Harbor Cultural Center, Owen Thomas took a deep breath.",
+    "doc_idx": 17,
+    "chunk_idx": 5,
+    "global_id": "17_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After a break from spatial awareness exercises, the parkour group moves outside to practice vaults, and Owen Thomas expresses his anxiety about having to jump over obstacles.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Snug Harbor Cultural Center"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Snug Harbor Cultural Center\"\n    }\n]\n}\n```"
+    }
+}

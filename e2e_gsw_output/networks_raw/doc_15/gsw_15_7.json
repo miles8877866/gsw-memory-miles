@@ -1,0 +1,28 @@
+{
+    "text": "Julian Ross moved from team to team, offering advice and encouragement, all the while keeping a watchful eye for any signs of further security breaches. In the early hours of the morning, Julian Ross found himself standing before the massive windows of the Woolworth Building, gazing out at the city that never sleeps. The hackathon continued behind Julian Ross, a microcosm of human ingenuity and perseverance.",
+    "doc_idx": 15,
+    "chunk_idx": 7,
+    "global_id": "15_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "After helping contain a security breach at the hackathon, Julian Ross continues to monitor the event, offering guidance to the teams and remaining vigilant for further threats.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Woolworth Building"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "early hours of the morning"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Woolworth Building\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"early hours of the morning\"\n    }\n]\n}\n```"
+    }
+}

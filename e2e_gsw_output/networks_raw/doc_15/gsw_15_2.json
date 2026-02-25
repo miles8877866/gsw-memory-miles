@@ -1,0 +1,17 @@
+{
+    "text": "As Julian Ross made his way to the designated area, Julian Ross participated in mentoring sessions, sharing Julian Ross's expertise with wide-eyed newcomers and seasoned professionals alike. The weight of responsibility settled on Julian Ross's shoulders, knowing that Julian Ross's guidance could shape the trajectory of groundbreaking projects. Hezekiah Bean approached Julian Ross, a tablet in hand and a furrowed brow betraying concern.",
+    "doc_idx": 15,
+    "chunk_idx": 2,
+    "global_id": "15_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Julian Ross arrives at the hackathon, mentors participants, and is then approached by Hezekiah Bean with a problem.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

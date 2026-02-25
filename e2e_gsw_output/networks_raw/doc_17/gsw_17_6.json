@@ -1,0 +1,17 @@
+{
+    "text": "Owen Thomas visualized Owen Thomas gracefully clearing the barrier, landing cat-like on the other side. Reality, however, had other plans. Owen Thomas's foot caught on the edge, sending Owen Thomas tumbling head over heels.",
+    "doc_idx": 17,
+    "chunk_idx": 6,
+    "global_id": "17_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Owen Thomas's attempt to vault over a wall during a parkour workshop, contrasting his imagined success with his actual clumsy fall.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "Henry Reed noticed Amira Hayes studying a particular photograph with unusual intensity, jotting notes in a worn leather notebook. The detective in Henry Reed couldn't resist the urge to investigate further. Weaving through the crowd, Henry Reed made his way towards the intriguing scene, Henry Reed's instincts telling Henry Reed that this seemingly innocent exhibition might be concealing something far more sinister beneath Port Jefferson's annual photography exhibition's polished surface.",
+    "doc_idx": 12,
+    "chunk_idx": 3,
+    "global_id": "12_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Henry Reed's growing suspicion that something is amiss at the photography exhibition, focusing on Amira Hayes's behavior as a catalyst for his investigation.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

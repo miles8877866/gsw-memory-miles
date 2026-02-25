@@ -1,0 +1,17 @@
+{
+    "text": "The final notes faded into the night, replaced by thunderous applause. Zoe Brown bowed, cheeks flushed with exhilaration, and made Zoe Brown's way off stage. As the next performer took Zoe Brown's place, Zoe Brown weaved through the crowd, accepting congratulations from strangers and friends alike.",
+    "doc_idx": 13,
+    "chunk_idx": 7,
+    "global_id": "13_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the immediate aftermath of Zoe Brown's performance at Hither Hills State Park's open mic night.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

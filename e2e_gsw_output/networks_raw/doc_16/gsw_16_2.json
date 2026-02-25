@@ -1,0 +1,17 @@
+{
+    "text": "Dakari Liebert, the event organizer, bustled past the man who once conducted ice preservation talks, clipboard in hand and worry etched across her face. \"The temperature's rising faster than we anticipated,\" Dakari Liebert muttered, more to herself than to the man who once conducted ice preservation talks. The man who once conducted ice preservation talks nodded solemnly, understanding all too well the fragility of these frozen masterpieces.",
+    "doc_idx": 16,
+    "chunk_idx": 2,
+    "global_id": "16_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt introduces Dakari Liebert, the event organizer, and highlights the rising temperature's threat to the ice sculptures, emphasizing the protagonist's understanding of the situation.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

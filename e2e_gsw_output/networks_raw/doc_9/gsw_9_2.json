@@ -1,0 +1,17 @@
+{
+    "text": "The lead actress's voice, rich and melodious, filled the air, weaving a tale of love and loss that seemed to resonate with every soul in the audience. Jackson Ramos felt a tightening in Jackson Ramos's chest, a premonition of the tragedy to come. As the performance progressed, the weight of the narrative bore down upon the spectators.",
+    "doc_idx": 9,
+    "chunk_idx": 2,
+    "global_id": "9_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the beginning of the play and Jackson Ramos's initial emotional reaction to it.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n  \"spatio_temporal_links\": []\n}\n```"
+    }
+}

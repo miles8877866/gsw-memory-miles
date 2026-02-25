@@ -1,0 +1,28 @@
+{
+    "text": "Reid Blunt reached out in wonder, Reid Blunt's fingers brushing against the delicate wings, only to find Reid Blunt's own clothing transformed into something magical and new. When the last model disappeared in a shower of sparks, and the final notes of the otherworldly music faded away, Chloe Castillo knew Chloe Castillo had changed the face of fashion forever. As the applause thundered through the hall, Chloe Castillo allowed herself a moment of reflection.",
+    "doc_idx": 11,
+    "chunk_idx": 6,
+    "global_id": "11_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the climax and immediate aftermath of Chloe Castillo's groundbreaking fashion show, focusing on the magical effects on the audience and Castillo's realization of her transformative impact.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "hall"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"hall\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+    }
+}

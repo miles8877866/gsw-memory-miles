@@ -1,0 +1,17 @@
+{
+    "text": "The harsh glare of the floodlights cast long shadows across the rugged terrain. Adrenaline coursed through the participant's veins as the participant surveyed the daunting obstacles before the participant. The parkour workshop had drawn a diverse crowd, each participant eager to push their limits and master the urban art of movement.",
+    "doc_idx": 0,
+    "chunk_idx": 0,
+    "global_id": "0_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening scene, setting the stage for a parkour workshop.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

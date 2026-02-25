@@ -1,0 +1,23 @@
+{
+    "text": "Sunlight streamed through the ornate windows of Snug Harbor Cultural Center, casting a warm glow on the faces of passionate coders huddled around laptops. Benjamin Green found himself drawn to Genevieve Burgin, Benjamin Green's and Genevieve Burgin's eyes meeting across the room in a moment that felt both fleeting and eternal. As Benjamin Green and Genevieve Burgin worked side by side, fingers flying across keyboards, Benjamin Green couldn't help but steal glances at Genevieve Burgin's profile, admiring the determined set of Genevieve Burgin's jaw and the way Genevieve Burgin's brow furrowed in concentration.",
+    "doc_idx": 5,
+    "chunk_idx": 2,
+    "global_id": "5_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Benjamin Green attends a hackathon, forms teams, and begins to notice Genevieve Burgin.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "Snug Harbor Cultural Center"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"Snug Harbor Cultural Center\"\n    }\n]\n}\n```"
+    }
+}

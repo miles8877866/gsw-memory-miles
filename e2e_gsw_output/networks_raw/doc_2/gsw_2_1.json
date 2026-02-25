@@ -1,0 +1,17 @@
+{
+    "text": "Karsyn Schaeffer approached Jonah Kramer, Karsyn Schaeffer's smile as bright as the sunlight glinting off the ice. \"Beautiful, isn't it. \" Karsyn Schaeffer remarked, gesturing towards a half-finished swan, the swan's graceful neck stretching towards the sky.",
+    "doc_idx": 2,
+    "chunk_idx": 1,
+    "global_id": "2_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer is observing ice sculptures in Washington Square Park.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

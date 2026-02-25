@@ -1,0 +1,23 @@
+{
+    "text": "As the models passed, the very air seemed to bend and twist, creating swirling patterns of color and light that left the audience spellbound. At the American Museum of Natural History, Chloe Castillo had transformed the space into a realm where fashion and fantasy collided. Ancient dinosaur skeletons wore tailored jackets of shimmering scales, while prehistoric plants burst into bloom, their petals forming exquisite hats and accessories.",
+    "doc_idx": 11,
+    "chunk_idx": 4,
+    "global_id": "11_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the magical fashion show Chloe Castillo is putting on, focusing on the otherworldly models and the transformation of the museum setting.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "American Museum of Natural History"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"American Museum of Natural History\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "text": "The air seemed to thicken, the cathedral's vast space suddenly feeling claustrophobic. As the first act came to a close, the woman recalled how Mila Gonzalez discussed audience interaction earlier, wondering if audience interaction would come into play. The thought barely had time to form before Nylah Zavala, another actor, broke the fourth wall, addressing the audience directly.",
+    "doc_idx": 8,
+    "chunk_idx": 5,
+    "global_id": "8_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the rising tension during the play's first act, culminating in an actor breaking the fourth wall and directly addressing the audience, which the protagonist finds unsettling.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "cathedral"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "null"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"cathedral\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"null\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,4 +1,4 @@
-"""
+﻿"""
 Entity summary aggregator for GSW structures.
 
 This module implements an aggregator that creates chronological summaries
@@ -6,6 +6,7 @@ of entities within a GSW, supporting both static pre-computation and
 dynamic query-driven generation with efficient batching.
 """
 
+import os
 import json
 from collections import defaultdict
 from typing import Any, Dict, List, Optional
@@ -21,7 +22,15 @@ class GSWEntitySummarizer(curator.LLM):
     """Curator class for generating entity summaries from GSW data."""
 
     return_completions_object = True
-    require_all_responses = False  # Allow some requests to fail
+    require_all_responses = False
+
+    def __init__(self, **kwargs):
+        # Pop parameters that curator doesn't like in __init__
+        kwargs.pop("max_concurrent_requests", None)
+        kwargs.pop("require_all_responses", None)
+        
+        super().__init__(**kwargs)
+        self.require_all_responses = False
 
     def prompt(self, input_data):
         """Create the prompt for the LLM summarizer."""
@@ -68,7 +77,7 @@ class EntitySummaryAggregator(BaseAggregator):
         """
         super().__init__(gsw)
         self.llm_config = llm_config or {
-            "model_name": "gpt-4o",
+            "model_name": "gemini/gemini-2.0-flash",
             "generation_params": {"temperature": 0.0, "max_tokens": 500},
         }
         self._entity_map = {entity.id: entity.name for entity in gsw.entity_nodes}
@@ -260,8 +269,25 @@ class EntitySummaryAggregator(BaseAggregator):
             f"Generating summaries for {len(summarizer_inputs)} entities using {self.llm_config['model_name']}..."
         )
 
-        # Batch process all entities
-        summarization_results = summarizer(summarizer_inputs)
+        # Batch process all entities (Sequential fallback for Windows/Robustness)
+        if os.name == 'nt':
+            print(f"--- Generating {len(summarizer_inputs)} summaries sequentially ---")
+            from tqdm import tqdm
+            summarization_results_list = []
+            for inp in tqdm(summarizer_inputs, desc="Summarizing"):
+                try:
+                    res = summarizer([inp])
+                    summarization_results_list.extend(res.dataset)
+                except Exception as e:
+                    print(f"Warning: Summary generation failed for entity: {inp.get('entity_name')}... Error: {e}")
+            
+            # Mock the curator Response object structure
+            class MockResponse:
+                def __init__(self, dataset):
+                    self.dataset = dataset
+            summarization_results = MockResponse(summarization_results_list)
+        else:
+            summarization_results = summarizer(summarizer_inputs)
 
         # Convert results to dictionary format
         summary_map = {}
@@ -510,3 +536,4 @@ class EntitySummaryAggregator(BaseAggregator):
             prompt_text.append("")  # Add space between chunks
 
         return "\n".join(prompt_text)
+

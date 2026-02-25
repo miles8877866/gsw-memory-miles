@@ -1,0 +1,17 @@
+{
+    "text": "Tears glistened on cheeks throughout the theater, illuminated by the soft glow of the stage lights. Jackson Ramos gripped the armrests of Jackson Ramos's seat, knuckles white with tension, as the story hurtled towards its inevitable conclusion. The air grew thick with shared grief, the collective heartbreak of hundreds of strangers united in their empathy for the characters' plight.",
+    "doc_idx": 9,
+    "chunk_idx": 4,
+    "global_id": "9_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk describes the audience's emotional reaction, particularly Jackson Ramos's, as the tragic play nears its climax.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

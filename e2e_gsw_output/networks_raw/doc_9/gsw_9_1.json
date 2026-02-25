@@ -1,0 +1,28 @@
+{
+    "text": "As the first actor stepped into the spotlight, a hush fell over the theater, enveloping everyone in a cocoon of anticipation. Jackson Ramos leaned forward in his seat, Jackson Ramos's eyes fixed on the stage. Earlier that day, Jackson Ramos discussed theater funding with Israel Gallo, but now Jackson Ramos's mind was consumed by the unfolding drama before Jackson Ramos.",
+    "doc_idx": 9,
+    "chunk_idx": 1,
+    "global_id": "9_1",
+    "start_sentence": 3,
+    "end_sentence": 6,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes the beginning of a play at the High Line theater, focusing on Jackson Ramos's anticipation and absorption in the performance, contrasting it with his earlier discussion about theater funding.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "theater"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "Earlier that day"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"theater\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"Earlier that day\"\n    }\n]\n}\n```"
+    }
+}

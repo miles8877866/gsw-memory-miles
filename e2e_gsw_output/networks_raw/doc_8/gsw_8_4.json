@@ -1,0 +1,17 @@
+{
+    "text": "During a particularly tense moment, the woman noticed Josephine Gaither shift uncomfortably in the seat next to the woman. The woman and Josephine Gaither's eyes met briefly, a flicker of shared unease passing between them. The woman turned her attention back to the stage, but couldn't shake the feeling that something was off.",
+    "doc_idx": 8,
+    "chunk_idx": 4,
+    "global_id": "8_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "The woman is watching a play and begins to feel that something is amiss, noticing a shared unease with another audience member.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

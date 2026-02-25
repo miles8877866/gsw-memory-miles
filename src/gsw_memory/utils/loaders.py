@@ -1,4 +1,4 @@
-"""
+﻿"""
 Simple loaders for existing GSW-Memory evaluation log data.
 
 This module provides utilities to load already-processed data from evaluation
@@ -65,7 +65,7 @@ def load_operator_outputs(log_dir: Union[str, Path]) -> List[Dict[str, Dict]]:
                 
             all_documents_data.append(reconstructed_chunks)
             
-        print(f"✅ Loaded operator outputs: {len(all_documents_data)} documents, "
+        print(f"??Loaded operator outputs: {len(all_documents_data)} documents, "
               f"{sum(len(doc) for doc in all_documents_data)} chunks")
         
         return all_documents_data
@@ -102,7 +102,7 @@ def load_reconciled_gsw(log_dir: Union[str, Path]) -> GSWStructure:
         # Convert JSON back to GSWStructure
         reconciled_gsw = GSWStructure.model_validate(data)
         
-        print(f"✅ Loaded reconciled GSW: {len(reconciled_gsw.entity_nodes)} entities, "
+        print(f"??Loaded reconciled GSW: {len(reconciled_gsw.entity_nodes)} entities, "
               f"{len(reconciled_gsw.verb_phrase_nodes)} verb phrases")
         
         return reconciled_gsw
@@ -146,7 +146,7 @@ def load_entity_summaries(log_dir: Union[str, Path]) -> Dict[str, str]:
                 # Handle case where it's just the summary text (legacy format)
                 summaries[entity_id] = {"summary": str(entity_data)}
                 
-        print(f"✅ Loaded entity summaries: {len(summaries)} entities")
+        print(f"??Loaded entity summaries: {len(summaries)} entities")
         
         return summaries
         
@@ -209,7 +209,7 @@ def load_from_logs(log_dir: Union[str, Path]) -> Dict[str, any]:
     if not result["available_stages"]:
         raise LoaderError(f"No valid evaluation data found in {log_dir}")
         
-    print(f"📁 Loaded from {log_dir}")
+    print(f"?? Loaded from {log_dir}")
     print(f"   Available stages: {', '.join(result['available_stages'])}")
     
     return result
@@ -254,7 +254,7 @@ def print_log_summary(log_dir: Union[str, Path]) -> None:
     """
     log_dir = Path(log_dir)
     
-    print(f"\n📊 Log Summary: {log_dir.name}")
+    print(f"\n?? Log Summary: {log_dir.name}")
     print("=" * 60)
     
     # Check each stage
@@ -269,14 +269,14 @@ def print_log_summary(log_dir: Union[str, Path]) -> None:
     for stage_name, file_path in stages.items():
         if file_path.exists():
             file_size = file_path.stat().st_size
-            print(f"✅ {stage_name:<20} {file_size:>10,} bytes")
+            print(f"??{stage_name:<20} {file_size:>10,} bytes")
         else:
-            print(f"❌ {stage_name:<20} {'Not found':>15}")
+            print(f"??{stage_name:<20} {'Not found':>15}")
             
     # Read README if available
     readme_file = log_dir / "README.md"
     if readme_file.exists():
-        print(f"\n📖 README.md available")
+        print(f"\n?? README.md available")
     
     print()
 
@@ -291,3 +291,4 @@ if __name__ == "__main__":
             print_log_summary(log_dir)
     else:
         print("No evaluation logs found")
+

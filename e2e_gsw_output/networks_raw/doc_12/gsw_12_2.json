@@ -1,0 +1,28 @@
+{
+    "text": "Yet even as Henry Reed spoke, Henry Reed's mind raced, piecing together clues from the whispers and shadows that danced at the edges of Henry Reed's vision. The scent of developing chemicals lingered in the air, a reminder of the darker room where secrets could be developed and exposed. As the evening wore on, the atmosphere grew thick with unspoken tension.",
+    "doc_idx": 12,
+    "chunk_idx": 2,
+    "global_id": "12_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Henry Reed, a detective-turned-photographer, attends a photography exhibition in Port Jefferson and notices suspicious behavior, fueling his suspicion that something sinister is hidden beneath the surface of the event. This chunk describes Henry's internal thoughts and growing unease as he observes the scene.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "darker room"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "evening"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"darker room\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"evening\"\n    }\n]\n}\n```"
+    }
+}

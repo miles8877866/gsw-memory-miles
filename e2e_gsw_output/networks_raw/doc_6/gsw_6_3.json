@@ -1,0 +1,17 @@
+{
+    "text": "Levi Rodriguez nodded, Levi Rodriguez's gaze fixed on a distant point. \"Yes, the stars have aligned for us,\" Levi Rodriguez replied, the double meaning of Levi Rodriguez's words hanging in the air between Quill Womack and Levi Rodriguez. As Quill Womack moved away, Levi Rodriguez couldn't shake the feeling that something was amiss, a cosmic irregularity in the carefully planned evening.",
+    "doc_idx": 6,
+    "chunk_idx": 3,
+    "global_id": "6_3",
+    "start_sentence": 9,
+    "end_sentence": 12,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Levi Rodriguez is about to give a presentation at the planetarium when Quill Womack approaches him and makes a comment about the crowd.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "Owen Thomas landed in an ungainly heap, leaves stuck in Owen Thomas's hair and Owen Thomas's dignity thoroughly bruised. Axl Mims, a tattooed woman built like a gymnast, helped Owen Thomas up, stifling a laugh. \"Don't worry, mate.",
+    "doc_idx": 17,
+    "chunk_idx": 7,
+    "global_id": "17_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Owen Thomas attempts a vault over a wall at a parkour workshop and fails spectacularly.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "The participant took a deep breath, steeling the participant for what lay ahead. The maze was a cacophony of creaks and groans, every shadow seeming to hide a potential threat. The participant moved swiftly, the participant's muscles burning with exertion as the participant vaulted over walls and slid under low-hanging beams.",
+    "doc_idx": 0,
+    "chunk_idx": 6,
+    "global_id": "0_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "The participants are about to enter a maze as the final challenge of the parkour workshop.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

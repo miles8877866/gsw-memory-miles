@@ -1,0 +1,28 @@
+{
+    "text": "As Mila Gonzalez made Mila Gonzalez's way off the stage, the weight of the moment settled upon Mila Gonzalez. It was February 27, 2026, a date that would forever be etched in Mila Gonzalez's memory. The importance of this performance, on this night, in this place, filled Mila Gonzalez with a sense of profound purpose.",
+    "doc_idx": 18,
+    "chunk_idx": 5,
+    "global_id": "18_5",
+    "start_sentence": 15,
+    "end_sentence": 18,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Mila Gonzalez's feelings immediately after a successful and impactful performance, marking it as a significant moment in time.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "February 27, 2026"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "this place"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": \"February 27, 2026\"\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"this place\"\n    }\n]\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "The starry dome of the planetarium glowed with celestial mysteries as the crowd filed in, the crowd's excited whispers echoing off the curved walls. Levi Rodriguez stood at the entrance, observing each face that passed, searching for any sign of recognition or suspicion. The American Museum of Natural History hummed with anticipation, the American Museum of Natural History's halls filled with the promise of cosmic revelations and hidden truths waiting to be uncovered.",
+    "doc_idx": 6,
+    "chunk_idx": 0,
+    "global_id": "6_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening scene, setting the stage at the American Museum of Natural History planetarium where Levi Rodriguez is observing the arriving crowd.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

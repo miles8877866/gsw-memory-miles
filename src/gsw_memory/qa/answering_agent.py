@@ -1,4 +1,4 @@
-import json
+﻿import json
 from typing import Dict, List
 
 from bespokelabs import curator
@@ -10,6 +10,15 @@ class AnsweringAgent(curator.LLM):
     """
 
     return_completions_object = True
+    require_all_responses = False
+
+    def __init__(self, **kwargs):
+        # Pop parameters that curator doesn't like in __init__
+        kwargs.pop("max_concurrent_requests", None)
+        kwargs.pop("require_all_responses", None)
+        
+        super().__init__(**kwargs)
+        self.require_all_responses = False
 
     def prompt(self, input_data):
         """Create a prompt for the LLM to answer a question using entity summaries."""
@@ -112,3 +121,4 @@ class AnsweringAgent(curator.LLM):
         answers = self(questions_with_context)
 
         return answers.dataset
+

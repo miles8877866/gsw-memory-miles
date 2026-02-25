@@ -1,0 +1,17 @@
+{
+    "text": "Jonah Kramer nodded, feeling a flutter in Jonah Kramer's chest as Jonah Kramer and Karsyn Schaeffer's eyes met. The ice sculpture exhibition had only just begun, but already Jonah Kramer sensed this day would be etched in Jonah Kramer's memory forever. As Jonah Kramer and Karsyn Schaeffer wandered among the sculptures, Jonah Kramer found himself drawn to a particular piece \u2013 a frozen waterfall cascading over crystalline rocks.",
+    "doc_idx": 2,
+    "chunk_idx": 2,
+    "global_id": "2_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer meets Karsyn Schaeffer at the ice sculpture exhibition and they begin to explore the art together.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

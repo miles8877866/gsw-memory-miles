@@ -1,0 +1,28 @@
+{
+    "text": "The sultry evening air clung to Zoe Brown's skin as Zoe Brown stepped out of the car, the distant thrum of music pulsing through the darkness. May 07, 2024 had finally arrived, and with it, the promise of an unforgettable night. Zoe Brown smoothed down Zoe Brown's sequined dress, the sequined dress's sparkles catching the dim light from the parking lot lamps.",
+    "doc_idx": 13,
+    "chunk_idx": 0,
+    "global_id": "13_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening paragraph, setting the scene as Zoe Brown arrives at Hither Hills State Park for an open mic night on May 7, 2024.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": "May 07, 2024"
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "parking lot"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": \"May 07, 2024\"\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": \"parking lot\"\n    }\n  ]\n}\n```"
+    }
+}

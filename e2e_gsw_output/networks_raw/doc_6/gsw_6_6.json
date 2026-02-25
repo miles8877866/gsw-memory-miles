@@ -1,0 +1,28 @@
+{
+    "text": "Levi Rodriguez watched closely, noting each response, each reaction. Who among them might hold the key to unraveling the mystery that had brought Levi Rodriguez here. The stars above seemed to wink knowingly, guardians of secrets both cosmic and terrestrial, as Levi Rodriguez navigated the treacherous waters of deception and discovery.",
+    "doc_idx": 6,
+    "chunk_idx": 6,
+    "global_id": "6_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Levi Rodriguez is hosting astronomy trivia at the planetarium, using the event to observe the attendees and identify someone who can help him solve a mystery.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": null\n    },\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"temporal\",\n    \"tag_value\": null\n    }\n]\n}\n```"
+    }
+}

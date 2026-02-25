@@ -1,0 +1,17 @@
+{
+    "text": "As the lights came up and the spell of the performance began to fade, Jackson Ramos knew that the memory of this evening would stay with Jackson Ramos for years to come.",
+    "doc_idx": 9,
+    "chunk_idx": 7,
+    "global_id": "9_7",
+    "start_sentence": 21,
+    "end_sentence": 22,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This chunk concludes the narrative, describing Jackson Ramos's lasting emotional response to the theatrical performance he attended.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "text": "The air hummed with the electric anticipation of innovation as Julian Ross stepped into the bustling atrium. Sleek displays and holographic projections adorned the Art Deco interior, transforming the historic space into a futuristic tech hub. Julian Ross adjusted his augmented reality glasses, scanning the crowd for familiar faces amidst the sea of eager participants.",
+    "doc_idx": 15,
+    "chunk_idx": 0,
+    "global_id": "15_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening scene, introducing the protagonist Julian Ross and setting the stage at a futuristic hackathon in a historic building.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

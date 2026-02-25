@@ -1,0 +1,17 @@
+{
+    "text": "The man who once conducted ice preservation talks watched the children, a bittersweet smile tugging at the man who once conducted ice preservation talks' lips as the man who once conducted ice preservation talks remembered the man who once conducted ice preservation talks' own youthful enthusiasm for the art of ice preservation. It was during a lull in the crowd that Benjamin Green found himself face-to-face with Benjamin Green's own reflection in a particularly smooth ice surface. The years had not been kind; lines of worry and fatigue etched deep furrows across Benjamin Green's brow.",
+    "doc_idx": 16,
+    "chunk_idx": 4,
+    "global_id": "16_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes the main character, a former ice preservation expert, observing children at an ice sculpture exhibition, triggering a moment of reflection on his lost passion and the passage of time.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

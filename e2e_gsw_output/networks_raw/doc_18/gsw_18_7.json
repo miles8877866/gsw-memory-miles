@@ -1,0 +1,17 @@
+{
+    "text": "Mila Gonzalez shivered, not entirely from the chill in the air. The stone beneath Mila Gonzalez's feet seemed to pulse with a newfound energy, as if the very ground had been stirred by Mila Gonzalez's performance. As the crowd began to disperse, murmuring excitedly among themselves, Mila Gonzalez found Mila Gonzalez drawn to the edge of the island.",
+    "doc_idx": 18,
+    "chunk_idx": 7,
+    "global_id": "18_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This passage describes Mila Gonzalez's reaction immediately after a transcendent performance, focusing on a strange energy Mila Gonzalez feels and a sense of foreboding.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

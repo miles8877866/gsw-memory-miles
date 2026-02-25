@@ -1,4 +1,4 @@
-"""
+﻿"""
 Tulving Bench evaluator with flexible interface.
 
 This module provides the main evaluator for Tulving Bench that supports:
@@ -27,7 +27,7 @@ class TulvingBenchEvaluator:
 
     def __init__(
         self,
-        model_name: str = "gpt-4o",
+        model_name: str = "gemini/gemini-2.0-flash",
         generation_params: Optional[Dict[str, Any]] = None,
     ):
         """
@@ -358,3 +358,4 @@ class TulvingBenchEvaluator:
                 print(f"  F1 Score:  {non_empty['f1']:.4f}")
 
         print("=" * 50 + "\n")
+

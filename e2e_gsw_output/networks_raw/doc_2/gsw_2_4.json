@@ -1,0 +1,17 @@
+{
+    "text": "Children laughed and pointed, the children's excitement palpable in the air. Jonah Kramer couldn't help but smile, remembering Jonah Kramer's own childlike wonder at experiencing Jonah Kramer's first ice sculpture exhibition years ago. Now, as an adult, the magic hadn't diminished \u2013 if anything, the magic had grown stronger.",
+    "doc_idx": 2,
+    "chunk_idx": 4,
+    "global_id": "2_4",
+    "start_sentence": 12,
+    "end_sentence": 15,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Jonah Kramer and Karsyn Schaeffer are enjoying the ice sculpture exhibition in Washington Square Park.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

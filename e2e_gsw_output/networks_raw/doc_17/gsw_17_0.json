@@ -1,0 +1,23 @@
+{
+    "text": "The sound of sneakers squeaking against polished floors echoed through the cavernous hall as Owen Thomas conducted spatial awareness exercises. Owen Thomas's lanky frame stretched awkwardly as Owen Thomas attempted to mimic Lilah Hamilton's fluid movements. Lilah Hamilton's graceful leaps and bounds made Owen Thomas feel like a newborn giraffe learning to walk.",
+    "doc_idx": 17,
+    "chunk_idx": 0,
+    "global_id": "17_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt introduces Owen Thomas and his initial struggles with parkour during a spatial awareness exercise led by Lilah Hamilton.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": "cavernous hall"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"cavernous hall\"\n    }\n]\n}\n```"
+    }
+}

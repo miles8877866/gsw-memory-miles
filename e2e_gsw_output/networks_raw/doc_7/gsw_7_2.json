@@ -1,0 +1,28 @@
+{
+    "text": "Sunlight streamed through the tall windows, casting a warm glow on the faces of determined participants. Zoe Brown found herself drawn to a corner where Remy Waterman was gesticulating wildly, explaining a concept with infectious enthusiasm. Remy Waterman's and Zoe Brown's eyes met briefly, and Zoe Brown felt a spark of connection that made Zoe Brown's cheeks flush.",
+    "doc_idx": 7,
+    "chunk_idx": 2,
+    "global_id": "7_2",
+    "start_sentence": 6,
+    "end_sentence": 9,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Zoe Brown's arrival and initial observations at the tech hackathon, including her first encounter with Remy Waterman.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [],
+                "tag_type": "spatial",
+                "tag_value": null
+            },
+            {
+                "linked_entities": [],
+                "tag_type": "temporal",
+                "tag_value": null
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"spatial\",\n      \"tag_value\": null\n    },\n    {\n      \"linked_entities\": [],\n      \"tag_type\": \"temporal\",\n      \"tag_value\": null\n    }\n  ]\n}\n```"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "text": "The other theatergoers seemed oblivious to the undercurrent of danger the woman sensed. The woman scanned the crowd, searching for any sign that others shared the woman's unease. It was then that the woman spotted Mila Gonzalez, engaged in an intense conversation with Nash Ensign near the back of the cathedral.",
+    "doc_idx": 8,
+    "chunk_idx": 7,
+    "global_id": "8_7",
+    "start_sentence": 21,
+    "end_sentence": 24,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "Following a disturbing moment where an actor breaks the fourth wall, the protagonist feels a sense of unease and suspects something is amiss, leading her to observe the other audience members for any sign they share her feelings.",
+    "spacetime": {
+        "spatio_temporal_links": [
+            {
+                "linked_entities": [
+                    "Mila Gonzalez",
+                    "Nash Ensign"
+                ],
+                "tag_type": "spatial",
+                "tag_value": "back of the cathedral"
+            }
+        ],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": [\n    {\n    \"linked_entities\": [\"Mila Gonzalez\", \"Nash Ensign\"],\n    \"tag_type\": \"spatial\",\n    \"tag_value\": \"back of the cathedral\"\n    }\n]\n}\n```"
+    }
+}

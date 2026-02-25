@@ -1,0 +1,17 @@
+{
+    "text": "The icy winds whipped through the park, carrying with them the faint echoes of a man who once conducted ice preservation talks. Now, as the sun struggled to pierce through the overcast sky, that same man stood amidst a gathering crowd, his eyes fixed upon the glistening sculptures before him. The exhibition had drawn visitors from far and wide, their breaths forming misty clouds in the frigid air as they marveled at the frozen artworks.",
+    "doc_idx": 16,
+    "chunk_idx": 0,
+    "global_id": "16_0",
+    "start_sentence": 0,
+    "end_sentence": 3,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This is the opening paragraph, introducing the setting, the central character (a former ice preservation expert), and the ice sculpture exhibition.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}

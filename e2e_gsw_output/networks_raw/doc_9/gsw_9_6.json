@@ -1,0 +1,17 @@
+{
+    "text": "Jackson Ramos rose to Jackson Ramos's feet, joining the standing ovation, Jackson Ramos's hands stinging from the force of Jackson Ramos's clapping. As the actors took their bows, Jackson Ramos felt a bittersweet mixture of catharsis and melancholy. The tragedy had touched something deep within Jackson Ramos, leaving an indelible mark on Jackson Ramos's soul.",
+    "doc_idx": 9,
+    "chunk_idx": 6,
+    "global_id": "9_6",
+    "start_sentence": 18,
+    "end_sentence": 21,
+    "gsw": {
+        "entity_nodes": [],
+        "verb_phrase_nodes": []
+    },
+    "context": "This excerpt describes Jackson Ramos's emotional reaction to the play's ending, including his participation in the standing ovation and the lasting impact of the performance on him.",
+    "spacetime": {
+        "spatio_temporal_links": [],
+        "full_response": "```json\n{\n\"spatio_temporal_links\": []\n}\n```"
+    }
+}
