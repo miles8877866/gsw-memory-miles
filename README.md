@@ -52,14 +52,33 @@ cd gsw-memory
 uv sync --group dev
 ```
 
+### Windows Specific Setup
+If you are developing on Windows, follow these recommendations for stability:
+1. **Dependency Adjustment**: The project defaults to `faiss-gpu` which might be unstable on Windows. We have optimized `pyproject.toml` to use `faiss-cpu` for broader compatibility.
+2. **Sequential Execution**: Due to `bespokelabs-curator` threading limitations on Windows, use the **Sequential Mode** for large evaluations like Tulving Bench to avoid deadlocks.
+
 ## Environment Setup
 
 Create a `.env` file in the project root:
 
 ```env
+# For Gemini (via LiteLLM)
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# For OpenAI (Original)
 OPENAI_API_KEY=your_openai_api_key_here
 VOYAGE_API_KEY=your_voyage_api_key_here  # For embeddings
 ```
+
+## Running on Windows with Gemini
+We have provided a pre-configured script for Windows/Gemini environment:
+```powershell
+python playground/test_tulving_bench_e2e.py
+```
+This script automatically:
+- Switches to `gemini-2.0-flash` model.
+- Uses **Sequential Execution** for all core components (QA, Judge, Summarizer) to ensure stability on Windows.
+- Correctly handles Windows file paths and encoding.
 
 ## Quick Start
 
